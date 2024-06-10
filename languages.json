@@ -30,5 +30,16 @@
     "slo/new_mc.yml": "#1.16.5",
     "slo/party.yml": "#Core",
     "slo/words.yml": "#*"
+  },
+
+  "nl": {
+    "nl/nl.yml": "#*",
+    "nl/game.yml": "#isMaster",
+    "nl/sw.yml": "#isMaster",
+    "nl/legacy_mc.yml": "#*",
+    "nl/lobby.yml": "#isLobby",
+    "nl/new_mc.yml": "#1.16.5",
+    "nl/party.yml": "#Core",
+    "nl/words.yml": "#*"
   }
 }
