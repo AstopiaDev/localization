@@ -7,4 +7,5 @@ so in this open_rewards_menu_description: '§eClick to open the §3Astrona Level
 *'§eClick to open the §3Astrona Leveling §emenu'* part.
 
 # More Contribution Rules
-Do not translate text inside of %% or $$ for example %money% or $prefix$, do not translate that!
+- Do not translate text inside of %% or $$ for example %money% or $prefix$, do not translate that!
+- Leave the color codes alone example where it says §c leave those alone
