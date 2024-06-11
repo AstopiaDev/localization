@@ -1,24 +1,24 @@
 # =======================
 #         General
 # =======================
-prefix: '§b§lASTRONA §8§L> §7'
-discord_link: 'https://discord.gg/astrona'
-store_link: 'https://store.astrona.net'
+prefix: '§b§lSKY§6§lKINGDOMS §8§L> §7'
+discord_link: 'https://discord.gg/WtnPaBuZpK'
+store_link: 'https://skykingdoms.net'
 
 motd: |-
-    §7               §bAstrona Network §3[1.8-1.20]
+    §7               §6Sky Kingdoms §3[1.8-1.20]
     §7                      §7In development...
 motd_maintenance: |-
-    §7               §bAstrona Network §3[1.8-1.20]
+    §7               §6Sky Kingdoms §3[1.8-1.20]
     §7                     §cMAINTENANCE MODE
 motd_devserver: |-
-    §7               §bAstrona Network §3[1.8-1.20]
+    §7               §6Sky Kingdoms §3[1.8-1.20]
     §7                     §bDevelopment Server
 motd_alpha: |-
-    §7               §bAstrona Network §3[1.8-1.20]
+    §7               §6Sky Kingdoms §3[1.8-1.20]
     §7                     §6ALPHA-SERVER
 motd_not_connected: |-
-    §7               §bAstrona Network §3[1.8-1.20]
+    §7               §6Sky Kingdoms §3[1.8-1.20]
     §7                      §cTechnical issues
 core_not_connected: |-
   §cThe main game Coordinator has disconnected :(
