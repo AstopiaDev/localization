@@ -131,7 +131,7 @@ levelup: |-
   §f$big_notify_message_line$
   §f 
   §f                      §a§ke§f §6LEVEL UP §a§ke
-  §f            §7You are now §3Astrona Level §a%level%§7!
+  §f            §7You are now §3Sky Kingdoms Level §a%level%§7!
   §f 
   §f    §7Play games, collect rewards, and complete quests!
   §f 
@@ -173,7 +173,7 @@ vk_group_url: 'vk.com/travellerland'
 vk_support_url: 'vk.me/travellerland'
 website_url: 'www.astrona.net'
 discord: '§d§lDiscord'
-discord_url: 'https://discord.gg/astrona'
+discord_url: 'https://discord.gg/WtnPaBuZpK'
 discord_clicktojoin: |-
   §a §a
   §aJoin our discord server to keep up with updates!
@@ -197,11 +197,11 @@ fallback_server_notify: |-
 
 tab_header: |-
   §r
-  §r §bYou are playing on §3§lASTRONA.NET §r
+  §r §eYou are playing on §6&lSKYKINGDOMS.NET §r
   §r
 tab_footer: |-
   §r
-  §estore.astrona.net
+  §6store.skykingdoms.net
   §r
 
   
