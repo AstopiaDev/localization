@@ -168,7 +168,7 @@ prev_page_name: '§6Previous page'
 next_page_name: '§6Next page'
 go_to_page: '§7Go to page %page%/%max%'
 
-server_name: 'Astrona Network'
+server_name: 'Sky Kingdoms Network'
 vk_group_url: 'vk.com/travellerland'
 vk_support_url: 'vk.me/travellerland'
 website_url: 'www.astrona.net'
@@ -1152,12 +1152,12 @@ rarity_epic: '§5§lEPIC'
 rarity_legendary: '§6§lLEGENDARY'
 
 # rewards
-astrona_experience: 'Astrona Experience'
+astrona_experience: 'Sky Kingdoms Experience'
 reward_coin_mode_name: '§6%amount% §7%mode%'
 reward_coin_name: '§6%amount%'
 reward_gold_name: '§e%amount%'
 reward_dust_name: '§5%amount% mystery dust'
-reward_experience_name: '§3%exp% Astrona Experience'
+reward_experience_name: '§3%exp% Sky Kingdoms Experience'
 reward_game_item_name: '§a%name% §8(§7%category%§8)'
 
 # disguises
