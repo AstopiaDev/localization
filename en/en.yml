@@ -131,7 +131,7 @@ levelup: |-
   §f$big_notify_message_line$
   §f 
   §f                      §a§ke§f §6LEVEL UP §a§ke
-  §f            §7You are now §3Sky Kingdoms Level §a%level%§7!
+  §f            §7You are now §6Sky Kingdoms Level §a%level%§7!
   §f 
   §f    §7Play games, collect rewards, and complete quests!
   §f 
@@ -285,9 +285,9 @@ gamemode_unavailable_timer: "$prefix$You can't change gamemode in fight"
 gamemode_changed: 'Updated your game mode to %mode%'
 gamemode_target_changed: '$prefix$You changed the player gamemode %target%'
 
-right_click: '§e§lRIGHT CLICK'
+right_click: '§7Right-Click'
 shop_icon: '§aShop §7(Right Click)'
-lobby_select_icon: '§aLobby Selector §7(Right Click)'
+lobby_select_icon: '§eLobby Selector §7(Right Click)'
 lobby_select_icon_lore: |-
   §7Right-click to switch between different lobbies!
   §7Use this to stay with your friends.
@@ -381,7 +381,7 @@ settings_splitter_name: '§8⇡ §7Categories'
 settings_splitter_lore: '§8⇣ §7Settings'
 
 clickable_settings_category_lore: '§eClick to view!'
-requires_superstar_to_enable: '§cRequires §6PRO§c+ to enable!'
+requires_superstar_to_enable: '§cRequires §6Zeus to enable!'
 settings_pmprivacy_lore: |-
   §7Options:
   §f§c%arrow-max%Max
