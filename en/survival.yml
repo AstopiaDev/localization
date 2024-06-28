@@ -11,5 +11,5 @@ pack_survival_board_vanilla_wins: '§f Vanilla Wins:§a %deaths%'
 survival_board_metal: '§fMetal »§7 %amount%'
 survival_bees_bossbar_messages: |-
   §fVote Party:§6 %voteparty_votes_recorded%/30
-survival_bees_board_playtime: '§fPlaytime:§b %statistic_hours_played%h'
-survival_bees_board_money: '§6$%vault_eco_balance_formatted%'
+survival_bees_board_playtime: '§fPlaytime »§b %statistic_hours_played%h'
+survival_bees_board_money: '§fMoney »§6$%vault_eco_balance_formatted%'
