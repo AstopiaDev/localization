@@ -273,8 +273,15 @@ lobby_languageselector_self_item_lore: |-
   §7Change language to English.
   §7 
   §7Currently available:
-  §f  * SkyClash
+  §f  * Murder Mystery
+  §f  * Skywars
+  §f  * Skyblock
+  §f  * Skypvp
+  §f  * Survival
   §f  * Bed Wars
+  §f  * Factions
+
+lobby_languageselector_gui: 'Select Language'
   
 
 # My Profile
