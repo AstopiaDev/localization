@@ -436,6 +436,8 @@ lobby_gui_myprofile_languages_lore: |-
   §7Currently available:
   §7  §f• English
   §7  §f• Russian
+  §7  §f• Slovenian
+  §7  §f• Nederlands
   §7 
   §7More languages coming soon!
   §7 
@@ -462,8 +464,12 @@ lobby_gui_myprofile_catstore_lore_2: |-
 
 # Bossbar messages in the main lobby
 lobby_bossbar_messages: |-
-  §b§lFULL RELEASE NOW!
-  §3§lFULL RELEASE NOW!
+  §6§l60% SUMMER SALE OUT NOW!§e§l NEW LOBBY!
+  §c§l60% SUMMER SALE OUT NOW!§a§l NEW LOBBY!
+  §a§lSKYPVP NEW MAP RELEASED!
+  §2§lSKYPVP NEW MAP RELEASED!
+  §c§lSURVIVAL BEES UPDATED!§4§l 1.20.4!
+  §4§lSURVIVAL BEES UPDATED!§c§l NEW SURVIVAL LOBBY!
 
 pack_lobby_bossbar_messages: |-
   §b§lFULL RELEASE NOW! MODERN!
