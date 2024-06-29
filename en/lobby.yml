@@ -347,12 +347,11 @@ lobby_gui_myprofile_socialmedia_lore: |-
 
 lobby_gui_myprofile_statsviewer_name: '§aStats Viewer'
 lobby_gui_myprofile_statsviewer_lore: |-
-  §7Showcases your stats for each
-  §7game and an overview of all.
+  §7Displays your individual game statistics
+  §7and a comprehensive overview of all your games.
   §7 
-  §7Players ranked §bPRO §7or higher
-  §7can use §f/stats (username) §7to view
-  §7other players' stats.
+  §7Players who have purchased the §6Zeus §7rank or higher
+  §7can use §f/stats (username) §7to view the stats of other players.
   §7 
   §eClick to view your stats!
 
@@ -549,6 +548,8 @@ lobby_statsviewer_sw: |-
   §7 
   §7Souls: §a%souls%
   §7Coins: §a%coins%
+
+lobby_statsviewer_skypvp_icon_material: 'DIAMOND_SWORD'
 
 # Appearences
 lobby_customization_gui: '§8Customize Appearances'
