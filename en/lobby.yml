@@ -296,7 +296,7 @@ lobby_gui_myprofile_characterinfo_lore: |-
   §7Karma: §d%karma%
   §7Astrona Gold: §6%gold%
   §7 
-  §eClick to see the Astrona Store link.
+  §eClick to see the Sky Kingdoms Store link.
 
 friend_gui_lore: |-
   §7Astrona Level: §6%level%
