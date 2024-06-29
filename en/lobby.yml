@@ -347,11 +347,14 @@ lobby_gui_myprofile_socialmedia_lore: |-
 
 lobby_gui_myprofile_statsviewer_name: '§aStats Viewer'
 lobby_gui_myprofile_statsviewer_lore: |-
-  §7Displays your individual game statistics
-  §7and a comprehensive overview of all your games.
+  §7Displays your individual game
+  §7statistics and a comprehensive
+  §7overview of all your games.
   §7 
-  §7Players who have purchased the §6Zeus §7rank or higher
-  §7can use §f/stats (username) §7to view the stats of other players.
+  §7Players who have purchased the
+  §7§6Zeus §7rank or higher can use
+  §7§f/stats (username) §7to view the
+  §7stats of other players.
   §7 
   §eClick to view your stats!
 
@@ -369,10 +372,7 @@ lobby_gui_myprofile_appearances_lore: |-
   §7 
   §7Customize the following visual
   §7options for your player!
-  §f  • PRO+ Rank Color
   §f  • Punch Messages
-  §f  • Glow
-  §f  • Status
   §7 
   §eClick to view!
 
@@ -568,7 +568,7 @@ lobby_customization_punchmsg_lore: |-
   §7use your punch ability!
   §7 
   §cPunching in lobbies is only
-  §cavailable to §bPRO§c+ players
+  §cavailable to §6Zeus players
   §cor those who own the Punching
   §cFriends item from idk
   §cwhere. we will do this shit 
