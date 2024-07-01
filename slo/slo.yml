@@ -1,24 +1,24 @@
 # =======================
 #         General
 # =======================
-prefix: '§bAstrona §3Network§7 §7> '
-discord_link: 'https://discord.gg/astrona'
-store_link: 'https://store.astrona.net'
+prefix: '§b§lSKY§6§lKINGDOMS §8§L> §7'
+discord_link: 'https://discord.gg/WtnPaBuZpK'
+store_link: 'https://skykingdoms.net'
 
 motd: |-
-    §7               §bAstrona Network §3[1.8-1.20]
-    §7                      §7In development...
+    §7               §6Sky Kingdoms §3[1.8-1.20]
+    §7Updated Lobbies - Survival Update - Summer Crates
 motd_maintenance: |-
-    §7               §bAstrona Network §3[1.8-1.20]
+    §7               §6Sky Kingdoms §3[1.8-1.20]
     §7                     §cMAINTENANCE MODE
 motd_devserver: |-
-    §7               §bAstrona Network §3[1.8-1.20]
+    §7               §6Sky Kingdoms §3[1.8-1.20]
     §7                     §bDevelopment Server
 motd_alpha: |-
-    §7               §bAstrona Network §3[1.8-1.20]
+    §7               §6Sky Kingdoms §3[1.8-1.20]
     §7                     §6ALPHA-SERVER
 motd_not_connected: |-
-    §7               §bAstrona Network §3[1.8-1.20]
+    §7               §6Sky Kingdoms §3[1.8-1.20]
     §7                      §cTechnical issues
 core_not_connected: |-
   §cThe main game Coordinator has disconnected :(
@@ -63,49 +63,47 @@ store_link_message: '§eRanks, Mystery Boxes, Network Boosters and more: §b$sto
 # =======================
 board_display_name: '§e§l%name%'
 board_achievements: '§fPriznanja: §e%achievements%'
-board_netlevel: '§fNetwork Level: §3%level%'
+board_netlevel: '§fOmrežna Stopnja: §3%level%'
 board_coins: '§fKovanci: §a%coins%'
-board_tokens: '§fTokens: §2%tokens%'
-board_lobby: '§fLobby: §a%number%'
+board_tokens: '§fŽetoni: §2%tokens%'
+board_lobby: '§fLoža: §a%number%'
 board_online: '§fIgralci: §a%online%'
 board_datetime: '§7%time%'
 board_group: '§fRank: §c%rank%'
 board_website: '§e$website_url$'
-board_hub_title: "ASTRONA"
+board_hub_title: "SKY KINGDOMS"
 board_kills: '§fUmori: §a%kills%'
 board_deaths: '§fSmrti: §a%kills%'
 #
 #
 #
-gui_mapselector_item_name: '§aMap selector (%mode%)'
+gui_mapselector_item_name: '§aIzberi mapo (%mode%)'
 gui_mapselector_item_lore: |-
-  §7Pick which map you want to play
-  §7from a list of available games
+  §7Izberi, katero mapo hočeš igrati
+  §7izmed vseh strežnikov, ki so na voljo.
   §7 
-  §eClick to browse!
+  §eKlikni, da pobrskaš!
 
-gui_mapselector_random_name: '§aRandom map'
-gui_mapselector_randomfav_name: '§aRandom Favorite §7(soon :tm:)'
+gui_mapselector_random_name: '§aNaključna mapa'
+gui_mapselector_randomfav_name: '§aNaključna najljubša mapa §7(soon :tm:)'
 
-gui_mapselector_info_name: '§aMap selection'
+gui_mapselector_info_name: '§aZbiranje mape'
 gui_mapselector_info_lore: |-
-  §7For now, the development of
-  §7Astrona Network has just began
-  §7so this feature is available only
-  §7for §bPRO§c+ §7players.
+  §7Zaenkrat je to na voljo samo
+  §7ljudem, ki imajo Zeus rank.
 
-gui_mapselector_norank: '§eYou need §bPRO§c+§e to select maps!'
-gui_mapselector_noservers_name: '§cNo servers available'
+gui_mapselector_norank: '§ePotrebuješ §6Zeus§e, da izbereš mapo!'
+gui_mapselector_noservers_name: '§cStrežnikov ni na voljo.'
 gui_mapselector_noservers_lore: |-
-  §7Maybe there are technical issues
+  §7Mogoče obstajajo tehnične težave.
 
 # =======================
 #         Languages
 # =======================
 
 language_gui_entry_already_selected: |-
-  §cYou have chosen this language already!
-language_changed: '§aLanguage changed to §6%language%'
+  §cTa jezik, si že izbral.
+language_changed: '§aJezik spremenjen na §6%language%'
 
 # =======================
 #         Boosters
@@ -120,135 +118,135 @@ big_notify_message_line: '§f§m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 levelup: |-
   §f$big_notify_message_line$
   §f 
-  §f                      §a§ke§f §6LEVEL UP §a§ke
-  §f            §7You are now §3Astrona Level §a%level%§7!
+  §f                      §a§ke§f §6NOVA STOPNJA §a§ke
+  §f            §7Sedaj si §6Sky Kingdoms stopnja §a%level%§7!
   §f 
-  §f    §7Play games, collect rewards, and complete quests!
+  §f    §7Igraj igre, pridobi nagrade in končaj naloge!
   §f 
   §f$big_notify_message_line$
 
-enabled: '§aEnabled'
-disabled: '§cDisabled'
+enabled: '§aVključeno'
+disabled: '§cIzključeno'
 
-profile_icon: '§aMy Profile §7(Right Click)'
+profile_icon: '§aMoj Profil §7(Desni Klik)'
 
 configuration_reloaded: '$prefix$Config reloaded!'
 
 player_offline: |-
   §f$general_line$
-  §cThis player is offline!
+  §cTa igralec ni prisoten!
   §f$general_line$
 player_not_found: |-
   §f$general_line$
-  §cThis player has never played on our project!
+  §cTa igralec še ni igral na strežniku!
   §f$general_line$
-player_incorrect_name: '$prefix$You entered the wrong nickname'
+player_incorrect_name: '$prefix$Vpisal si napačno ime'
 # =======================
 #           GUI
 # =======================
-gui_loading_icon_name: '§7Data is loading...'
+gui_loading_icon_name: '§7Podatki se nalagajo...'
 gui_loading_icon_lore: ''
-gui_back_to_menu_icon_name: '§6Back'
+gui_back_to_menu_icon_name: '§6Nazaj'
 gui_back_to_menu_icon_lore: |-
-  §7Click to return to
-  §7the previous gui
-gui_totalcoins: '§7Total coins: §6%coins%'
+  §7Klikni, da se vrneš
+  §7na prejšni meni.
+gui_totalcoins: '§7Skupni kovanci: §6%coins%'
 
-prev_page_name: '§6Previous page'
-next_page_name: '§6Next page'
-go_to_page: '§7Go to page %page%/%max%'
+prev_page_name: '§6Prejšnja stran'
+next_page_name: '§6Naslednja stran'
+go_to_page: '§7Pojdi na stran %page%/%max%'
 
-server_name: 'Astrona Network'
+server_name: 'Sky Kingdoms'
 vk_group_url: 'vk.com/travellerland'
 vk_support_url: 'vk.me/travellerland'
-website_url: 'www.astrona.net'
+website_url: 'www.skykingdoms.net'
 discord: '§d§lDiscord'
-discord_url: 'https://discord.gg/astrona'
+discord_url: 'https://discord.gg/jzwPKXc'
 discord_clicktojoin: |-
   §a §a
-  §aJoin our discord server to keep up with updates!
+  §aPridruži se našemu discord serverju, da vidiš vse nove posodobitve!
   §e§n$discord_url$
   §a §a
-kick_server_disconnect: '§cYou were kicked when connecting to the selected server: %reason%'
+kick_server_disconnect: '§cOb povezavi na izbran strežnik so te brcnili: %reason%'
 kick_server_notify: |-
-  You were disconnected when you tried to connect to §c%kick_from%:
+  Izgubil si povezavo, ko si se poskusil povezati na §c%kick_from%:
   §c %reason%
 fallback_server: |-
-  You were transferred to server §c%kick_to_name% §fdue to the following reason:
+  Premaknjen si bil na strežnik §c%kick_to_name% §fzaradi:
   §c%reason%
 fallback_server_disconnect: |-
-  §cThe server you were on was turned off
-  §cNo other server found
+  §cStrežnik, na katerem si bil se je izključil
+  §cNovi strežnik ni bil najden
   §f
-  §7kick:%reason%
+  §7Brcnili so te: %reason%
 fallback_server_notify: |-
-  $prefix$The server you were on was turned off. You were sended to §c%kick_to_name%
-  §c kick:%reason%
+  $prefix$Strežnik, na katerem si bil se je izključil. Bil si poslan na §c%kick_to_name%
+  §cBrcnili so te: %reason%
 
 tab_header: |
-  §bYou are playing on §3§lASTRONA.NET
+  §bYou are playing on §6§lSKYKINGDOMS.NET
 tab_footer: |-
 
-  §aRanks, Boosters & MORE! §3§lSTORE.ASTRONA.NET
+  §aRanks, Boosters & MORE! §e§lSTORE.SKYKINGDOMS.NET
 
 # =======================
 #          Servers
 # =======================
-server_not_found: '§cServer not found'
-server_already_connected: '§cYou are already connected to this server'
-servers_not_found: '§cServers not found'
-server_already_is_full: '§cServer is full'
-server_unknown_slots: '§cServer did not send the number of slots'
-server_teleportation_rejected: "§cYou can't teleport to this server using the command!"
-server_teleportation_started: '§aSending you to §6%server%'
+server_not_found: '§cStrežnik ni bil najden'
+server_already_connected: '§cSi že povezan na ta strežnik'
+servers_not_found: '§cStrežniki niso bili najdeni'
+server_already_is_full: '§cStrežnik je poln'
+server_unknown_slots: '§cStrežnik ni poslal število dovoljenih igralcev'
+server_teleportation_rejected: "§cNemoreš se teleportirati na ta strežnik z ukazom!"
+server_teleportation_started: '§aPošiljamo te na §6%server%'
 
-core_unavailable: '$prefix$An error occurred connecting to Core!'
+core_unavailable: '$prefix$Prišlo je do težave pri povezavi na Megamind!'
 
-no_online_players: '$prefix$No players online'
-no_online_staff: '$prefix$No staff online'
+no_online_players: '$prefix$Igralci niso prisotni'
+no_online_staff: '$prefix$Osebje ni prisotno'
 
-command_incorrect_usage: '$prefix$Incorrect use of the command!'
+command_incorrect_usage: '$prefix$Napačna uporaba ukaza!'
 
-command_usage: '§cUsage: %usage%'
+command_usage: '§cUporaba: %usage%'
 
-command_unavailable_group: '§cYou must be %group_name%§c or higher to use this command!'
+command_unavailable_group: '§cMoraš biti %group_name%§c ali več, da lahko uporabiš ta ukaz!'
 
-command_only_admin: '§cYou have to be admin or higher to use this command!'
+command_only_admin: '§cMoraš biti administrator ali več, da lahko uporabiš ta ukaz!'
 
 command_only_superstar: |-
   $general_line$
-  §cYou do not have permission to use this command! You need §fYOUTUBE §crank or §6PRO§c+.
+  §cNimaš dovoljenja do uporabe tega ukaza! Potrebuješ §fYOUTUBE §crank ali §6Zeus§c.
   $general_line$
 
-command_speed_not_available_for: '$prefix$This command is not available in this mode'
-command_speed_usage: '<speed> [walk/fly]'
-command_speed_invalid_speed: '$prefix$You specified incorrect speed'
-command_speed_set_walk: '$prefix$Walk speed set to §c%speed%'
-command_speed_set_fly: '$prefix$Fly speed set to §c%speed%'
-command_speed_set_all: '$prefix$Speed set to §c%speed%'
+command_speed_not_available_for: '$prefix$Ta ukaz ni na voljo v tem načinu'
+command_speed_usage: '<hitrost> [walk/fly]'
+command_speed_invalid_speed: '$prefix$Vnesel si napačno hitrost'
+command_speed_set_walk: '$prefix$Hitrost hoje je nastavljena na §c%speed%'
+command_speed_set_fly: '$prefix$Hitrost letenja je nastavljena na §c%speed%'
+command_speed_set_all: '$prefix$Hitrost je nastavljena na §c%speed%'
 
-command_gamemode_usage: '<mode> $arg_opt_name$'
+command_gamemode_usage: '<način> $arg_opt_name$'
 command_setproperty_usage: '$arg_name$ <key> <value>'
 
-server_loading: '$prefix$The server is loading, wait...'
+server_loading: '$prefix$Strežnik se nalaga, prosimo počakaj...'
 
 command_send_usage: '$arg_name$ $arg_server$'
 command_sendall_usage: '$arg_server$'
 
-arg_reason: '<reason>'
-arg_time: '<time>'
+arg_reason: '<razlog>'
+arg_time: '<čas>'
 
 arg_pattern: '<reg exp>'
 arg_opt_pattern: '[reg exp]'
-arg_server: '<server>'
+arg_server: '<strežnik>'
 
-arg_admin_name: '<admin nickname>'
-arg_opt_name: '[player nickname]'
-arg_name: '<player nickname>'
-arg_id: '<player id>'
-arg_name_or_ip: '<player nickname/IP>'
+arg_admin_name: '<admin ime>'
+arg_opt_name: '[ime igralca]'
+arg_name: '<ime igralca>'
+arg_id: '<emšo igralca>'
+arg_name_or_ip: '<ime igralca/IP>'
 
-arg_msg: '<message>'
+arg_msg: '<sporočilo>'
 
 gamemode_invalid: '$prefix$You specified the wrong game mode'
 gamemode_unavailable: "$prefix$You can't set this game mode"

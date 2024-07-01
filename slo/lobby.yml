@@ -14,12 +14,12 @@ gamemode_selector_gui_full_servers_lore: |-
   §7naši strani §f$website_url$
 gamemode_selector_gui_offline_lore: |-
   §cGame mode is offline
-gamemode_selector_gui_title: 'Game modes'
-gamemode_selector_gui_hub_teleport: '§6Return to hub'
+gamemode_selector_gui_title: 'Igre'
+gamemode_selector_gui_hub_teleport: '§6Vrni se na hub'
 gamemode_selector_gui_hub_teleport_lore: |-
   §f
   §eKlikni da se teleportiraš
-gamemode_selector_gui_help: '§6Server guide'
+gamemode_selector_gui_help: '§6Vodič po serverju'
 gamemode_selector_gui_help_lore: |-
   §f
   §7For every one that didn`t mastered
@@ -47,22 +47,22 @@ gamemode_selector_gui_entry_large: '§7Available modes: §f%modes%§7, online: �
 gamemode_selector_unavailable: '§cThis game mode is not available!'
 
 master_sw_description: |-
-  §7Every player spawns on his island.
-  §7Loot islands and fight players
+  §7Vsak igralec se pojavi na svojem otoku.
+  §7Izropaj otoke in premagaj nasprotnike
 
 master_bw_description: |-
-  §7Fight between teams for bed!
-  §7Varujte svojo posteljo in uničite druge da zmagate
+  §7Spopad ekip za posteljo!
+  §7Obvarujte svojo posteljo in uničite druge, da zmagate
   §7Če želite zmagati...
 
 uncommon_anarchy_description: |-
-  §7Survive on the only server mode
-  §7WITHOUT RULES! Build your bases,
-  §7go on raids, loot airdrops
-  §7and experience random events!
+  §7Preživite na edini igri
+  §7BREZ PRAVIL! Zgradite svoje baze,
+  §7ropajte, poberite padajoče dobrine
+  §7in doživite naključne dogodke!
   §f
-  §cRecommended version for playing on
-  §cthis mode - 1.16
+  §cPriporočena verzija za igranje
+  §cte igre - 1.16
 master_duels_description: |-
   §7Battle between players on equal terms
   §7Many modes at your disposal,

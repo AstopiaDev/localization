@@ -273,8 +273,15 @@ lobby_languageselector_self_item_lore: |-
   §7Change language to English.
   §7 
   §7Currently available:
-  §f  * SkyClash
+  §f  * Murder Mystery
+  §f  * Skywars
+  §f  * Skyblock
+  §f  * Skypvp
+  §f  * Survival
   §f  * Bed Wars
+  §f  * Factions
+
+lobby_languageselector_gui: 'Select Language'
   
 
 # My Profile
@@ -289,7 +296,7 @@ lobby_gui_myprofile_characterinfo_lore: |-
   §7Karma: §d%karma%
   §7Astrona Gold: §6%gold%
   §7 
-  §eClick to see the Astrona Store link.
+  §eClick to see the Sky Kingdoms Store link.
 
 friend_gui_lore: |-
   §7Astrona Level: §6%level%
@@ -340,12 +347,14 @@ lobby_gui_myprofile_socialmedia_lore: |-
 
 lobby_gui_myprofile_statsviewer_name: '§aStats Viewer'
 lobby_gui_myprofile_statsviewer_lore: |-
-  §7Showcases your stats for each
-  §7game and an overview of all.
+  §7Displays your individual game
+  §7statistics and a comprehensive
+  §7overview of all your games.
   §7 
-  §7Players ranked §bPRO §7or higher
-  §7can use §f/stats (username) §7to view
-  §7other players' stats.
+  §7Players who have purchased the
+  §7§6Zeus §7rank or higher can use
+  §7§f/stats (username) §7to view the
+  §7stats of other players.
   §7 
   §eClick to view your stats!
 
@@ -363,10 +372,7 @@ lobby_gui_myprofile_appearances_lore: |-
   §7 
   §7Customize the following visual
   §7options for your player!
-  §f  • PRO+ Rank Color
   §f  • Punch Messages
-  §f  • Glow
-  §f  • Status
   §7 
   §eClick to view!
 
@@ -430,6 +436,8 @@ lobby_gui_myprofile_languages_lore: |-
   §7Currently available:
   §7  §f• English
   §7  §f• Russian
+  §7  §f• Slovenian
+  §7  §f• Nederlands
   §7 
   §7More languages coming soon!
   §7 
@@ -456,8 +464,24 @@ lobby_gui_myprofile_catstore_lore_2: |-
 
 # Bossbar messages in the main lobby
 lobby_bossbar_messages: |-
-  §b§lFULL RELEASE NOW!
-  §3§lFULL RELEASE NOW!
+  §6§l60% SUMMER SALE OUT NOW!§e§l NEW LOBBY!
+  §c§l60% SUMMER SALE OUT NOW!§a§l NEW LOBBY!
+  §6§l60% SUMMER SALE OUT NOW!§e§l NEW LOBBY!
+  §c§l60% SUMMER SALE OUT NOW!§a§l NEW LOBBY!
+  §6§l60% SUMMER SALE OUT NOW!§e§l NEW LOBBY!
+  §c§l60% SUMMER SALE OUT NOW!§a§l NEW LOBBY!
+  §a§lSKYPVP NEW MAP RELEASED!
+  §2§lSKYPVP NEW MAP RELEASED!
+  §a§lSKYPVP NEW MAP RELEASED!
+  §2§lSKYPVP NEW MAP RELEASED!
+  §a§lSKYPVP NEW MAP RELEASED!
+  §2§lSKYPVP NEW MAP RELEASED!
+  §c§lSURVIVAL BEES UPDATED!§4§l 1.20.4!
+  §4§lSURVIVAL BEES UPDATED!§c§l NEW SURVIVAL LOBBY!
+  §c§lSURVIVAL BEES UPDATED!§4§l 1.20.4!
+  §4§lSURVIVAL BEES UPDATED!§c§l NEW SURVIVAL LOBBY!
+  §c§lSURVIVAL BEES UPDATED!§4§l 1.20.4!
+  §4§lSURVIVAL BEES UPDATED!§c§l NEW SURVIVAL LOBBY!
 
 pack_lobby_bossbar_messages: |-
   §b§lFULL RELEASE NOW! MODERN!
@@ -543,6 +567,8 @@ lobby_statsviewer_sw: |-
   §7Souls: §a%souls%
   §7Coins: §a%coins%
 
+lobby_statsviewer_skypvp_icon_material: 'DIAMOND_SWORD'
+
 # Appearences
 lobby_customization_gui: '§8Customize Appearances'
 
@@ -560,7 +586,7 @@ lobby_customization_punchmsg_lore: |-
   §7use your punch ability!
   §7 
   §cPunching in lobbies is only
-  §cavailable to §bPRO§c+ players
+  §cavailable to §6Zeus players
   §cor those who own the Punching
   §cFriends item from idk
   §cwhere. we will do this shit 
