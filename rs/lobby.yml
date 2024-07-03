@@ -88,10 +88,10 @@ master_mm_description: |-
 uncommon_selector_gui_title: 'Server selection %name%'
 uncommon_selector_gui_no_servers: '§6No servers found'
 uncommon_selector_gui_no_servers_lore: |-
-  §7We have not found servers for this game mode
-  §7They are probably restarting not launched yet
+  §7Nismo pronašli server za ovu igru
+  §7Verovatno se ponovo pokreću i nisu online još uvek
 
-mini_selector_gui_title: 'Game mode selection'
+mini_selector_gui_title: 'Selekcija igre'
 mini_selector_gui_entry: '§6%mode%'
 mini_selector_gui_entry_lore: |-
   §f
@@ -101,41 +101,41 @@ mini_selector_gui_entry_lore: |-
   §7Total players: §f%total_online%
   §f
 mini_selector_gui_entry_lore_join: |-
-  §eLMB to start quick game
-  §eRMB to choose server and map
+  §eLMB da bi počeli brzu igru!
+  §eRMB da bi odabrali mapu!
 mini_selector_gui_entry_lore_queue: |-
-  §eClick to get in queue
+  §ePritisnite da bi stali u red!
 mini_selector_gui_entry_lore_unavailable: |-
   §f
-  §7This mode temporarily does not work or did not start.
-  §7Wait a while, we are fixing problem :)
-arena_spectate_gui_title: 'Game spectating'
+  §7Ova igra trenutno nije dostupna ili nije pokrenuta.
+  §7Molimo vas da sačekate par trenutaka, popravljamo problem! :)
+arena_spectate_gui_title: 'Posmatranje igre'
 arena_spectate_gui_entry: '§6Game %mini%'
 arena_spectate_gui_entry_lore: |-
   §f
   §7Current map: §a%map%
   §7Players online: §a%players%
   §f
-  §eClick to go to %server% server
+  §ePritisnite da bi otišli u %server% server!
 arena_spectate_gui_no_permission_icon: '§6Spectating is unavailable'
 arena_spectate_gui_no_permission_icon_lore: |-
-  §7Only §6Premium §7and higher players
-  §7can spectate running games.
-  §7You can purchase ranks on
-  §7the website §f$website_url$
+  §7Samo §6Premium §7i viši igrači
+  §7mogu posmatrati igre u toku.
+  §7Možete kupiti bilo koji rank na
+  §7našoj web-stranici §f$website_url$
 arena_spectate_gui_no_arenas_icon: '§6No games running'
 arena_spectate_gui_no_arenas_icon_lore: |-
-  §7No games have started yet or
-  §7all games have already ended
-map_cluster_gui_title: 'Map selection: %mode%'
+  §7Igre još uvek nisu počele ili 
+  §7su se sve već završile
+map_cluster_gui_title: 'Birač mape: %mode%'
 map_cluster_gui_entry: '§6%map_name%'
 map_cluster_gui_entry_lore: |-
   §f
-  §7Players waiting for game: §c%total_online%
-  §7Total servers: §c%total_servers%
+  §7Broj igrača koji čekaju: §c%total_online%
+  §7Ukupan broj servera: §c%total_servers%
   §f
-  §eClick to play on this map!
-map_cluster_gui_best: '§6Optimal server'
+  §ePritisnite da bi igrali ovu mapu!
+map_cluster_gui_best: '§6Optimalan server'
 map_cluster_gui_best_lore: |-
   §f
   §7Free servers: §f%stand_by_servers%
@@ -143,93 +143,93 @@ map_cluster_gui_best_lore: |-
   §f
   §7Total players: §f%total_online%
   §f
-  §eClick to find optimal server!
+  §epritisnite da bi našli optimalan server!
 
-gamemode_select_icon: '§aGame Menu §7(Right Click)'
+gamemode_select_icon: '§aMeni Igara §7(Desni klik)'
 gamemode_select_icon_lore: |-
-  §7Right Click to bring up the Game Menu!
+  §7Pritisnite desni taster miša da bi dobili Meni Igara!
 
-spectate_npc_hologram_title: '§eSpectate games'
-spectate_npc_hologram_action: '§fClick to open'
+spectate_npc_hologram_title: '§ePosmatrajte igre'
+spectate_npc_hologram_action: '§fPritisnite da otvorite'
 
-gamemode_npc_full_single: '§cThere are no free slots on the game mode'
-gamemode_npc_full_plural: '§cThere are no free slots on the game mode'
+gamemode_npc_full_single: '§cNema praznog prostora u igri!'
+gamemode_npc_full_plural: '§cNema praznog prostora u igri!'
 
-gamemode_npc_maintenance: '§c§lMAINTENANCE'
+gamemode_npc_maintenance: '§c§lPREKID ZA ODRŽAVANJE'
 
-gamemode_npc_status_players: '§e%players% Playing'
-gamemode_npc_default_status: '§e§lCLICK TO JOIN'
+gamemode_npc_status_players: '§e%players% Igraju'
+gamemode_npc_default_status: '§e§lPRITISNITE DA UĐETE'
 
 # dynamic NPC status lines declared here
-gamemode_npc_skywars_status: '§d§lIN DEVELOPMENT'
+gamemode_npc_skywars_status: '§d§lU TOKU RAZVOJA'
 
-game_status_holo_info_total_online: '§fTotal players §7- §c%value%'
-game_status_holo_info_total_servers: '§fTotal servers §7- §c%value%'
-game_status_holo_info_busy_servers: '§fThe game is in progress §7- §c%value%'
-game_status_holo_info_free_servers: '§fFree servers §7- §c%value%'
+game_status_holo_info_total_online: '§fUkupan broj igrača §7- §c%value%'
+game_status_holo_info_total_servers: '§fUkupan broj servera §7- §c%value%'
+game_status_holo_info_busy_servers: '§fIgra je u toku §7- §c%value%'
+game_status_holo_info_free_servers: '§fSlobodni serveri §7- §c%value%'
 
 elite_not_available: |-
-  $prefix$This feature is only available for §aElite §fsubscribers
-  §c * §fYou can buy subscribe on our website §d$website_url$
+  $prefix$Ova funkcija je samo dostupna §aElite §fpretplatnicima
+  §c * §fMožete se pretplatiti na nešoj web-stranici §d$website_url$
 
-nick_error_no_nicks_found: '$prefix$Random nicknames for disguise were not found. Please try again later'
-nick_error_invalid_name: '$prefix$The nickname you specified cannot be installed'
-nick_error_user_not_found: '$prefix$An unknown error occurred when installing the nickname (not connected to the game coordinator)'
-nick_error_already_used: '$prefix$The nickname you specified is already being used by someone'
-nick_error_already_registered: '$prefix$The player with the nickname you specified is already registered on the server'
+nick_error_no_nicks_found: '$prefix$Nasumični nadimci za skrivanje nisu dostupni. Molimo pokušajte kasnije'
+nick_error_invalid_name: '$prefix$Nadimak koji ste odabrali se ne može instalirati' 
+nick_error_user_not_found: '$prefix$ Nepoznata greška se javila u toku instaliranja vašeg nadimka (niste povezani sa koordinatorom igara)'
+nick_error_already_used: '$prefix$Nadimak koji ste odabrali je trenutno u upotrebe od strane drugog igrača' 
+nick_error_already_registered: '$prefix$Igrač sa unesenim nadimkom je več registrovan na serveru' 
 
-nick_selected: '§aYou have successfully changed your nickname to §a%nick%'
+nick_selected: '§aUspešno ste promenili vaš nadimak u §a%nick%' 
 
-nick_gui_title: 'Disguise settings'
+nick_gui_title: 'Opcije za prikrivanje'
 nick_gui_nickname_entry: '§6Nickname %nick%'
 nick_gui_nickname_entry_lore: |-
   §f
-  §7This nickname will be displayed to everyone
-  §7players when you log in
-  §7to the server
+  §7Ovaj nadimak će biti prikazan svim
+  §7igračima kada se pridružite
+  §7na server
   §c
 nick_gui_nickname_entry_lore_selected: |-
-  §cThis nickname is already selected by you
+  §cVeć ste odabrali ovaj nadimak
 nick_gui_nickname_entry_lore_select: |-
-  §eClick to select this nickname
+  §ePritisnite da odaberete odaj nadimak
 
-nick_gui_special_groups: '§6Special ranks'
+nick_gui_special_groups: '§6Posebni rankovi'
 nick_gui_special_groups_lore: |-
   §f
-  §7Special ranks for disguise, available only
-  §7for the chosen ones...
-  §7You are the chosen one! Welcome to this section
+  §7Posebni rankovi za prikrivanje, samo dostupni
+  §7za odabrane...
+  §7Vi ste odabrani! Dobrodošli u ovaj odeljak
   §f
-  §eClick to browse special ranks
+  §ePritisnite da bi pretražili posebne rankove
 
-nick_gui_normal_groups: '§6Common ranks'
+nick_gui_normal_groups: '§6Obični rankovi'
 nick_gui_normal_groups_lore: |-
   §f
-  §7Return to standart ranks, available for
-  §7disguise by default
+  §7Vratite se standardnim rankovima, dostupno za 
+  §7podrazumevano prikrivanje 
   §f
-  §eClick to return to common ranks
+  §ePritisnite da se vratite običnim rankovima
 
-nick_default_group: '§7player'
+nick_default_group: '§7Igrač'
 
-nick_gui_selector: '§6Change nickname'
+nick_gui_selector: '§6Promenite nadimak'
 nick_gui_selector_lore: |-
   §f
-  §7Complete the disguise process and switch 
-  §7to using the selected nickname and prefix
+  §7Završite proces prikrivanja i počnite
+  §7da koristite nadimak i prefiks
   §f
-  §cAttention! §7Your friends and project staff
-  §7will be able to see your disguise. Violation
-  §7the rules of the project is still punishable!
+  §cPažnja! §7Vaši prijatelji i članovi osoblja
+  §7će moći da vide vaše prikrivanje. Kršenjem
+  §7pravila projekta je kažnjivo!
   §f
 nick_gui_selector_lore_select_masks: |-
-  §cTo continue, you must select a nickname
-  §cand rank of disguise
+  §c Da nastavite, morate odabrati nadimak
+  §ci rank prikrivanja
 nick_gui_selector_lore_click_to_mask: |-
-  §7You will be seen as §c%nick_format% §7for
-  §7all players
+  §7Bićete višeni kao §c%nick_format% §7za
+  §7sve igrače
   §f
-  §eClick to disguise
+  §ePritisni te da bi se prikrili!
 
 nick_gui_group_entry: '§6Group %group%'
 nick_gui_group_entry_lore: |-
