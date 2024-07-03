@@ -115,7 +115,7 @@ arena_spectate_gui_entry_lore: |-
   §7Current map: §a%map%
   §7Players online: §a%players%
   §f
-  §eClick to go to %server% server
+  §eKlikni tu, da greš na %server% strežnik
 arena_spectate_gui_no_permission_icon: '§6Spectating is unavailable'
 arena_spectate_gui_no_permission_icon_lore: |-
   §7Only §6Premium §7and higher players
@@ -309,36 +309,34 @@ lobby_gui_myprofile_head_lore: |-
 
 lobby_gui_myprofile_friends_name: '§aPrijatelji'
 lobby_gui_myprofile_friends_lore: |-
-  §7View your Astrona friends'
-  §7profiles, and interact with your
-  §7online friends!
+  §7Poglej profile svojih Sky Kingdoms'
+  §7prijateljev in stopi v stik s temi,
+  §7ki so online!
 
 lobby_gui_myprofile_party_name: '§aSkupina'
 lobby_gui_myprofile_party_lore: |-
-  §7Create a party and join up with
-  §7other players to play games
-  §7together!
+  §7Naredi ekipo in igraj skupaj
+  §7z drugimi igralci!
 
 lobby_gui_myprofile_guild_name: '§aKlan'
 lobby_gui_myprofile_guild_lore: |-
-  §7Form a guild with other Astrona
-  §7players to conquer game modes
-  §7and work towards common Astrona
-  §7rewards.
+  §7Naredi klan skupaj z drugimi Sky Kingdoms
+  §7igralci. Skupaj napredujte v igrah za
+  §7še več Sky Kingdoms nagrad!
 
 lobby_gui_myprofile_recentplayers_name: '§aRecent Players'
 lobby_gui_myprofile_recentplayers_lore: |-
-  §7View players you have played
-  §7recent games with.
+  §7Preveri igralce s katerimi si
+  §7igral nazadnje.
 
 lobby_gui_myprofile_gotohousing_name: '§aGo to Housing'
 
-lobby_gui_myprofile_socialmedia_name: '§aSocial Media'
+lobby_gui_myprofile_socialmedia_name: '§aSocialna omrežja'
 lobby_gui_myprofile_socialmedia_lore: |-
   §7Click to edit your Social Media
   §7links.
 
-lobby_gui_myprofile_statsviewer_name: '§aStats Viewer'
+lobby_gui_myprofile_statsviewer_name: '§aOgled Statistike'
 lobby_gui_myprofile_statsviewer_lore: |-
   §7Showcases your stats for each
   §7game and an overview of all.
