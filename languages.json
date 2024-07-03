@@ -41,5 +41,15 @@
     "nl/new_mc.yml": "#1.16.5",
     "nl/party.yml": "#Core",
     "nl/words.yml": "#*"
+  },
+  "rs": {
+    "rs/rs.yml": "#*",
+    "rs/game.yml": "#isMaster",
+    "rs/sw.yml": "#isMaster",
+    "rs/legacy_mc.yml": "#*",
+    "rs/lobby.yml": "#isLobby",
+    "rs/new_mc.yml": "#1.16.5",
+    "rs/party.yml": "#Core",
+    "rs/words.yml": "#*"
   }
 }
