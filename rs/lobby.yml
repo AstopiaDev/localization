@@ -1,88 +1,89 @@
 gamemode_selector_gui_no_slots_lore: |-
   §f
-  §cThere is no empty slots :(
+  §cNema praznog prostora! :(
   §f
-  §7If you want to join full servers
-  §7purchase §nany rank§7 on our site
+  §7Ako želite da uđete u pune servere
+  §7kupite §nbilo koji rank§7 na našoj web-stranici!
   §f
   §7Our site: §f$website_url$
 gamemode_selector_gui_full_servers_lore: |-
   §f
-  §7One or more servres are full
-  §7If you want to join full servers
-  §7purchase §nany rank§7 on
-  §7our site §f$website_url$
+  §7Jedan ili više servera je pun
+  §7Ako želite da uđete u pune servere
+  §7kupite §nbilo koji rank§7 na
+  §7našoj web-stranici! §f$website_url$
 gamemode_selector_gui_offline_lore: |-
-  §cGame mode is offline
-gamemode_selector_gui_title: 'Game modes'
-gamemode_selector_gui_hub_teleport: '§6Return to hub'
+  §cIgra je zatvorena! 
+gamemode_selector_gui_title: 'Igre'
+gamemode_selector_gui_hub_teleport: '§6Vrati se u lobi'
 gamemode_selector_gui_hub_teleport_lore: |-
   §f
-  §eClick to teleport
-gamemode_selector_gui_help: '§6Server guide'
+  §ePritisnite da se teleportujete
+gamemode_selector_gui_help: '§6Server vodič'
 gamemode_selector_gui_help_lore: |-
   §f
-  §7For every one that didn`t mastered
-  §7main aspects of $server_name$
+  §7Za bilo koga ko nije savladao
+  §7glavne aspekte $server_name$
   §f
-  §eClick to show info
-gamemode_selector_gui_donate: '§6Ranks'
+  §ePritisnite da prikažete informaciju
+gamemode_selector_gui_donate: '§6Rankovi'
 gamemode_selector_gui_donate_lore: |-
   §f
-  §7Every one can help project materially.
-  §7And we can offer something to you.
+  §7Svako može materijalno da pomogne projektu.
+  §7I mi vama možemo nešto ponuditi.
   §f
-  §eClick to go
-gamemode_selector_gui_choose_server: '§eClick to choose server!'
-gamemode_selector_gui_connect: '§eClick to join!'
+  §ePritisnite da krenete
+gamemode_selector_gui_choose_server: '§ePritisnite da odaberete server!'
+gamemode_selector_gui_connect: '§ePritisnite da se pridružite!'
 gamemode_selector_gui_entry_available: '§6%mode%'
 gamemode_selector_gui_entry_disabled: '§c%mode%'
 gamemode_selector_gui_entry_list_item_available: '§f%mode%:'
 gamemode_selector_gui_entry_list_item_full: '§c%mode%:'
-gamemode_selector_gui_single_mode_info: '§7Online: §f%online%§7, servers: §f%servers%'
+gamemode_selector_gui_single_mode_info: '§7Online: §f%online%§7, serveri: §f%servers%'
 gamemode_selector_gui_mode_info: '§7- $gamemode_selector_gui_single_mode_info$'
-gamemode_selector_gui_uncommon_single_online: '§7Online now §f%format%'
-gamemode_selector_gui_uncommon_online: '§7 - Current online: §f%online%/%slots%'
-gamemode_selector_gui_entry_large: '§7Available modes: §f%modes%§7, online: §f%online%'
-gamemode_selector_unavailable: '§cThis game mode is not available!'
+gamemode_selector_gui_uncommon_single_online: '§7Otrenutno online §f%format%'
+gamemode_selector_gui_uncommon_online: '§7 - Trenutno online: §f%online%/%slots%'
+gamemode_selector_gui_entry_large: '§7Dostupne igre: §f%modes%§7, online: §f%online%'
+gamemode_selector_unavailable: '§cOva igra nije dostupna!'
 
 master_sw_description: |-
-  §7Every player spawns on his island.
-  §7Loot islands and fight players
+  §7Svaki igrač se stvori na svom ostrvu.
+  §7Pljačkajte ostrva i borite se sa drugim igračima
 
 master_bw_description: |-
-  §7Fight between teams for bed!
-  §7Protect your bed and destroy other ones to win
-  §7If you want to win...
+  §7Borba između ekipa za krevet!
+  §7Zaštitite svoj krevet i uništite sve ostale da bi pobedili!
+  §7Ako želite da pobedite..
 
 uncommon_anarchy_description: |-
-  §7Survive on the only server mode
-  §7WITHOUT RULES! Build your bases,
-  §7go on raids, loot airdrops
-  §7and experience random events!
+  §7Preživite na jedinoj igri
+  §7BEZ PRAVILA! Izgradite svoju bazu,
+  §7krenite na osvajanja, pljačkajte
+  §7i iskusite razne dogašaje!
   §f
-  §cRecommended version for playing on
-  §cthis mode - 1.16
+  §cPreporučena verzija za 
+  §covu igru - 1.16
+  
 master_duels_description: |-
-  §7Battle between players on equal terms
-  §7Many modes at your disposal,
-  §7fight solo or with friends
-  §7Find out who's cooler
+  §7Borba među igračima sa jednakim uslovima
+  §7Mnogo igara je na vašem raspolaganji,
+  §7igrajte sami ili sa prijateljima!
+  §7Saznajte ko je najbolji!
 
 master_ag_description: |-
-  §7Fun arcade games for those who
-  §7are already tired of the usual PVP modes!
+  §7Zabavne arkadne igre za one kojima
+  §7su već dosadile obične PvP igre!
 
 master_cc_description: |-
-  §7Capture cubes, equip yourself better
-  §7and destroy your rivals!
-  §7Remember that you only have 3 lives
+  §7Uhvatite kocke, bolje se opremite
+  §7i uništite vaše protivnike!
+  §7Zapamtite, samo imate 3 života!
 
 master_mm_description: |-
-  §7There's probably a maniac in town...
-  §7Watch out if you're a civilian
-  §7Investigate a murder like a detective, or
-  §7kill all the inhabitants without making noise!
+  §7Vjerovatno postoji manijak u gradi...
+  §7Ako ste građanin, pripazite se
+  §7Istražite ubistvo kao detektiv, ili
+  §7ubijte sve građane bez pravljenja buke!
 
 uncommon_selector_gui_title: 'Server selection %name%'
 uncommon_selector_gui_no_servers: '§6No servers found'
