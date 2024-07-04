@@ -225,10 +225,10 @@ nick_gui_selector_lore_select_masks: |-
   §cTo continue, you must select a nickname
   §cand rank of disguise
 nick_gui_selector_lore_click_to_mask: |-
-  §7You will be seen as §c%nick_format% §7for
-  §7all players
+  §7Drugi igralci te bodo videli
+  §7 pod imenom §c%nick_format%
   §f
-  §eClick to disguise
+  §eKlikni tu za krinko
 
 nick_gui_group_entry: '§6Group %group%'
 nick_gui_group_entry_lore: |-
