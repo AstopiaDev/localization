@@ -1279,3 +1279,6 @@ report_denied_notification: "§cYour §e%type%§c-record against %name% was deni
 # watchcat
 watchcat_ban_broadcast: "§f[WATCHCAT CHEAT DETECTION] §c§lA player has been removed from your game for hacking or abuse"
 staff_ban_broadcast: "§c§lA player has been removed from your game for hacking or abuse. §bThanks for reporting it!"
+
+#vote
+vote_received_player_points: "§eYou received§6 %points% player points§e from voting!"
