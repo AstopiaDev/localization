@@ -50,16 +50,15 @@ game_spectator_compass_icon_lore: |-
   §7teleport to alive players
 game_spectator_replay_icon: '§6Play again'
 game_spectator_replay_icon_lore: |-
-  §7Use this item to play
-  §7a game on new arena
-game_shop_icon: '§6Shop'
+  §7Za igro uporabi ta predmet
+game_shop_icon: '§6Trgovina'
 game_shop_icon_lore: |-
-  §7Use this item
-  §7to open shop
-game_lobby_icon: '§6Return to lobby'
+  §7Uprabi ta predmet, da
+  §7dostopaš do trgovine
+game_lobby_icon: '§6Vrni se v ložo'
 game_lobby_icon_lore: |-
-  §7Use this item to
-  §7return to lobby
+  §7Uporabi ta predmet, da
+  §7se vrneš v ložo
 game_player_join: '%name% §ehas joined §e(§b%online%§e/§b%slots%§e)'
 game_player_quit: '%name% §equit'
 game_start_timer_message: '§eThe game will start in %time%§e %ending%'
