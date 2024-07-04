@@ -340,13 +340,16 @@ lobby_gui_myprofile_recentplayers_lore: |-
 
 lobby_gui_myprofile_rankup_name: '§aRank Up'
 lobby_gui_myprofile_rankup_lore: |-
-  §7Get yourself some perks to
-  §7enhance your gameplay experience!
+  §7Get yourself some perks
+  §7to enhance your gameplay
+  §7experience!
   §7
   §7Free Ranks:
   §f  • Vip
   §f  • Donator
   §f  • Hero
+  §7
+  §6Click to rank up!
 
 lobby_gui_myprofile_gotohousing_name: '§aGo to Housing'
 
