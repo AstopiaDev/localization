@@ -349,7 +349,7 @@ lobby_gui_myprofile_rankup_lore: |-
   §f  • Donator
   §f  • Hero
   §7
-  §6Click to rank up!
+  §eClick to rank up!
 
 lobby_gui_myprofile_gotohousing_name: '§aGo to Housing'
 
