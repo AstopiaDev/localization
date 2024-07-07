@@ -587,9 +587,9 @@ lobby_tags_locked_item_lore: |-
   §r
 
 lobby_tags_purchasable: |-
-  §7You can unlock this tag'
-  §7  by purchasing it on'
-  §r §b§nstore.skykingdoms.net'
+  §7You can unlock this tag
+  §7  by purchasing it on
+  §r §b§nstore.skykingdoms.net
 
 lobby_tags_impossible: |-
   §7You can no longer unlock this tag
@@ -620,7 +620,7 @@ lobby_tags_parkour: |-
 
 lobby_tags_easter_and_st_patricks: |-
   §7Obtainable from the
-  §eEaster §7§ §aSt. Patricks %year% Crate
+  §eEaster §7& §aSt. Patricks %year% Crate
 
 lobby_tags_st_patricks: |-
   §7Obtainable from the
