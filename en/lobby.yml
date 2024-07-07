@@ -386,6 +386,7 @@ lobby_gui_myprofile_appearances_lore: |-
   §7Customize the following visual
   §7options for your player!
   §f  • Punch Messages
+  §f  • Tags
   §7 
   §eClick to view!
 
@@ -723,14 +724,8 @@ lobby_punchmessage_desc_item: '§aPunching Players'
 lobby_punchmessage_desc_item_lore: |-
   §7Punching staff members §7(§2[MOD]
   §7and §c[ADMIN]§7) is a feature
-  §7available to all §bPRO§c+
+  §7available to all §6Zeus
   §7players.
-  §7 
-  §7Players may also unlock the
-  §7ability to punch their friends in
-  §7lobbies as a reward in the
-  §7some competitions like
-  §7killing niggers or idk
 
 lobby_punchmessage_item: ''
 lobby_punchmessage_item_lore: |-
