@@ -1271,10 +1271,10 @@ report_book_submit_tt: "Click to report %name% for %reason%"
 report_error_self: '§cYou cannot report yourself!'
 report_error_alreadycreated: '§cYou already have %type%-report opened on %player%'
 report_error_internal_error: '§cInternal error occurred on report creation procedure! Contact admins >.<'
-report_error_unknown_error: '§cUnknown nigga error ahhh'
+report_error_unknown_error: '§cUnknown  error ahhh'
 
 report_accepted_notification: '§aYour §e%type%§a-record against %name% was accepted! Thanks for your feedback!'
-report_denied_notification: '§cYour §e%type%§c-record against %name% was denied. Thanks for wasting our time, dumb nigger'
+report_denied_notification: '§cYour §e%type%§c-record against %name% was denied.'
 
 # watchcat
 watchcat_ban_broadcast: '§f[WATCHCAT CHEAT DETECTION] §c§lA player has been removed from your game for hacking or abuse'
