@@ -589,6 +589,8 @@ lobby_tags_locked_item_lore: |-
   §cLocked
   §r
 
+lobby_tags_purchasable: 'PURCHASE'
+
 
 # Appearences
 lobby_customization_gui: '§8Customize Appearances'
