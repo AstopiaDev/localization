@@ -261,7 +261,7 @@ game_item_already_purchased: '§6This item is already purchased'
 game_item_purchase_confirm: |-
   §f
   §eYou want to buy this item
-  §efor real nigga? Cant be //undo'ed!
+  §efor real ? Cant be //undo'ed!
 
 game_item_selected: 'You selected %label% §c%item%'
 game_item_unselected: 'Un-selected this item'
