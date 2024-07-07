@@ -489,12 +489,9 @@ lobby_bossbar_messages: |-
   §2§lSKYPVP NEW MAP RELEASED!
   §a§lSKYPVP NEW MAP RELEASED!
   §2§lSKYPVP NEW MAP RELEASED!
-  §c§lSURVIVAL BEES UPDATED!§4§l 1.20.4!
-  §4§lSURVIVAL BEES UPDATED!§c§l NEW SURVIVAL LOBBY!
-  §c§lSURVIVAL BEES UPDATED!§4§l 1.20.4!
-  §4§lSURVIVAL BEES UPDATED!§c§l NEW SURVIVAL LOBBY!
-  §c§lSURVIVAL BEES UPDATED!§4§l 1.20.4!
-  §4§lSURVIVAL BEES UPDATED!§c§l NEW SURVIVAL LOBBY!
+  §4§lSURVIVAL BEES UPDATED!§c§l NEW SURVIVAL LOBBY!&9&l 1.20.4!
+  §c§lSURVIVAL BEES UPDATED!§4§l NEW SURVIVAL LOBBY!&b&l 1.20.4!
+  §4§lSURVIVAL BEES UPDATED!§c§l NEW SURVIVAL LOBBY!&9&l 1.20.4!
 
 pack_lobby_bossbar_messages: |-
   §b§lFULL RELEASE NOW! MODERN!
@@ -589,8 +586,61 @@ lobby_tags_locked_item_lore: |-
   §cLocked
   §r
 
-lobby_tags_purchasable: 'PURCHASE'
+lobby_tags_purchasable: |-
+  §7You can unlock this tag'
+  §7  by purchasing it on'
+  §r §b§nstore.skykingdoms.net'
 
+lobby_tags_impossible: |-
+  §7You can no longer unlock this tag
+
+lobby_tags_halloween: |-
+  §7Obtainable from the
+  §6Halloween %year% Crate
+
+lobby_tags_winter: |-
+  §7Obtainable from the
+  §9Winter %year% Crate
+
+lobby_tags_valentines: |-
+  §7Obtainable from the
+  §dValentines %year% Crate
+
+lobby_tags_easter: |-
+  §7Obtainable from the
+  §eEaster %year% Crate
+
+lobby_tags_summer: |-
+  §7Obtainable from the
+  §cSummer %year% Crate
+  
+lobby_tags_parkour: |-
+  §7Obtainable from the
+  §6Parkourer %year% Tag
+
+lobby_tags_easter_and_st_patricks: |-
+  §7Obtainable from the
+  §eEaster §7§ §aSt. Patricks %year% Crate
+
+lobby_tags_st_patricks: |-
+  §7Obtainable from the
+  §aSt. Patricks %year% Crate
+  
+lobby_tags_spring: |-
+  §7Obtainable from the
+  §5Spring %year% Crate
+
+lobby_tags_lucky: |-
+  §7Obtainable from the
+  §eLucky %year% Crate
+
+lobby_tags_server_anniversary: |-
+  §7Obtainable at the
+  §c%year% Server Anniversary Event
+
+lobby_tags_birthday: |-
+  §7Obtainable on §caag4''s
+  §c%year% Birthday
 
 # Appearences
 lobby_customization_gui: '§8Customize Appearances'
