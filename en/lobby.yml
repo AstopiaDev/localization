@@ -582,6 +582,14 @@ lobby_statsviewer_sw: |-
 
 lobby_statsviewer_skypvp_icon_material: 'DIAMOND_SWORD'
 
+#Tags
+lobby_tags_gui: '§8Tags'
+lobby_tags_season_item: '§7Sort by season:'
+lobby_tags_locked_item_lore: |-
+  §cLocked
+  §r
+
+
 # Appearences
 lobby_customization_gui: '§8Customize Appearances'
 
@@ -622,6 +630,14 @@ lobby_customization_status_lore: |-
   §7Set a status to be displayed
   §7above your head in lobbies.
   §7 
+  §eClick to change!
+
+lobby_customization_tags: '§aTags'
+lobby_customization_tags_lore: |-
+  §7Set a tag that is displayed
+  §7above your head, on tablist
+  §7and in chat.
+  §7
   §eClick to change!
 
 # Rank color thing
