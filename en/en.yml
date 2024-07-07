@@ -9,7 +9,7 @@ motd: |-
     §7               §6Sky Kingdoms §3[1.8-1.20]
     §7Updated Lobbies - Survival Update - Summer Crates
 motd_maintenance: |-
-    §7               §6Sky Kingdoms §3[1.8-1.20]
+    §7               §bSky&6 Kingdoms §e[1.8-1.21]
     §7                     §cMAINTENANCE MODE
 motd_devserver: |-
     §7               §6Sky Kingdoms §3[1.8-1.20]
@@ -1086,11 +1086,11 @@ networkstate_maintenance_disconnect_online: |-
   §cWe're sorry to interrupt your gaming experience,
   §cbut the server is in maintenance mode now!
   §c 
-  §cMore info at: §e$website_url$/dev
+  §cMore info at: §ehttps://discord.gg/WtnPaBuZpK
 networkstate_maintenance_disconnect: |-
   §cThe network is under maintenance!
   §c 
-  §cMore info at: §e$website_url$/dev
+  §cMore info at: §ehttps://discord.gg/WtnPaBuZpK
 
 
 # Leaderboards
