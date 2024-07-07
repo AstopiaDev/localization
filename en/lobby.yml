@@ -585,6 +585,8 @@ lobby_tags_season_item: '§7Sort by season:'
 lobby_tags_locked_item_lore: |-
   §cLocked
   §r
+  §eRight-Click to preview
+  §r
 
 lobby_tags_purchasable: |-
   §7You can unlock this tag
