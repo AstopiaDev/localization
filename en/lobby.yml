@@ -247,8 +247,8 @@ nick_not_nicked: '$prefix$You are not disguised'
 nick_already_nicked: '$prefix$You are already disguised, to change your nickname first reset it - §c/nick reset'
 nick_reset: '$prefix$Your disguise has been reset.'
 
-lobby_joinmessage_PRO: '%player% §6joined the lobby!'
-lobby_joinmessage_superstar: ' §b>§c>§a>§r %player%§f §6joined the lobby! §a<§c<§b<'
+lobby_joinmessage_PRO: '%player% §ejoined the lobby!'
+lobby_joinmessage_superstar: ' §6» %player%§f §ejoined the lobby! §6«'
 
 lobby_selector_gui_hub_title: 'Hub selection'
 lobby_selector_gui_lobby_title: 'Lobby selection'
