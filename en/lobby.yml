@@ -288,13 +288,7 @@ lobby_languageselector_gui: 'Select Language'
 lobby_gui_myprofile_characterinfo_name: '§aCharacter Information'
 lobby_gui_myprofile_characterinfo_lore: |-
   §7Rank: %rank%
-  §7Level: §6%level%
-  §7Experience until next level: §6%xpuntilnextlevel%
-  §7Achievement points: §e%ap%
-  §7Mystery Dust: §b%mysterydust%
-  §7Quests Completed: §6%questscompleted%
-  §7Karma: §d%karma%
-  §7Astrona Gold: §6%gold%
+  §7Player Points: %playerpoints%
   §7 
   §eClick to see the Sky Kingdoms Store link.
 
