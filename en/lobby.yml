@@ -658,11 +658,7 @@ lobby_customization_punchmsg_lore: |-
   §7use your punch ability!
   §7 
   §cPunching in lobbies is only
-  §cavailable to §6Zeus players
-  §cor those who own the Punching
-  §cFriends item from idk
-  §cwhere. we will do this shit 
-  §clater a bit :P
+  §cavailable to §6Zeus players.
 
 lobby_customization_glow: '§aGlow'
 lobby_customization_glow_lore: |-
