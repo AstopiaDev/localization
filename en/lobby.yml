@@ -587,6 +587,12 @@ lobby_tags_locked_item_lore: |-
   §r
 lobby_tags_selected_item_lore: |-
   §aCurrently selected
+lobby_tags_unselected_item_lore: |-
+  §6Unselected
+  §r
+  §eLeft-Click to select
+  §eRight-Click to preview
+  §r
 
 lobby_tags_purchasable: |-
   §7You can unlock this tag
