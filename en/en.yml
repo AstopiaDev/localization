@@ -27,6 +27,8 @@ core_not_connected: |-
   §fThe connection with it is restored.
   §f
 
+vote_message: '§aFind the vote links here: https://www.skykingdoms.net/vote'
+
 core_userinfo: |-
     §6Username: §f%username%
     §6UUID: §f%uuid%
