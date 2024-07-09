@@ -580,6 +580,7 @@ lobby_statsviewer_skypvp_icon_material: 'DIAMOND_SWORD'
 tags_preview: '%prefix% %name% %tag%'
 lobby_tags_gui: '§8Tags'
 lobby_tags_season_item: '§7Sort by season:'
+loby_tags_year_item: '§7Sort by year:'
 lobby_tags_locked_item_lore: |-
   §cLocked
   §r
