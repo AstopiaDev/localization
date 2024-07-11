@@ -1333,4 +1333,4 @@ rankup_gui_not_enough_lore: |-
 rankup_success: '§eSuccessfully ranked up to rank %rank%§e!'
 rankup_not_enough: '§cYou do not have enough player points to rank up to rank %rank%'
 rankup_already_own: '§cYou already own %rank%§c rank'
-
+message_blocked: '§cThis player has private messages disabled!'
