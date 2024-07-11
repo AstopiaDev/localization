@@ -143,7 +143,7 @@ map_cluster_gui_best_lore: |-
   §f
   §7Total players: §f%total_online%
   §f
-  §epritisnite da bi našli optimalan server!
+  §ePritisnite da bi našli optimalan server!
 
 gamemode_select_icon: '§aMeni Igara §7(Desni klik)'
 gamemode_select_icon_lore: |-
@@ -226,7 +226,7 @@ nick_gui_selector_lore_select_masks: |-
   §c Da nastavite, morate odabrati nadimak
   §ci rank prikrivanja
 nick_gui_selector_lore_click_to_mask: |-
-  §7Bićete višeni kao §c%nick_format% §7za
+  §7Bićete viđeni kao §c%nick_format% §7za
   §7sve igrače
   §f
   §ePritisni te da bi se prikrili!
@@ -234,39 +234,39 @@ nick_gui_selector_lore_click_to_mask: |-
 nick_gui_group_entry: '§6Group %group%'
 nick_gui_group_entry_lore: |-
   §f
-  §7You will be disguised as rank selected here,
-  §7but you will still have 
-  §7all the rights of your rank
+  §7Bićete prikriveni kao odabrani rank,
+  §7ali će te imati sve privilegije
+  §7vašeg pravog ranka
   §c
 nick_gui_group_entry_lore_selected: |-
-  §cThis rank is already selected for disguise
+  §cRank je odabran za prikrivanje
 nick_gui_group_entry_lore_select: |-
-  §eClick to select this rank
+  §ePritisnite da odaberete rank
 
-nick_too_long: '$prefix$Specified nickname is too long or has invalid characters!'
-nick_not_nicked: '$prefix$You are not disguised'
-nick_already_nicked: '$prefix$You are already disguised, to change your nickname first reset it - §c/nick reset'
-nick_reset: '$prefix$Your disguise has been reset.'
+nick_too_long: '$prefix$Nadimak je previše dugačak ili ima nevažeće karaktere!' 
+nick_not_nicked: '$prefix$Niste prikriveni' 
+nick_already_nicked: '$prefix$Već ste prikriveni, da bi promenili vaš nadimak, prvo ga resetujte - §c/nick reset' 
+nick_reset: '$prefix$Vaše prikrivanje je resetovano.' 
 
-lobby_joinmessage_PRO: '%player% §6joined the lobby!'
-lobby_joinmessage_superstar: ' §b>§c>§a>§r %player%§f §6joined the lobby! §a<§c<§b<'
+lobby_joinmessage_PRO: '%player% §6se pridružio u lobi!'
+lobby_joinmessage_superstar: ' §b>§c>§a>§r %player%§f §6se pridružio u lobi! §a<§c<§b<'
 
-lobby_selector_gui_hub_title: 'Hub selection'
-lobby_selector_gui_lobby_title: 'Lobby selection'
-lobby_selector_gui_no_lobbies: '§6No lobbies found'
+lobby_selector_gui_hub_title: 'Selekcija huba'
+lobby_selector_gui_lobby_title: 'Selekcija lobija'
+lobby_selector_gui_no_lobbies: '§6Nema pronađenog lobija'
 lobby_selector_gui_no_lobbies_lore: |-
-  §7We didn't find a lobby for this game mode.
-  §7Our developers already trying to fix problem :)
+  §7Nismo uspeli da pronađemo lobi za ovu igru.
+  §7Developeri pokušavaju da reše problem :) 
 lobby_selector_gui_lobby_entry_available: '§a%lobby_name%'
 lobby_selector_gui_lobby_entry_already_in: '§c%lobby_name%'
 lobby_selector_gui_lobby_entry_offline: '§c%lobby_name%'
 lobby_selector_gui_lobby_entry_offline_lore: '§7Offline'
-lobby_selector_gui_lobby_entry_online: '§7Players: %online%'
-lobby_selector_gui_lobby_entry_friend_title: '§7Online friends in lobby:'
+lobby_selector_gui_lobby_entry_online: '§7Igrača: %online%'
+lobby_selector_gui_lobby_entry_friend_title: '§7Online prijatelji u lobiju:'
 lobby_selector_gui_lobby_entry_friend: '§f- %friend_name%'
-lobby_selector_gui_lobby_entry_more_friends: '§7...and §f%format% §7 more'
-lobby_selector_gui_lobby_entry_already_in_lore: '§cYou are already in this lobby'
-lobby_selector_gui_lobby_entry_connect_lore: '§eClick to join lobby'
+lobby_selector_gui_lobby_entry_more_friends: '§7...i §f%format% §7 više'
+lobby_selector_gui_lobby_entry_already_in_lore: '§cVeć ste u ovom lobiju!' 
+lobby_selector_gui_lobby_entry_connect_lore: '§ePritisnite da se pridružite lobiju' 
 
 # here we write which modes are already translated
 
