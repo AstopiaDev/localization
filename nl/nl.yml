@@ -1,24 +1,24 @@
 # =======================
 #         General
 # =======================
-prefix: '§b§lASTRONA §8§L> §7'
-discord_link: 'https://discord.gg/astrona'
-store_link: 'https://store.astrona.net'
+prefix: '§b§lSKY§6§lKINGDOMS §8§L> §7'
+discord_link: 'https://discord.gg/WtnPaBuZpK'
+store_link: 'https://skykingdoms.net'
 
 motd: |-
-    §7               §bAstrona Network §3[1.8-1.20]
-    §7                      §7In development...
+    §7               §6Sky Kingdoms §3[1.8-1.20]
+    §7Updated Lobbies - Survival Update - Summer Crates
 motd_maintenance: |-
-    §7               §bAstrona Network §3[1.8-1.20]
+    §7               §bSky§6 Kingdoms §e[1.8-1.21]
     §7                     §cMAINTENANCE MODE
 motd_devserver: |-
-    §7               §bAstrona Network §3[1.8-1.20]
+    §7               §6Sky Kingdoms §3[1.8-1.20]
     §7                     §bDevelopment Server
 motd_alpha: |-
-    §7               §bAstrona Network §3[1.8-1.20]
+    §7               §6Sky Kingdoms §3[1.8-1.20]
     §7                     §6ALPHA-SERVER
 motd_not_connected: |-
-    §7               §bAstrona Network §3[1.8-1.20]
+    §7               §6Sky Kingdoms §3[1.8-1.20]
     §7                      §cTechnical issues
 core_not_connected: |-
   §cThe main game Coordinator has disconnected :(
@@ -26,6 +26,8 @@ core_not_connected: |-
   §fYou will be able to log in as soon as
   §fThe connection with it is restored.
   §f
+
+vote_message: '§aFind the vote links here: https://www.skykingdoms.net/vote'
 
 core_userinfo: |-
     §6Username: §f%username%
@@ -43,15 +45,15 @@ never: '§cnever'
 close: '§cClose'
 general_line: '§9§m-------------------------------------------------'
 
-unclaimed_level_rewards: '{"text":"§aYou have §b%rewards% §aunclaimed leveling %ending%","clickEvent":{"action":"run_command","value":"/rewards"},"hoverEvent":{"action":"show_text","value":"§eClick to open the §3Astrona Leveling §emenu"}}'
+unclaimed_level_rewards: '{"text":"§aYou have §b%rewards% §aunclaimed leveling %ending%","clickEvent":{"action":"run_command","value":"/rewards"},"hoverEvent":{"action":"show_text","value":"§eClick to open the §6Sky Kingdoms Leveling §emenu"}}'
 
 unclaimed_level_rewards_onemore: 'rewards\n§eClick here to view them!'
 unclaimed_level_rewards_single: 'reward\n§eClick here to view it!'
 unclaimed_level_rewards_plural: 'rewards\n§eClick here to view them!'
 
-open_rewards_menu_description: '§eClick to open the §3Astrona Leveling §emenu'
+open_rewards_menu_description: '§eClick to open the §6Sky Kingdoms Leveling §emenu'
 
-store_link_message: '§eRanks, Mystery Boxes, Network Boosters and more: §b$store_link$'
+store_link_message: '§eRanks, Crates and more: §b$store_link$'
 
 
 # =======================
@@ -62,19 +64,19 @@ store_link_message: '§eRanks, Mystery Boxes, Network Boosters and more: §b$sto
 #         Scoreboards
 # =======================
 board_display_name: '§e§l%name%'
-board_achievements: '§fAchievements: §e%achievements%'
-board_netlevel: '§fNetwork Level: §3%level%'
-board_coins: '§fCoins: §a%coins%'
-board_tokens: '§fTokens: §2%tokens%'
-board_lobby: '§fLobby: §a%number%'
-board_online: '§fPlayers: §a%online%'
+board_achievements: '§fAchievements » §e%achievements%'
+board_netlevel: '§fNetwork Level » §3%level%'
+board_coins: '§fCoins » §a%coins%'
+board_tokens: '§fTokens » §2%tokens%'
+board_lobby: '§fLobby » §a%number%'
+board_online: '§fPlayers » §a%online%'
 board_datetime: '§7%time%'
-board_group: '§fRank: §c%rank%'
+board_group: '§fRank » §c%rank%'
 board_website: '§e$website_url$'
-board_hub_title: "ASTRONA"
-board_kills: '§fKills: §a%kills%'
-board_deaths: '§fDeaths: §a%deaths%'
-board_money: '§fMoney: §2$%money%'
+board_hub_title: "Sky Kingdoms"
+board_kills: '§fKills » §a%kills%'
+board_deaths: '§fDeaths » §a%deaths%'
+board_money: '§fMoney » §2$%money%'
 pack_board_achievements: '§f Achievements: §e%achievements%'
 pack_board_netlevel: '§f Network Level: §3%level%'
 pack_board_coins: '§f Coins: §a%coins%'
@@ -131,7 +133,7 @@ levelup: |-
   §f$big_notify_message_line$
   §f 
   §f                      §a§ke§f §6LEVEL UP §a§ke
-  §f            §7You are now §3Astrona Level §a%level%§7!
+  §f            §7You are now §6Sky Kingdoms Level §a%level%§7!
   §f 
   §f    §7Play games, collect rewards, and complete quests!
   §f 
@@ -168,12 +170,12 @@ prev_page_name: '§6Previous page'
 next_page_name: '§6Next page'
 go_to_page: '§7Go to page %page%/%max%'
 
-server_name: 'Astrona Network'
+server_name: 'Sky Kingdoms'
 vk_group_url: 'vk.com/travellerland'
 vk_support_url: 'vk.me/travellerland'
-website_url: 'www.astrona.net'
+website_url: 'skykingdoms.net'
 discord: '§d§lDiscord'
-discord_url: 'https://discord.gg/astrona'
+discord_url: 'https://discord.gg/WtnPaBuZpK'
 discord_clicktojoin: |-
   §a §a
   §aJoin our discord server to keep up with updates!
@@ -197,11 +199,11 @@ fallback_server_notify: |-
 
 tab_header: |-
   §r
-  §r §bYou are playing on §3§lASTRONA.NET §r
+  §r §b§lSky §6§lKingdoms §r
   §r
 tab_footer: |-
   §r
-  §estore.astrona.net
+  §estore.skykingdoms.net
   §r
 
   
@@ -285,9 +287,9 @@ gamemode_unavailable_timer: "$prefix$You can't change gamemode in fight"
 gamemode_changed: 'Updated your game mode to %mode%'
 gamemode_target_changed: '$prefix$You changed the player gamemode %target%'
 
-right_click: '§e§lRIGHT CLICK'
+right_click: '§7Right-Click'
 shop_icon: '§aShop §7(Right Click)'
-lobby_select_icon: '§aLobby Selector §7(Right Click)'
+lobby_select_icon: '§eLobby Selector §7(Right Click)'
 lobby_select_icon_lore: |-
   §7Right-click to switch between different lobbies!
   §7Use this to stay with your friends.
@@ -381,7 +383,7 @@ settings_splitter_name: '§8⇡ §7Categories'
 settings_splitter_lore: '§8⇣ §7Settings'
 
 clickable_settings_category_lore: '§eClick to view!'
-requires_superstar_to_enable: '§cRequires §6PRO§c+ to enable!'
+requires_superstar_to_enable: '§cRequires §6Zeus to enable!'
 settings_pmprivacy_lore: |-
   §7Options:
   §f§c%arrow-max%Max
@@ -1086,11 +1088,11 @@ networkstate_maintenance_disconnect_online: |-
   §cWe're sorry to interrupt your gaming experience,
   §cbut the server is in maintenance mode now!
   §c 
-  §cMore info at: §e$website_url$/dev
+  §cMore info at: §ehttps://discord.gg/WtnPaBuZpK
 networkstate_maintenance_disconnect: |-
   §cThe network is under maintenance!
   §c 
-  §cMore info at: §e$website_url$/dev
+  §cMore info at: §ehttps://discord.gg/WtnPaBuZpK
 
 
 # Leaderboards
@@ -1152,12 +1154,12 @@ rarity_epic: '§5§lEPIC'
 rarity_legendary: '§6§lLEGENDARY'
 
 # rewards
-astrona_experience: 'Astrona Experience'
+astrona_experience: 'Sky Kingdoms Experience'
 reward_coin_mode_name: '§6%amount% §7%mode%'
 reward_coin_name: '§6%amount%'
 reward_gold_name: '§e%amount%'
 reward_dust_name: '§5%amount% mystery dust'
-reward_experience_name: '§3%exp% Astrona Experience'
+reward_experience_name: '§3%exp% Sky Kingdoms Experience'
 reward_game_item_name: '§a%name% §8(§7%category%§8)'
 
 # disguises
@@ -1271,11 +1273,64 @@ report_book_submit_tt: "Click to report %name% for %reason%"
 report_error_self: '§cYou cannot report yourself!'
 report_error_alreadycreated: '§cYou already have %type%-report opened on %player%'
 report_error_internal_error: '§cInternal error occurred on report creation procedure! Contact admins >.<'
-report_error_unknown_error: '§cUnknown nigga error ahhh'
+report_error_unknown_error: '§cUnknown  error ahhh'
 
-report_accepted_notification: "§aYour §e%type%§a-record against %name% was accepted! Thanks for your feedback!"
-report_denied_notification: "§cYour §e%type%§c-record against %name% was denied. Thanks for wasting our time, dumb nigger"
+report_accepted_notification: '§aYour §e%type%§a-record against %name% was accepted! Thanks for your feedback!'
+report_denied_notification: '§cYour §e%type%§c-record against %name% was denied.'
 
 # watchcat
-watchcat_ban_broadcast: "§f[WATCHCAT CHEAT DETECTION] §c§lA player has been removed from your game for hacking or abuse"
-staff_ban_broadcast: "§c§lA player has been removed from your game for hacking or abuse. §bThanks for reporting it!"
+watchcat_ban_broadcast: '§f[WATCHCAT CHEAT DETECTION] §c§lA player has been removed from your game for hacking or abuse'
+staff_ban_broadcast: '§c§lA player has been removed from your game for hacking or abuse. §bThanks for reporting it!'
+
+#vote
+vote_received_player_points: '§eYou received§6 %points% player points§e from voting!'
+
+#rankup
+rankup_gui: 'Rank Up'
+rankup_gui_vip: '§bVip'
+rankup_gui_vip_lore: |-
+  §f
+  §7Rankup to §bVip§7 and
+  §7receive new QOL perks.
+  §f
+  §8Cost: %cost% player points
+  §6Click to rankup!
+rankup_gui_vip_own_lore: |-
+  §cYou already own §bVip§c rank
+  §cor higher!
+rankup_gui_donator: '§2Donator'
+rankup_gui_donator_lore: |-
+  §f
+  §7Rankup to §2Donator§7 and
+  §7receive new QOL perks.
+  §f
+  §8Cost: %cost% player points
+  §6Click to rankup!
+rankup_gui_donator_own_lore: |-
+  §cYou already own §2Donator§c rank
+  §cor higher!
+rankup_gui_hero: '§cHero'
+rankup_gui_hero_lore: |-
+  §f
+  §7Rankup to §cHero§7 and
+  §7receive new QOL perks.
+  §f
+  §8Cost: %cost% player points
+  §6Click to rankup!
+rankup_gui_hero_own_lore: |-
+  §cYou already own Hero rank
+  §cor higher!
+rankup_gui_not_enough: '§6Not Enough?'
+rankup_gui_not_enough_lore: |-
+  §f
+  §7Do you want a higher rank
+  §7and better & more perks?
+  §7
+  §7Head over to our store
+  §7to buy a higher rank!
+  §7
+  §6Click here for the link!
+rankup_success: '§eSuccessfully ranked up to rank %rank%§e!'
+rankup_not_enough: '§cYou do not have enough player points to rank up to rank %rank%'
+rankup_already_own: '§cYou already own %rank%§c rank'
+message_blocked: '§cThis player has private messages disabled!'

@@ -1,661 +1,780 @@
 gamemode_selector_gui_no_slots_lore: |-
   §f
-  §cThere is no empty slots
+  §cEr zijn geen lege slots
   §f
-  §7If you want to join full servers
-  §7purchase §nany rank§7 on our site
+  §7Als je volledige servers wilt joinen
+  §7koop dan §nieder rang§7 op onze site
   §f
-  §7Our site: §f$website_url$
+  §7Onze site: §f$website_url$
 gamemode_selector_gui_full_servers_lore: |-
   §f
-  §7One or more servres are full
-  §7If you want to join full servers
-  §7purchase §nany rank§7 on
-  §7our site §f$website_url$
+  §7Een of meer servers zijn vol
+  §7Als je volledige servers wilt joinen
+  §7koop dan §nieder rang§7 op
+  §7onze site §f$website_url$
 gamemode_selector_gui_offline_lore: |-
-  §cGame mode is offline
-gamemode_selector_gui_title: 'Game modes'
-gamemode_selector_gui_hub_teleport: '§6Return to hub'
+  §cSpelmodus is offline
+gamemode_selector_gui_title: 'Spelmodi'
+gamemode_selector_gui_hub_teleport: '§6Terug naar hub'
 gamemode_selector_gui_hub_teleport_lore: |-
   §f
-  §eClick to teleport
-gamemode_selector_gui_help: '§6Server guide'
+  §eKlik om te teleporteren
+gamemode_selector_gui_help: '§6Server gids'
 gamemode_selector_gui_help_lore: |-
   §f
-  §7For every one that didn`t mastered
-  §7main aspects of $server_name$
+  §7Voor iedereen die de
+  §7belangrijkste aspecten van $server_name$ nog niet beheerst
   §f
-  §eClick to show info
-gamemode_selector_gui_donate: '§6Ranks'
+  §eKlik om informatie te tonen
+gamemode_selector_gui_donate: '§6Rangen'
 gamemode_selector_gui_donate_lore: |-
   §f
-  §7Every one can help project materially.
-  §7And we can offer something to you.
+  §7Iedereen kan het project financieel steunen.
+  §7En we hebben iets voor jou in ruil.
   §f
-  §eClick to go
-gamemode_selector_gui_choose_server: '§eClick to choose server!'
-gamemode_selector_gui_connect: '§eClick to join!'
+  §eKlik om naar de site te gaan
+gamemode_selector_gui_choose_server: '§eKlik om een server te kiezen!'
+gamemode_selector_gui_connect: '§eKlik om te joinen!'
 gamemode_selector_gui_entry_available: '§6%mode%'
 gamemode_selector_gui_entry_disabled: '§c%mode%'
 gamemode_selector_gui_entry_list_item_available: '§f%mode%:'
 gamemode_selector_gui_entry_list_item_full: '§c%mode%:'
 gamemode_selector_gui_single_mode_info: '§7Online: §f%online%§7, servers: §f%servers%'
 gamemode_selector_gui_mode_info: '§7- $gamemode_selector_gui_single_mode_info$'
-gamemode_selector_gui_uncommon_single_online: '§7Online now §f%format%'
-gamemode_selector_gui_uncommon_online: '§7 - Current online: §f%online%/%slots%'
-gamemode_selector_gui_entry_large: '§7Available modes: §f%modes%§7, online: §f%online%'
-gamemode_selector_unavailable: '§cThis game mode is not available!'
+gamemode_selector_gui_uncommon_single_online: '§7Nu online §f%format%'
+gamemode_selector_gui_uncommon_online: '§7 - Huidige online: §f%online%/%slots%'
+gamemode_selector_gui_entry_large: '§7Beschikbare modi: §f%modes%§7, online: §f%online%'
+gamemode_selector_unavailable: '§cDeze spelmodus is niet beschikbaar!'
 
 master_sw_description: |-
-  §7Every player spawns on his island.
-  §7Loot islands and fight players
+  §7Elke speler spawnt op zijn eiland.
+  §7Plunder eilanden en vecht tegen spelers
 
 master_bw_description: |-
-  §7Fight between teams for bed!
-  §7Protect your bed and destroy other ones to win
-  §7If you want to win...
+  §7Vecht tussen teams om het bed!
+  §7Bescherm je bed en vernietig andere bedden om te winnen
+  §7Als je wilt winnen...
 
 uncommon_anarchy_description: |-
-  §7Survive on the only server mode
-  §7WITHOUT RULES! Build your bases,
-  §7go on raids, loot airdrops
-  §7and experience random events!
+  §7Overleef op de enige servermodus
+  §7ZONDER REGELS! Bouw je basissen,
+  §7ga op rooftochten, plunder luchtzendingen
+  §7en ervaar willekeurige gebeurtenissen!
   §f
-  §cRecommended version for playing on
-  §cthis mode - 1.16
+  §cAanbevolen versie om op te spelen
+  §cdeze modus - 1.16
 master_duels_description: |-
-  §7Battle between players on equal terms
-  §7Many modes at your disposal,
-  §7fight solo or with friends
-  §7Find out who's cooler
+  §7Strijd tussen spelers op gelijke voorwaarden
+  §7Veel modi tot je beschikking,
+  §7vecht solo of met vrienden
+  §7Ontdek wie de beste is
 
 master_ag_description: |-
-  §7Fun arcade games for those who
-  §7are already tired of the usual PVP modes!
+  §7Leuke arcade spellen voor degenen die
+  §7al moe zijn van de gebruikelijke PVP-modi!
 
 master_cc_description: |-
-  §7Capture cubes, equip yourself better
-  §7and destroy your rivals!
-  §7Remember that you only have 3 lives
+  §7Verzamel kubussen, rust jezelf beter uit
+  §7en vernietig je rivalen!
+  §7Onthoud dat je slechts 3 levens hebt
 
 master_mm_description: |-
-  §7There's probably a maniac in town...
-  §7Watch out if you're a civilian
-  §7Investigate a murder like a detective, or
-  §7kill all the inhabitants without making noise!
+  §7Er is waarschijnlijk een maniak in de stad...
+  §7Pas op als je een burger bent
+  §7Onderzoek een moord als detective, of
+  §7dood alle inwoners zonder geluid te maken!
 
-uncommon_selector_gui_title: 'Server selection %name%'
-uncommon_selector_gui_no_servers: '§6No servers found'
+uncommon_selector_gui_title: 'Server selectie %name%'
+uncommon_selector_gui_no_servers: '§6Geen servers gevonden'
 uncommon_selector_gui_no_servers_lore: |-
-  §7We have not found servers for this game mode
-  §7They are probably restarting not launched yet
+  §7We hebben geen servers gevonden voor deze spelmodus
+  §7Ze worden waarschijnlijk opnieuw opgestart of zijn nog niet gestart
 
-mini_selector_gui_title: 'Game mode selection'
+mini_selector_gui_title: 'Spelmodus selectie'
 mini_selector_gui_entry: '§6%mode%'
 mini_selector_gui_entry_lore: |-
   §f
-  §7Servers total: §f%servers%
-  §7Servers free: §f%free_servers%
+  §7Totaal aantal servers: §f%servers%
+  §7Beschikbare servers: §f%free_servers%
   §f
-  §7Total players: §f%total_online%
+  §7Totaal aantal spelers: §f%total_online%
   §f
 mini_selector_gui_entry_lore_join: |-
-  §eLMB to start quick game
-  §eRMB to choose server and map
+  §eLMB om een snel spel te starten
+  §eRMB om een server en kaart te kiezen
 mini_selector_gui_entry_lore_queue: |-
-  §eClick to get in queue
+  §eKlik om in de wachtrij te komen
 mini_selector_gui_entry_lore_unavailable: |-
   §f
-  §7This mode temporarily does not work or did not start.
-  §7Wait a while, we are fixing problem :)
-arena_spectate_gui_title: 'Game spectating'
-arena_spectate_gui_entry: '§6Game %mini%'
+  §7Deze modus werkt tijdelijk niet of is nog niet gestart.
+  §7Wacht even, we zijn het probleem aan het oplossen :)
+arena_spectate_gui_title: 'Spel bekijken'
+arena_spectate_gui_entry: '§6Spel %mini%'
 arena_spectate_gui_entry_lore: |-
   §f
-  §7Current map: §a%map%
-  §7Players online: §a%players%
+  §7Huidige kaart: §a%map%
+  §7Spelers online: §a%players%
   §f
-  §eClick to go to %server% server
-arena_spectate_gui_no_permission_icon: '§6Spectating is unavailable'
+  §eKlik om naar de %server% server te gaan
+arena_spectate_gui_no_permission_icon: '§6Bekijken niet beschikbaar'
 arena_spectate_gui_no_permission_icon_lore: |-
-  §7Only §6Premium §7and higher players
-  §7can spectate running games.
-  §7You can purchase ranks on
-  §7the website §f$website_url$
-arena_spectate_gui_no_arenas_icon: '§6No games running'
+  §7Alleen §6Premium §7en hogere spelers
+  §7kunnen lopende spellen bekijken.
+  §7Je kunt rangen kopen op
+  §7de website §f$website_url$
+arena_spectate_gui_no_arenas_icon: '§6Geen lopende spellen'
 arena_spectate_gui_no_arenas_icon_lore: |-
-  §7No games have started yet or
-  §7all games have already ended
-map_cluster_gui_title: 'Map selection: %mode%'
+  §7Er zijn nog geen spellen gestart of
+  §7alle spellen zijn al afgelopen
+map_cluster_gui_title: 'Kaart selectie: %mode%'
 map_cluster_gui_entry: '§6%map_name%'
 map_cluster_gui_entry_lore: |-
   §f
-  §7Players waiting for game: §c%total_online%
-  §7Total servers: §c%total_servers%
+  §7Spelers die op het spel wachten: §c%total_online%
+  §7Totaal aantal servers: §c%total_servers%
   §f
-  §eClick to play on this map!
-map_cluster_gui_best: '§6Optimal server'
+  §eKlik om op deze kaart te spelen!
+map_cluster_gui_best: '§6Optimale server'
 map_cluster_gui_best_lore: |-
   §f
-  §7Free servers: §f%stand_by_servers%
-  §7Total servers: §f%total_servers%
+  §7Beschikbare servers: §f%stand_by_servers%
+  §7Totaal aantal servers: §f%total_servers%
   §f
-  §7Total players: §f%total_online%
+  §7Totaal aantal spelers: §f%total_online%
   §f
-  §eClick to find optimal server!
+  §eKlik om de optimale server te vinden!
 
-gamemode_select_icon: '§aGame Menu §7(Right Click)'
+gamemode_select_icon: '§aSpelmenu §7(Rechterklik)'
 gamemode_select_icon_lore: |-
-  §7Right Click to bring up the Game Menu!
+  §7Rechterklik om het spelmenu te openen!
 
-spectate_npc_hologram_title: '§eSpectate games'
-spectate_npc_hologram_action: '§fClick to open'
+spectate_npc_hologram_title: '§eBekijk spellen'
+spectate_npc_hologram_action: '§fKlik om te openen'
 
-gamemode_npc_full_single: '§cThere are no free slots on the game mode'
-gamemode_npc_full_plural: '§cThere are no free slots on the game mode'
+gamemode_npc_full_single: '§cEr zijn geen vrije slots in de spelmodus'
+gamemode_npc_full_plural: '§cEr zijn geen vrije slots in de spelmodus'
 
-gamemode_npc_maintenance: '§c§lMAINTENANCE'
+gamemode_npc_maintenance: '§c§lONDERHOUD'
 
-gamemode_npc_status_players: '§e%players% Playing'
-gamemode_npc_default_status: '§e§lCLICK TO JOIN'
+gamemode_npc_status_players: '§e%players% Spelen'
+gamemode_npc_default_status: '§e§lKLIK OM TE JOINEN'
 
-# dynamic NPC status lines declared here
-gamemode_npc_skywars_status: '§d§lIN DEVELOPMENT'
+# dynamische NPC statusregels hier gedeclareerd
+#gamemode_npc_skywars_status: '§d§lIN ONTWIKKELING'
 
-game_status_holo_info_total_online: '§fTotal players §7- §c%value%'
-game_status_holo_info_total_servers: '§fTotal servers §7- §c%value%'
-game_status_holo_info_busy_servers: '§fThe game is in progress §7- §c%value%'
-game_status_holo_info_free_servers: '§fFree servers §7- §c%value%'
+game_status_holo_info_total_online: '§fTotaal aantal spelers §7- §c%value%'
+game_status_holo_info_total_servers: '§fTotaal aantal servers §7- §c%value%'
+game_status_holo_info_busy_servers: '§fHet spel is bezig §7- §c%value%'
+game_status_holo_info_free_servers: '§fVrije servers §7- §c%value%'
 
 elite_not_available: |-
-  $prefix$This feature is only available for §aElite §fsubscribers
-  §c * §fYou can buy subscribe on our website §d$website_url$
+  $prefix$Deze functie is alleen beschikbaar voor §aElite §fabonnees
+  §c * §fJe kunt een abonnement kopen op onze website §d$website_url$
 
-nick_error_no_nicks_found: '$prefix$Random nicknames for disguise were not found. Please try again later'
-nick_error_invalid_name: '$prefix$The nickname you specified cannot be installed'
-nick_error_user_not_found: '$prefix$An unknown error occurred when installing the nickname (not connected to the game coordinator)'
-nick_error_already_used: '$prefix$The nickname you specified is already being used by someone'
-nick_error_already_registered: '$prefix$The player with the nickname you specified is already registered on the server'
+nick_error_no_nicks_found: '$prefix$Er zijn geen willekeurige bijnamen voor vermomming gevonden. Probeer het later opnieuw'
+nick_error_invalid_name: '$prefix$De opgegeven bijnaam kan niet worden ingesteld'
+nick_error_user_not_found: '$prefix$Er is een onbekende fout opgetreden bij het instellen van de bijnaam (niet verbonden met de spelcoördinator)'
+nick_error_already_used: '$prefix$De opgegeven bijnaam wordt al door iemand anders gebruikt'
+nick_error_already_registered: '$prefix$De speler met de opgegeven bijnaam is al geregistreerd op de server'
 
-nick_selected: '§aYou have successfully changed your nickname to §a%nick%'
+nick_selected: '§aJe hebt je bijnaam succesvol gewijzigd in §a%nick%'
 
-nick_gui_title: 'Disguise settings'
-nick_gui_nickname_entry: '§6Nickname %nick%'
+nick_gui_title: 'Vermomming instellingen'
+nick_gui_nickname_entry: '§6Bijnaam %nick%'
 nick_gui_nickname_entry_lore: |-
   §f
-  §7This nickname will be displayed to everyone
-  §7players when you log in
-  §7to the server
+  §7Deze bijnaam wordt weergegeven aan alle
+  §7spelers wanneer je inlogt op
+  §7de server
   §c
 nick_gui_nickname_entry_lore_selected: |-
-  §cThis nickname is already selected by you
+  §cDeze bijnaam is al door jou geselecteerd
 nick_gui_nickname_entry_lore_select: |-
-  §eClick to select this nickname
+  §eKlik om deze bijnaam te selecteren
 
-nick_gui_special_groups: '§6Special ranks'
+nick_gui_special_groups: '§6Speciale rangen'
 nick_gui_special_groups_lore: |-
   §f
-  §7Special ranks for disguise, available only
-  §7for the chosen ones...
-  §7You are the chosen one! Welcome to this section
+  §7Speciale rangen voor vermomming, alleen beschikbaar
+  §7voor de uitverkorenen...
+  §7Jij bent de uitverkorene! Welkom in deze sectie
   §f
-  §eClick to browse special ranks
+  §eKlik om speciale rangen te bekijken
 
-nick_gui_normal_groups: '§6Common ranks'
+nick_gui_normal_groups: '§6Gewone rangen'
 nick_gui_normal_groups_lore: |-
   §f
-  §7Return to standart ranks, available for
-  §7disguise by default
+  §7Keer terug naar standaard rangen, beschikbaar
+  §7voor vermomming bij default
   §f
-  §eClick to return to common ranks
+  §eKlik om terug te keren naar gewone rangen
 
-nick_default_group: '§7player'
+nick_default_group: '§7speler'
 
-nick_gui_selector: '§6Change nickname'
+nick_gui_selector: '§6Verander bijnaam'
 nick_gui_selector_lore: |-
   §f
-  §7Complete the disguise process and switch 
-  §7to using the selected nickname and prefix
+  §7Voltooi het vermommingsproces en schakel
+  §7over naar het gebruik van de geselecteerde bijnaam en prefix
   §f
-  §cAttention! §7Your friends and project staff
-  §7will be able to see your disguise. Violation
-  §7the rules of the project is still punishable!
+  §cLet op! §7Je vrienden en projectmedewerkers
+  §7zullen je vermomming kunnen zien. Overtreding
+  §7van de projectregels wordt nog steeds bestraft!
   §f
 nick_gui_selector_lore_select_masks: |-
-  §cTo continue, you must select a nickname
-  §cand rank of disguise
+  §cOm door te gaan, moet je een bijnaam
+  §cen rang voor vermomming selecteren
 nick_gui_selector_lore_click_to_mask: |-
-  §7You will be seen as §c%nick_format% §7for
-  §7all players
+  §7Je wordt gezien als §c%nick_format% §7voor
+  §7alle spelers
   §f
-  §eClick to disguise
+  §eKlik om te vermommen
 
-nick_gui_group_entry: '§6Group %group%'
+nick_gui_group_entry: '§6Groep %group%'
 nick_gui_group_entry_lore: |-
   §f
-  §7You will be disguised as rank selected here,
-  §7but you will still have 
-  §7all the rights of your rank
+  §7Je wordt vermomd als de hier geselecteerde rang,
+  §7maar je behoudt 
+  §7alle rechten van je eigen rang
   §c
 nick_gui_group_entry_lore_selected: |-
-  §cThis rank is already selected for disguise
+  §cDeze rang is al geselecteerd voor vermomming
 nick_gui_group_entry_lore_select: |-
-  §eClick to select this rank
+  §eKlik om deze rang te selecteren
 
-nick_too_long: '$prefix$Specified nickname is too long or has invalid characters!'
-nick_not_nicked: '$prefix$You are not disguised'
-nick_already_nicked: '$prefix$You are already disguised, to change your nickname first reset it - §c/nick reset'
-nick_reset: '$prefix$Your disguise has been reset.'
+nick_too_long: '$prefix$De opgegeven bijnaam is te lang of bevat ongeldige tekens!'
+nick_not_nicked: '$prefix$Je bent niet vermomd'
+nick_already_nicked: '$prefix$Je bent al vermomd, om je bijnaam te veranderen moet je deze eerst resetten - §c/nick reset'
+nick_reset: '$prefix$Je vermomming is gereset.'
 
-lobby_joinmessage_PRO: '%player% §6joined the lobby!'
-lobby_joinmessage_superstar: ' §b>§c>§a>§r %player%§f §6joined the lobby! §a<§c<§b<'
+lobby_joinmessage_PRO: '%player% §eheeft zich aangesloten bij de lobby!'
+lobby_joinmessage_superstar: ' §6» %player%§f §eheeft zich aangesloten bij de lobby! §6«'
 
-lobby_selector_gui_hub_title: 'Hub selection'
-lobby_selector_gui_lobby_title: 'Lobby selection'
-lobby_selector_gui_no_lobbies: '§6No lobbies found'
+lobby_selector_gui_hub_title: 'Hub selectie'
+lobby_selector_gui_lobby_title: 'Lobby selectie'
+lobby_selector_gui_no_lobbies: '§6Geen lobbies gevonden'
 lobby_selector_gui_no_lobbies_lore: |-
-  §7We didn't find a lobby for this game mode.
-  §7Our developers already trying to fix problem :)
+  §7We hebben geen lobby gevonden voor deze spelmodus.
+  §7Onze ontwikkelaars proberen het probleem al op te lossen :)
 lobby_selector_gui_lobby_entry_available: '§a%lobby_name%'
 lobby_selector_gui_lobby_entry_already_in: '§c%lobby_name%'
 lobby_selector_gui_lobby_entry_offline: '§c%lobby_name%'
 lobby_selector_gui_lobby_entry_offline_lore: '§7Offline'
-lobby_selector_gui_lobby_entry_online: '§7Players: %online%'
-lobby_selector_gui_lobby_entry_friend_title: '§7Online friends in lobby:'
+lobby_selector_gui_lobby_entry_online: '§7Spelers: %online%'
+lobby_selector_gui_lobby_entry_friend_title: '§7Online vrienden in lobby:'
 lobby_selector_gui_lobby_entry_friend: '§f- %friend_name%'
-lobby_selector_gui_lobby_entry_more_friends: '§7...and §f%format% §7 more'
-lobby_selector_gui_lobby_entry_already_in_lore: '§cYou are already in this lobby'
-lobby_selector_gui_lobby_entry_connect_lore: '§eClick to join lobby'
+lobby_selector_gui_lobby_entry_more_friends: '§7...en §f%format% §7 meer'
+lobby_selector_gui_lobby_entry_already_in_lore: '§cJe bent al in deze lobby'
+lobby_selector_gui_lobby_entry_connect_lore: '§eKlik om deel te nemen aan de lobby'
 
-# here we write which modes are already translated
+# hier schrijven we welke modi al vertaald zijn
 
 lobby_languageselector_self_item_lore: |-
-  §7Change language to English.
+  §7Verander taal naar Nederlands.
   §7 
-  §7Currently available:
-  §f  * SkyClash
+  §7Momenteel beschikbaar:
+  §f  * Moord Mysterie
+  §f  * Skywars
+  §f  * Skyblock
+  §f  * Skypvp
+  §f  * Overleven
   §f  * Bed Wars
-  
+  §f  * Facties
 
-# My Profile
-lobby_gui_myprofile_characterinfo_name: '§aCharacter Information'
+lobby_languageselector_gui: 'Selecteer Taal'
+  
+# Mijn Profiel
+lobby_gui_myprofile_characterinfo_name: '§aKarakter Informatie'
 lobby_gui_myprofile_characterinfo_lore: |-
-  §7Rank: %rank%
-  §7Level: §6%level%
-  §7Experience until next level: §6%xpuntilnextlevel%
-  §7Achievement points: §e%ap%
-  §7Mystery Dust: §b%mysterydust%
-  §7Quests Completed: §6%questscompleted%
-  §7Karma: §d%karma%
-  §7Astrona Gold: §6%gold%
+  §7Rang: %rank%
+  §7Spelerpunten: %playerpoints%
   §7 
-  §eClick to see the Astrona Store link.
+  §eKlik om de Sky Kingdoms Winkel link te zien.
 
 friend_gui_lore: |-
-  §7Astrona Level: §6%level%
-  §7Achievement Points: §e%ap%
-  §7Guild: %guild%
+  §7Astrona Niveau: §6%level%
+  §7Prestatiepunten: §e%ap%
+  §7Gilde: %guild%
 
 friend_gui_lore_online: |-
-  §7Online Status: §b%status%
+  §7Online status: §b%status%
 
 friend_gui_lore_offline: |-
-  §7Last Online: §b%last%
+  §7Laatst online: §b%last%
 
-lobby_gui_myprofile_title: 'My Profile'
+lobby_gui_myprofile_title: 'Mijn Profiel'
 lobby_gui_myprofile_head_lore: |-
-  §7Astrona Level: §6%level%
-  §7Achievement Points: §e%ap%
+  §7Astrona Niveau: §6%level%
+  §7Prestatiepunten: §e%ap%
 
-lobby_gui_myprofile_friends_name: '§aFriends'
+lobby_gui_myprofile_friends_name: '§aVrienden'
 lobby_gui_myprofile_friends_lore: |-
-  §7View your Astrona friends'
-  §7profiles, and interact with your
-  §7online friends!
+  §7Bekijk de profielen van je
+  §7Astrona vrienden en interacteer
+  §7met je online vrienden!
 
 lobby_gui_myprofile_party_name: '§aParty'
 lobby_gui_myprofile_party_lore: |-
-  §7Create a party and join up with
-  §7other players to play games
-  §7together!
+  §7Maak een party en speel samen
+  §7met andere spelers!
 
-lobby_gui_myprofile_guild_name: '§aGuild'
+lobby_gui_myprofile_guild_name: '§aGilde'
 lobby_gui_myprofile_guild_lore: |-
-  §7Form a guild with other Astrona
-  §7players to conquer game modes
-  §7and work towards common Astrona
-  §7rewards.
+  §7Vorm een gilde met andere
+  §7Astrona spelers om spelmodi
+  §7te veroveren en werk samen
+  §7aan gemeenschappelijke Astrona
+  §7beloningen.
 
-lobby_gui_myprofile_recentplayers_name: '§aRecent Players'
+lobby_gui_myprofile_recentplayers_name: '§aRecente Spelers'
 lobby_gui_myprofile_recentplayers_lore: |-
-  §7View players you have played
-  §7recent games with.
+  §7Bekijk spelers met wie je
+  §7recent hebt gespeeld.
 
-lobby_gui_myprofile_gotohousing_name: '§aGo to Housing'
+lobby_gui_myprofile_rankup_name: '§aRank Up'
+lobby_gui_myprofile_rankup_lore: |-
+  §7Verkrijg perks om je
+  §7spelervaring te verbeteren!
+  §7
+  §7Gratis Rangen:
+  §f  • Vip
+  §f  • Donateur
+  §f  • Held
+  §7
+  §eKlik om je rang te verhogen!
 
-lobby_gui_myprofile_socialmedia_name: '§aSocial Media'
+lobby_gui_myprofile_gotohousing_name: '§aGa naar Housing'
+
+lobby_gui_myprofile_socialmedia_name: '§aSociale Media'
 lobby_gui_myprofile_socialmedia_lore: |-
-  §7Click to edit your Social Media
-  §7links.
+  §7Klik om je Sociale Media
+  §7links te bewerken.
 
-lobby_gui_myprofile_statsviewer_name: '§aStats Viewer'
+lobby_gui_myprofile_statsviewer_name: '§aStatistieken Weergeven'
 lobby_gui_myprofile_statsviewer_lore: |-
-  §7Showcases your stats for each
-  §7game and an overview of all.
+  §7Toont je individuele
+  §7spelstatistieken en een
+  §7uitgebreid overzicht van
+  §7al je spellen.
   §7 
-  §7Players ranked §bPRO §7or higher
-  §7can use §f/stats (username) §7to view
-  §7other players' stats.
+  §7Spelers die de
+  §7§6Zeus §7rang of hoger hebben gekocht
+  §7kunnen §f/stats (gebruikersnaam) §7gebruiken
+  §7om de statistieken van andere
+  §7spelers te bekijken.
   §7 
-  §eClick to view your stats!
+  §eKlik om je statistieken te bekijken!
 
-lobby_gui_myprofile_coinboosters_name: '§aCoin Boosters'
+lobby_gui_myprofile_coinboosters_name: '§aMunt Boosters'
 lobby_gui_myprofile_coinboosters_lore: |-
-  §7Activate your personal
-  §7and network boosters for
-  §7extra coins.
+  §7Activeer je persoonlijke
+  §7en netwerk boosters voor
+  §7extra munten.
   §7 
-  §eClick to activate
-  §eboosters!
+  §eKlik om boosters
+  §ete activeren!
 
-lobby_gui_myprofile_appearances_name: '§aCustomize Appearances'
+lobby_gui_myprofile_appearances_name: '§aUiterlijk Aanpassen'
 lobby_gui_myprofile_appearances_lore: |-
   §7 
-  §7Customize the following visual
-  §7options for your player!
-  §f  • PRO+ Rank Color
-  §f  • Punch Messages
-  §f  • Glow
-  §f  • Status
+  §7Pas de volgende visuele
+  §7opties voor je speler aan!
+  §f  • Punch Berichten
+  §f  • Tags
   §7 
-  §eClick to view!
+  §eKlik om te bekijken!
 
-lobby_gui_myprofile_achievements_name: '§aAchievements'
+lobby_gui_myprofile_achievements_name: '§aPrestaties'
 lobby_gui_myprofile_achievements_lore: |-
-  §7Track your progress as you unlock
-  §7Achievements and rank up points.
+  §7Volg je voortgang terwijl je
+  §7Prestaties vrijspeelt en
+  §7punten verzamelt.
   §7 
-  §eClick to view your achievements!
+  §eKlik om je prestaties te bekijken!
 
 lobby_gui_myprofile_leveling_name: '§aAstrona Leveling'
 lobby_gui_myprofile_leveling_lore: |-
-  §7Playing games and completing quests
-  §7will reward you with §3Astrona Experience§7,
-  §7which is required to level up and
-  §7acquire new perks and rewards!
+  §7Spellen spelen en quests voltooien
+  §7belonen je met §3Astrona Ervaring§7,
+  §7wat nodig is om een level omhoog
+  §7te gaan en nieuwe perks en
+  §7beloningen te verkrijgen!
   §7 
-  §3Astrona Level §a%level% %bar%
+  §3Astrona Niveau §a%level% %bar%
   §7 
-  §7Experience until next level: §3%xpuntilnextlevel%
+  §7Ervaring tot het volgende niveau: §3%xpuntilnextlevel%
   §7 
-  §eClick to see your rewards!
+  §eKlik om je beloningen te bekijken!
 
-lobby_gui_myprofile_questsandchallenges_name: '§aQuests & Challenges'
+lobby_gui_myprofile_questsandchallenges_name: '§aQuests & Uitdagingen'
 lobby_gui_myprofile_questsandchallenges_lore: |-
-  §7Completing quests and challenges
-  §7will reward you with §6Coins§7, §3Astrona
-  §3Experience §7and more!
+  §7Het voltooien van quests en uitdagingen
+  §7zal je belonen met §6Munten§7, §3Astrona
+  §3Ervaring §7en meer!
   §7 
-  §7You can complete a maximum of §a10
-  §7challenges every day.
+  §7Je kunt maximaal §a10
+  §7uitdagingen per dag voltooien.
   §7 
-  §7Challenges completed today: §a%completed%
+  §7Uitdagingen voltooid vandaag: §a%completed%
   §7 
-  §eClick to view Quests & Challenges
+  §eKlik om Quests & Uitdagingen te bekijken
 
-lobby_gui_myprofile_settings_name: '§aSettings & Visibility'
+lobby_gui_myprofile_settings_name: '§aInstellingen & Zichtbaarheid'
 lobby_gui_myprofile_settings_lore: |-
-  §7Allows you to edit and control
-  §7various personal settings.
+  §7Hier kun je verschillende
+  §7persoonlijke instellingen bewerken
+  §7en controleren.
   §7 
-  §eClick to edit your settings!
+  §eKlik om je instellingen te bewerken!
 
-lobby_gui_myprofile_recentgames_name: '§aRecent Games'
+lobby_gui_myprofile_recentgames_name: '§aRecente Spellen'
 lobby_gui_myprofile_recentgames_lore: |-
-  §7View your recently played games.
+  §7Bekijk je recent gespeelde spellen.
   §7 
-  §eClick to view!
+  §eKlik om te bekijken!
 
-lobby_gui_myprofile_accstatus_name: '§aAccount Status'
+lobby_gui_myprofile_accstatus_name: '§aAccountstatus'
 lobby_gui_myprofile_accstatus_lore: |-
-  §7Check your punishment history
-  §7and see where you stand.
+  §7Controleer je strafgeschiedenis
+  §7en zie waar je staat.
   §7 
-  §eClick to view!
-  
-lobby_gui_myprofile_languages_name: '§aSelect Language'
+  §eKlik om te bekijken!
+
+lobby_gui_myprofile_languages_name: '§aSelecteer Taal'
 lobby_gui_myprofile_languages_lore: |-
-  §7Change your language.
+  §7Wijzig je taal.
   §7 
-  §7Currently available:
+  §7Momenteel beschikbaar:
   §7  §f• English
   §7  §f• Russian
+  §7  §f• Slovenian
+  §7  §f• Nederlands
   §7 
-  §7More languages coming soon!
+  §7Meer talen komen binnenkort!
   §7 
-  §eClick to change your language!
+  §eKlik om je taal te wijzigen!
 
-lobby_gui_myprofile_catstore_name: '§aAstrona Store'
+lobby_gui_myprofile_catstore_name: '§aAstrona Winkel'
 lobby_gui_myprofile_catstore_lore_1: |-
-  §7View the Astrona Store from
-  §7right here in-game!
+  §7Bekijk de Astrona Winkel
+  §7hier direct in-game!
   §7 
-  §7Your Astrona Gold: §6%gold%
+  §7Je Astrona Goud: §6%gold%
   §7 
-  §c§lSTORE SALE
-  §c§l25% OFF EVERYTHING!
+  §c§lWINKELUITVERKOOP
+  §c§l25% KORTING OP ALLES!
   
 lobby_gui_myprofile_catstore_lore_2: |-
-  §7View the Astrona Store from
-  §7right here in-game!
+  §7Bekijk de Astrona Winkel
+  §7hier direct in-game!
   §7 
-  §7Your Astrona Gold: §6%gold%
+  §7Je Astrona Goud: §6%gold%
   §7 
-  §f§lSTORE SALE
-  §f§l25% OFF EVERYTHING!
+  §f§lWINKELUITVERKOOP
+  §f§l25% KORTING OP ALLES!
 
-# Bossbar messages in the main lobby
+# Bossbar berichten in de hoofd lobby
 lobby_bossbar_messages: |-
-  §b§lFULL RELEASE NOW!
-  §3§lFULL RELEASE NOW!
+  §6§l60% ZOMERUITVERKOOP NU!§e§l NIEUWE LOBBY!
+  §c§l60% ZOMERUITVERKOOP NU!§a§l NIEUWE LOBBY!
+  §6§l60% ZOMERUITVERKOOP NU!§e§l NIEUWE LOBBY!
+  §c§l60% ZOMERUITVERKOOP NU!§a§l NIEUWE LOBBY!
+  §6§l60% ZOMERUITVERKOOP NU!§e§l NIEUWE LOBBY!
+  §c§l60% ZOMERUITVERKOOP NU!§a§l NIEUWE LOBBY!
+  §a§lSKYPVP NIEUWE KAART UITGEBRACHT!
+  §2§lSKYPVP NIEUWE KAART UITGEBRACHT!
+  §a§lSKYPVP NIEUWE KAART UITGEBRACHT!
+  §2§lSKYPVP NIEUWE KAART UITGEBRACHT!
+  §a§lSKYPVP NIEUWE KAART UITGEBRACHT!
+  §2§lSKYPVP NIEUWE KAART UITGEBRACHT!
+  §4§lSURVIVAL BIJEN BIJGEWERKT!§c§l NIEUWE SURVIVAL LOBBY!§9§l 1.20.4!
+  §c§lSURVIVAL BIJEN BIJGEWERKT!§4§l NIEUWE SURVIVAL LOBBY!§b§l 1.20.4!
+  §4§lSURVIVAL BIJEN BIJGEWERKT!§c§l NIEUWE SURVIVAL LOBBY!§9§l 1.20.4!
+  §c§lSURVIVAL BIJEN BIJGEWERKT!§4§l NIEUWE SURVIVAL LOBBY!§b§l 1.20.4!
+  §4§lSURVIVAL BIJEN BIJGEWERKT!§c§l NIEUWE SURVIVAL LOBBY!§9§l 1.20.4!
 
 pack_lobby_bossbar_messages: |-
-  §b§lFULL RELEASE NOW! MODERN!
-  §3§lFULL RELEASE NOW! MODERN!
+  §b§lVOLLEDIGE RELEASE NU! MODERN!
+  §3§lVOLLEDIGE RELEASE NU! MODERN!
 
 # ----------------------------
 #         Daily Rewards
 # ----------------------------
 
-deliveryman_npc_title: '§bThe Delivery Man'
-deliveryman_npc_subtitle: '%amount% Deliveries!'
+deliveryman_npc_title: '§bDe Bezorger'
+deliveryman_npc_subtitle: '%amount% Bezorgingen!'
 
-deliveryman_gui_title: '§8The Delivery Man'
+deliveryman_gui_title: '§8De Bezorger'
 
-# rewards
-deliveryman_clickhere: '§eClick here to claim!'
+# beloningen
+deliveryman_clickhere: '§eKlik hier om te claimen!'
 
-deliveryman_reward_survey: 'Survey'
+deliveryman_reward_survey: 'Enquête'
 deliveryman_reward_survey_lore: |-
-  §7I have no clue what the
-  §7fuck is Survey reward xd
+  §7Ik heb geen idee wat de
+  §7fuck is Enquête beloning xd
   §7 
   $deliveryman_clickhere$
-deliveryman_reward_daily: 'Daily reward'
+deliveryman_reward_daily: 'Dagelijkse beloning'
 deliveryman_reward_daily_lore: |-
-  §7Free 2,200 Network
-  §7Experience and 3,000 SkyClash
-  §7Coins!
+  §7Gratis 2.200 Network
+  §7Experience en 3.000 SkyClash
+  §7Munten!
   §7 
   $deliveryman_clickhere$
-deliveryman_reward_mysterybox: 'Mystery Box'
+deliveryman_reward_mysterybox: 'Mysterie Box'
 deliveryman_reward_mysterybox_lore: |-
-  §7Your free monthly §b%mb_amount% §7(Total of §b%mb_overall%)
-  §7Mystery Boxes for %mb_month% have arrived!
+  §7Je gratis maandelijkse §b%mb_amount% §7(Totaal van §b%mb_overall%)
+  §7Mysterie Boxen voor %mb_month% zijn aangekomen!
   §7 
   $deliveryman_clickhere$
 
 # claims
-delivery_claimed_daily: '§aClaimed your daily reward: '
-delivery_claimed_mysterybox: '§aClaimed your monthly %amount% %reward% delivery!'
+delivery_claimed_daily: '§aJe hebt je dagelijkse beloning geclaimd: '
+delivery_claimed_mysterybox: '§aJe hebt je maandelijkse %amount% %reward% bezorging geclaimd!'
 
-# already claimed
-delivery_claimed_message: '§cYou have claimed this reward recently! Check back in %duration%'
+# al geclaimd
+delivery_claimed_message: '§cJe hebt deze beloning recentelijk al geclaimd! Kom later terug in %duration%'
 delivery_claimed: |-
-  §7You have already picked up this 
-  §7delivery, come back later!
+  §7Je hebt deze bezorging al opgehaald,
+  §7kom later terug!
   §7 
-  §7Next delivery: %duration%
-delivery_reward_claimed_message: '§cYou have already looted this delivery! Check back in %duration%'
+  §7Volgende bezorging: %duration%
+delivery_reward_claimed_message: '§cJe hebt deze beloning al geclaimd! Kom later terug in %duration%'
 delivery_reward_claimed: |-
-  §7You have claimed this reward
-  §7recently! Check back in: %duration%
+  §7Je hebt deze beloning
+  §7recentelijk al geclaimd! Kom later terug in: %duration%
 
-# unavailable messages
-delivery_rank_unavailable: '§cYou do not have the rank required for this bonus! Purchase ranks at $store_link$'
+# niet beschikbaar berichten
+delivery_rank_unavailable: '§cJe hebt niet de vereiste rang voor deze bonus! Koop rangen op $store_link$'
 survey_unavailable: |-
-  §7Survey is not available yet.
+  §7De enquête is nog niet beschikbaar.
 delivery_mb_unavailable: |-
-  §7Your free monthly §b%mb_amount% §7(Total of §b%mb_overall%)
-  §7Mystery Boxes for %mb_month% have arrived!
+  §7Je gratis maandelijkse §b%mb_amount% §7(Totaal van §b%mb_overall%)
+  §7Mysterie Boxen voor %mb_month% zijn aangekomen!
   §7 
-  §7Requires %mingroup%
+  §7Vereist %mingroup%
 
 # -------------------
 #     Stats Viewer
 # -------------------
-lobby_statsviewer_gui: '§8Stats Viewer'
-lobby_statsviewer_item: '§a%type% Stats'
+lobby_statsviewer_gui: '§8Statistieken Viewer'
+lobby_statsviewer_item: '§a%type% Statistieken'
 
 lobby_statsviewer_sw: |-
-  §7Wins: §a%wins%
-  §7Solo Wins: §a%solo_wins%
-  §7Team Wins: §a%team_wins%
-  §7Mega Wins: §a%mega_wins%
-  §7Ranked Wins: §a%ranked_wins%
+  §7Overwinningen: §a%wins%
+  §7Solo Overwinningen: §a%solo_wins%
+  §7Team Overwinningen: §a%team_wins%
+  §7Mega Overwinningen: §a%mega_wins%
+  §7Gerangschikte Overwinningen: §a%ranked_wins%
   §7 
   §7Kills: §a%kills%
   §7Solo Kills: §a%solo_kills%
   §7Team Kills: §a%team_kills%
   §7Mega Kills: §a%mega_kills%
-  §7Ranked Kills: §a%ranked_kills%
+  §7Gerangschikte Kills: §a%ranked_kills%
   §7 
-  §7Souls: §a%souls%
-  §7Coins: §a%coins%
+  §7Zielen: §a%souls%
+  §7Munten: §a%coins%
+
+lobby_statsviewer_skypvp_icon_material: 'DIAMOND_SWORD'
+
+#Tags
+tags_preview: '%prefix% %name% %tag%'
+lobby_tags_gui: '§8Tags'
+lobby_tags_season_item: '§7Sorteren op seizoen:'
+lobby_tags_year_item: '§7Sorteren op jaar:'
+lobby_tags_unselect_item: '§6Verwijder je tag'
+lobby_tags_unselect_item_lore: |-
+  §7Klik hier om je tag te verwijderen.
+lobby_tags_locked_item_lore: |-
+  §cVergrendeld
+  §r
+  §eRechtsklik om te bekijken
+  §r
+lobby_tags_selected_item_lore: |-
+  §aMomenteel geselecteerd
+lobby_tags_unselected_item_lore: |-
+  §6In bezit
+  §r
+  §eLinksklik om te selecteren
+  §eRechtsklik om te bekijken
+
+lobby_tags_purchasable: |-
+  §7Je kunt deze tag ontgrendelen
+  §7door deze te kopen op
+  §r §b§nstore.skykingdoms.net
+
+lobby_tags_impossible: |-
+  §7Je kunt deze tag niet meer ontgrendelen
+
+lobby_tags_halloween: |-
+  §7Te verkrijgen uit de
+  §6Halloween %year% Kist
+
+lobby_tags_winter: |-
+  §7Te verkrijgen uit de
+  §9Winter %year% Kist
+
+lobby_tags_valentines: |-
+  §7Te verkrijgen uit de
+  §dValentijns %year% Kist
+
+lobby_tags_easter: |-
+  §7Te verkrijgen uit de
+  §ePaas %year% Kist
+
+lobby_tags_summer: |-
+  §7Te verkrijgen uit de
+  §cZomer %year% Kist
+  
+lobby_tags_parkour: |-
+  §7Te verkrijgen uit de
+  §6Parkourer %year% Tag
+
+lobby_tags_easter_and_st_patricks: |-
+  §7Te verkrijgen uit de
+  §ePaas §7& §aSt. Patricks %year% Kist
+
+lobby_tags_st_patricks: |-
+  §7Te verkrijgen uit de
+  §aSt. Patricks %year% Kist
+  
+lobby_tags_spring: |-
+  §7Te verkrijgen uit de
+  §5Lente %year% Kist
+
+lobby_tags_lucky: |-
+  §7Te verkrijgen uit de
+  §eGeluk %year% Kist
+
+lobby_tags_server_anniversary: |-
+  §7Te verkrijgen tijdens het
+  §c%year% Server Jubileum Event
+
+lobby_tags_birthday: |-
+  §7Te verkrijgen op §caag4''s
+  §c%year% Verjaardag
 
 # Appearences
-lobby_customization_gui: '§8Customize Appearances'
+lobby_customization_gui: '§8Aanpassingen'
 
-lobby_customization_pluscolor: '§aPRO+ Rank Color'
+lobby_customization_pluscolor: '§aPRO+ Rang Kleur'
 lobby_customization_pluscolor_lore: |-
-  §7Players ranked §bPRO§c+
-  §7can unlock and switch the
-  §7color of their +.
+  §7Spelers met de §bPRO§c+ §7rang
+  §7kunnen de kleur van hun + ontgrendelen
+  §7en wijzigen.
   §7 
-  §eClick to change!
+  §eKlik om te veranderen!
 
-lobby_customization_punchmsg: '§aPunch Messages'
+lobby_customization_punchmsg: '§aPunch Berichten'
 lobby_customization_punchmsg_lore: |-
-  §7Customize the message when you
-  §7use your punch ability!
+  §7Pas het bericht aan wanneer je
+  §7je punch vaardigheid gebruikt!
   §7 
-  §cPunching in lobbies is only
-  §cavailable to §bPRO§c+ players
-  §cor those who own the Punching
-  §cFriends item from idk
-  §cwhere. we will do this shit 
-  §clater a bit :P
+  §cPunchen in lobbies is alleen
+  §cbeschikbaar voor §6Zeus spelers.
 
-lobby_customization_glow: '§aGlow'
+lobby_customization_glow: '§aGloed'
 lobby_customization_glow_lore: |-
-  §7Gives you in-game character an
-  §7outline in the color of your
-  §7rank.
+  §7Geef je in-game personage een
+  §7omtrek in de kleur van je
+  §7rang.
   §7 
-  §cNote:§7 The glowing effect 
-  §7will only be visible to players
-  §7using Minecraft 1.9 or later!
+  §cLet op:§7 Het gloei-effect is
+  §7alleen zichtbaar voor spelers
+  §7die Minecraft 1.9 of later gebruiken!
   §7 
-  §cNot un-lockable yet!
+  §cNog niet ontgrendelbaar!
 
 lobby_customization_status: '§aStatus'
 lobby_customization_status_lore: |-
-  §7Set a status to be displayed
-  §7above your head in lobbies.
+  §7Stel een status in die boven
+  §7je hoofd wordt weergegeven in lobbies.
   §7 
-  §eClick to change!
+  §eKlik om te veranderen!
+
+lobby_customization_tags: '§aTags'
+lobby_customization_tags_lore: |-
+  §7Stel een tag in die boven
+  §7je hoofd, in de tablist
+  §7en in de chat wordt weergegeven.
+  §7
+  §cKan momenteel erg buggy zijn,
+  §cneem contact op met Vihara als
+  §cje bugs vindt.
+  §7
+  §eKlik om te veranderen!
 
 # Rank color thing
-lobby_rankcolor_gui: '§8Customize Appearances'
-lobby_rankcolor_name: '%color% Rank Color'
-lobby_rankcolor_prefix: '§aChanged your prefix color to %color%§a!'
-lobby_rankcolor_plus: '§aChanged your plus color to %color%§a!'
-lobby_rankcolor_plus_obtainable: '§3Obtainable at %requirement%'
+lobby_rankcolor_gui: '§8Aanpassingen'
+lobby_rankcolor_name: '%color% Rang Kleur'
+lobby_rankcolor_prefix: '§aJe prefix kleur is veranderd naar %color%§a!'
+lobby_rankcolor_plus: '§aJe plus kleur is veranderd naar %color%§a!'
+lobby_rankcolor_plus_obtainable: '§3Verkrijgbaar bij %requirement%'
 lobby_rankcolor_plus_lore: |-
-  §7Changes the color of the plus in §bPRO§c+
-  §7to dark blue, turning it into §bPRO%plus%
+  §7Verandert de kleur van de plus in §bPRO§c+
+  §7naar donkerblauw, waardoor het §bPRO%plus%
+  §7wordt.
   §7 
-  §7Shown in tab list also when chatting
-  §7and joining lobbies!
-lobby_rankcolor_toggleprefixcolor: '§aToggle prefix color'
+  §7Getoond in tab list tijdens chatten
+  §7en bij het betreden van lobbies!
+
+lobby_rankcolor_toggleprefixcolor: '§aSchakel prefix kleur om'
 lobby_rankcolor_toggleprefixcolor_lore: |-
-  §7Selected: %selected%
+  §7Geselecteerd: %selected%
   §7 
-  §7Click to change the color to %next%
-lobby_rankcolor_plus_unavailable: '§cTo select this rank color you need %requirement%§a!'
+  §7Klik om de kleur te veranderen naar %next%
+
+lobby_rankcolor_plus_unavailable: '§cOm deze rang kleur te selecteren heb je %requirement%§a nodig!'
 
 # punchmessgaes
-lobby_punchmessage_reset: '§cReset Punch Message'
-lobby_punchmessage_currentlyselected: '§eCurrently selected: §a%selected%'
-lobby_punchmessages_gui: '§8Punch Messages'
-lobby_punchmessage_desc_item: '§aPunching Players'
+lobby_punchmessage_reset: '§cReset Punch Bericht'
+lobby_punchmessage_currentlyselected: '§eMomenteel geselecteerd: §a%selected%'
+lobby_punchmessages_gui: '§8Punch Berichten'
+lobby_punchmessage_desc_item: '§aSpelers punchen'
 lobby_punchmessage_desc_item_lore: |-
-  §7Punching staff members §7(§2[MOD]
-  §7and §c[ADMIN]§7) is a feature
-  §7available to all §bPRO§c+
-  §7players.
-  §7 
-  §7Players may also unlock the
-  §7ability to punch their friends in
-  §7lobbies as a reward in the
-  §7some competitions like
-  §7killing niggers or idk
+  §7Punchen van stafleden §7(§2[MOD]
+  §7en §c[ADMIN]§7) is een functie
+  §7die beschikbaar is voor alle §6Zeus
+  §7spelers.
 
-lobby_punchmessage_item: ''
 lobby_punchmessage_item_lore: |-
-  §7Select the %name%
-  §7for when you punch a staff or friend;
+  §7Selecteer %name%
+  §7voor wanneer je een staf- of vriend puncht;
   §7 
-  §aRight click to preview
+  §aRechts klikken om te bekijken
+
 lobby_punchmessage_locked_lore: |-
-  §cThis can be unlocked through
+  §cDit kan worden ontgrendeld door
   §7%requirement%
+
 lobby_punchmessage_noaccess_lore: |-
-  §cYou do not have access to lobby punching!
+  §cJe hebt geen toegang tot lobby punchen!
 
-lobby_punchmessage_loving_name: 'Loving Punch Message'
-lobby_punchmessage_loving: '§7%player%§7 lovingly punched %target%§7 into the sky!'
+lobby_punchmessage_loving_name: 'Liefdevol Punch Bericht'
+lobby_punchmessage_loving: '§7%player%§7 punchte liefdevol %target%§7 de lucht in!'
 
-lobby_punchmessage_boop_name: 'Boop Punch Message'
-lobby_punchmessage_boop: '§7%player%§7 §d§lbooped %target%§7 into the sky!'
+lobby_punchmessage_boop_name: 'Boop Punch Bericht'
+lobby_punchmessage_boop: '§7%player%§7 §d§lboopede %target%§7 de lucht in!'
 
-lobby_punchmessage_snowball_name: 'Snowball Punch Message'
-lobby_punchmessage_snowball: '§7%player%§7 §f§lsnowballed %target%§7 into the sky!'
+lobby_punchmessage_snowball_name: 'Sneeuwbal Punch Bericht'
+lobby_punchmessage_snowball: '§7%player%§7 §f§lsneeuwballe %target%§7 de lucht in!'
 
-lobby_punchmessage_glorious_name: 'Glorious Punch Message'
-lobby_punchmessage_glorious: '§7%player%§7 §6gloriously punched %target%§7 into the sky!'
+lobby_punchmessage_glorious_name: 'Glorieus Punch Bericht'
+lobby_punchmessage_glorious: '§7%player%§7 §6glorieuze punchte %target%§7 de lucht in!'
 
-lobby_punchmessage_spooky_name: 'Spooky Punch Message'
-lobby_punchmessage_spooky: '§7%player%§7 §6§lspooked %target%§7 into the sky!'
+lobby_punchmessage_spooky_name: 'Spookachtig Punch Bericht'
+lobby_punchmessage_spooky: '§7%player%§7 §6§lspookte %target%§7 de lucht in!'
 
-lobby_punchmessage_fished_name: 'Fished Punch Message'
-lobby_punchmessage_fished: '§7%player%§7 §a§lfished %target%§7 into the sky!'
+lobby_punchmessage_fished_name: 'Gevist Punch Bericht'
+lobby_punchmessage_fished: '§7%player%§7 §a§lgeviste %target%§7 de lucht in!'
 
-lobby_punchmessage_code_name: 'Skid Punch Message'
-lobby_punchmessage_code: '§7%player%§7 §e§kAI§ccode broke§e§kAI§7 %target%§7 into the sky!'
+lobby_punchmessage_code_name: 'Skid Punch Bericht'
+lobby_punchmessage_code: '§7%player%§7 §e§kAI§cde code is verbroken §e§kAI§7 %target%§7 de lucht in!'
 
-lobby_punchmessage_solar_name: 'Solar Punch Message'
-lobby_punchmessage_solar: '§7%player%§7 §e§llaunched§7 %target%§7 into the §e§lsun!'
+lobby_punchmessage_solar_name: 'Zonne Punch Bericht'
+lobby_punchmessage_solar: '§7%player%§7 §e§llaunched§7 %target%§7 in de §e§lzonnemeet!'
 
-lobby_punchmessage_celebratory_name: 'Celebratory Punch Message'
-lobby_punchmessage_celebratory: '§7%player%§7 §6§llaunched§7 %target%§7 into the sky in §6§lmoment of celebration§7!'
+lobby_punchmessage_celebratory_name: 'Feestelijk Punch Bericht'
+lobby_punchmessage_celebratory: '§7%player%§7 §6§llaunched§7 %target%§7 de lucht in tijdens een §6§lfeestelijk moment§7!'
