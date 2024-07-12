@@ -160,7 +160,7 @@ gamemode_npc_status_players: '§e%players% Playing'
 gamemode_npc_default_status: '§e§lCLICK TO JOIN'
 
 # dynamic NPC status lines declared here
-gamemode_npc_skywars_status: '§d§lIN DEVELOPMENT'
+#gamemode_npc_skywars_status: '§d§lIN DEVELOPMENT'
 
 game_status_holo_info_total_online: '§fTotal players §7- §c%value%'
 game_status_holo_info_total_servers: '§fTotal servers §7- §c%value%'
