@@ -581,8 +581,8 @@ tags_preview: '%prefix% %name% %tag%'
 lobby_tags_gui: '§8Tags'
 lobby_tags_season_item: '§7Sort by season:'
 lobby_tags_year_item: '§7Sort by year:'
-lobby_tags_unselect_item_lore: '§6Remove your tag'
-lobby_tags_unselect_lore: |-
+lobby_tags_unselect_item: '§6Remove your tag'
+lobby_tags_unselect_item_lore: |-
   §7Click here to unselect
   §7your tag.
 lobby_tags_locked_item_lore: |-
