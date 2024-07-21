@@ -145,6 +145,7 @@ game_min_height_limit_reached: 'De bouwlimiet voor hoogte omlaag is bereikt!'
 game_bow_health_actionbar: '%player% §7| %health%'
 game_bow_health_message: '§c%player% §fheeft nog §c%health%❤ §fover'
 
+board_players: '§fPlayers:§a %players%'
 board_waiting: '§fWachten'
 board_until_start: '§fStart in §a%time%'
 board_game_map: '§fMap: §a%map%'
