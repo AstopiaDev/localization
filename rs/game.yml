@@ -145,6 +145,7 @@ game_min_height_limit_reached: 'Build limit for height down has been reached!'
 game_bow_health_actionbar: '%player% §7| %health%'
 game_bow_health_message: '§c%player% §fhas §c%health%❤ §fleft'
 
+board_players: '§fPlayers:§a %players%'
 board_waiting: '§fWaiting'
 board_until_start: '§fStarting in §a%time%'
 board_game_map: '§fMap: §a%map%'
