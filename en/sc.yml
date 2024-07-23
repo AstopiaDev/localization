@@ -3,8 +3,8 @@
 # ---------------------
 
 # game
-board_skyclash_event_label: '§fNext event:'
-board_skyclash_event: '§a%event% %time%'
+board_skywars_event_label: '§fNext event:'
+board_skywars_event: '§a%event% %time%'
 board_skyclash_players_left: '§fPlayers left: §a%left%'
 skyclash_empty_chest: '§cEmpty'
 
