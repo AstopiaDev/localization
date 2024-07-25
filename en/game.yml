@@ -392,3 +392,12 @@ game_explanation_skywars: |-
   §e§l                           with special items!
   §7 
   $game_broadcast_line$
+
+game_explanation_duels_skypvp_duel: |-
+  $game_broadcast_line$
+  §f§l                                  SkyPvP Duel
+  §7 
+  §e§l         Battle on floating islands and be the
+  §e§l              last player standing!
+  §7 
+  $game_broadcast_line$
