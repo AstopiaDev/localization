@@ -221,6 +221,15 @@ pack_tab_footer: |-
   §r
 
 # =======================
+#        Social Spy
+# =======================
+socialspy_gui_pms: "§aPrivate Messages"
+socialspy_gui_pms: |-
+  §r
+  §7By enabling this you are
+  §7going to see all PMs.
+
+# =======================
 #          Servers
 # =======================
 server_not_found: '§cServer not found'
