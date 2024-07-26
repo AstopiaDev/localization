@@ -387,6 +387,7 @@ settings_api_itemname: 'API Settings'
 settings_personal_guild_itemname: 'Personal Guild Settings'
 settings_game_itemname: 'Game Settings'
 settings_lobby_itemname: 'Lobby Settings'
+settings_staff_itemname: 'Staff Settings'
 
 settings_splitter_name: '§8⇡ §7Categories'
 settings_splitter_lore: '§8⇣ §7Settings'
@@ -687,6 +688,9 @@ settings_autodenygifts_item_lore: |-
   §7When enabled any gift requests
   §7will be auto denied.
   
+# Staff settings
+settings_vanishonjoin_item_name: 'Vanish on Join'
+
 # API settings
 settings_apionlinestatus_item_name: 'Online Status'
 settings_apionlinestatus_item_lore: |-

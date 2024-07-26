@@ -356,6 +356,7 @@ settings_api_itemname: 'API Settings'
 settings_personal_guild_itemname: 'Personal Guild Settings'
 settings_game_itemname: 'Game Settings'
 settings_lobby_itemname: 'Lobby Settings'
+settings_staff_itemname: 'Staff Settings'
 
 settings_splitter_name: '§8⇡ §7Categories'
 settings_splitter_lore: '§8⇣ §7Settings'

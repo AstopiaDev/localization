@@ -557,6 +557,7 @@ settings_click_to_enable: |-
 settings_click_to_disable: |-
   §f
   §eНажмите, чтобы выключить
+settings_staff_itemname: 'Staff Settings'
 setting_automatic_queuing_name: 'Автоматический вход'
 setting_automatic_queuing_description: |-
   §7Автоматический телепорт на новую арену
@@ -588,6 +589,9 @@ setting_forbid_profile_viewing_description: |-
   §7возможность просматривать ваш
   §7профиль игрокам, которых нет в
   §7вашем списке друзей
+
+# Staff settings
+settings_vanishonjoin_item_name: 'Vanish on Join'
 
 setting_name: '§6%setting%'
 media_name: '§6%media%'
