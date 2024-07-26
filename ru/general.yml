@@ -840,6 +840,15 @@ tab_footer: |-
   §fКупить донат: §c$website_url$
 
 # =======================
+#        Social Spy
+# =======================
+socialspy_gui_pms: "§aPrivate Messages"
+socialspy_gui_pms: |-
+  §r
+  §7By enabling this you are
+  §7going to see all PMs.
+
+# =======================
 #          Сервера
 # =======================
 server_not_found: '$prefix$Сервер не найден'
