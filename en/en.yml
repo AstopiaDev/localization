@@ -224,7 +224,7 @@ pack_tab_footer: |-
 #        Social Spy
 # =======================
 socialspy_gui_pms: "§aPrivate Messages"
-socialspy_gui_pms: |-
+socialspy_gui_pms_lore: |-
   §r
   §7By enabling this you are
   §7going to see all PMs.
