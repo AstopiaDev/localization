@@ -284,6 +284,12 @@ lobby_languageselector_self_item_lore: |-
 lobby_languageselector_gui: 'Selecteer Taal'
   
 # Mijn Profiel
+lobby_gui_myprofile_kiteditor_name: '§aKit Editor'
+lobby_gui_myprofile_kiteditor_lore: |-
+  §7Edit our kit layouts to your
+  §7likings for each gamemode!
+  §7
+  §eClick to edit!
 lobby_gui_myprofile_characterinfo_name: '§aKarakter Informatie'
 lobby_gui_myprofile_characterinfo_lore: |-
   §7Rang: %rank%
