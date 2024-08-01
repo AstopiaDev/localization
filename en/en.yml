@@ -1050,6 +1050,13 @@ party_chat_broadcast: |-
   §9Party > %player%§f: %message%
 
 # ======================
+#         Duels
+# ======================
+
+duel_invite_received: '{"text":"§b§m-----------------------------------------------------\n","extra":[{"text":"%playerDisplay%§e sent you a duel request!\n"},{"text":"§eMode:§6 %mode%\n§eMap:§6 %map%\n§eKit:§6 %kit%\n"},{"text":"§eYou have §c60 §eseconds to accept. §6Click here to accept\n","clickEvent":{"action":"run_command","value":"/duel accept %player%"},"hoverEvent":{"action":"show_text","value":{"text":"§6Click here to accept!"}}},{"text":"§b§m-----------------------------------------------------"}]}'
+
+
+# ======================
 #        Vanish
 # ======================
 
