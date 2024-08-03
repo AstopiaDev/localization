@@ -20,6 +20,7 @@ skypvp_leagueicon_diamond: '§fDiamond'
 # ---------------------------------
 # Leveling thingy and leagues GUI
 # ---------------------------------
+skypvp_levelprogression_gui: 'Level Progression'
 skypvp_levelprogression_toggle_hide: '§cHide level!'
 skypvp_levelprogression_toggle_show: '§aShow level!'
 skypvp_levelprogression_toggle_lore: |-
