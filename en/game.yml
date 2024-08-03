@@ -146,11 +146,12 @@ game_bow_health_actionbar: '%player% §7| %health%'
 game_bow_health_message: '§c%player% §fhas §c%health%❤ §fleft'
 
 board_waiting: '§fWaiting'
-board_players: '§fPlayers:§a %players%'
+board_players: '§fPlayers »§a %players%'
 board_until_start: '§fStarting in §a%time%'
-board_game_map: '§fMap: §a%map%'
-board_mode: '§fMode: §a%mode%'
-pack_board_mode: '§f Mode: §a%mode%'
+board_game_map: '§fMap » §a%map%'
+board_mode: '§fMode » §a%mode%'
+board_level: '§fLevel » §f%level%'
+pack_board_mode: '§f Mode » §a%mode%'
 
 game_bw_description: |-
   §eProtect your bed and break others!
