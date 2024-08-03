@@ -2,9 +2,23 @@ board_skypvp_level: '§fLevel » §r%level%'
 board_skypvp_kills: '§fKills » §c%kills%'
 board_skypvp_coins: '§fCoins » §6%coins%'
 
+skypvp_leagueicon_stone: '§7Stone'
+skypvp_leagueicon_pearl: '§fPearl'
+skypvp_leagueicon_jasper: '§6Jasper'
+skypvp_leagueicon_peridot: '§aPeridot'
+skypvp_leagueicon_sapphire: '§bSapphire'
+skypvp_leagueicon_spinel: '§cSpinel'
+skypvp_leagueicon_rose_quartz: '§dRose Quartz'
+skypvp_leagueicon_emerald: '§2Emerald'
+skypvp_leagueicon_amethyst: '§5Amethyst'
+skypvp_leagueicon_lapis: '§9Lapis'
+skypvp_leagueicon_ruby: '§4Ruby'
+skypvp_leagueicon_topaz: '§eTopaz'
+skypvp_leagueicon_bismuth: '§fBismuth'
+skypvp_leagueicon_diamond: '§fDiamond'
 
 # ---------------------------------
-# Leveling thingy and prestiges GUI
+# Leveling thingy and leagues GUI
 # ---------------------------------
 skypvp_levelprogression_toggle_hide: '§cHide level!'
 skypvp_levelprogression_toggle_show: '§aShow level!'
@@ -13,8 +27,8 @@ skypvp_levelprogression_toggle_lore: |-
   §7Level and League Icon show
   §7next to your name.
 
-skypvp_levelprogression_prestigeicons: '§6League Icons'
-skypvp_levelprogression_prestigeicons_lore: |-
+skypvp_levelprogression_leagueicons: '§6League Icons'
+skypvp_levelprogression_leagueicons_lore: |-
   §7Select a League Icon to
   §7display next to your name in
   §7chat. You can unlock new
@@ -32,11 +46,11 @@ skypvp_levelprogression_pregressbar: |-
   §7Progress: §b%current_xp%§7/§a%required_xp%
   %bar%
 
-skypvp_levelprogression_prestigeicon_lore: |-
+skypvp_levelprogression_leagueicon_lore: |-
   §7Sets your current League Icon to: §f%symbol%
   §7 
   §7%display_shit%
 
-skypvp_prestige_reset: '§aYou reset your league icon!'
-skypvp_prestige_unavailable: '§cYou can''t set %required% league!'
-skypvp_prestige_set: '§aYou set %league%§a league icon!'
+skypvp_league_reset: '§aYou reset your league icon!'
+skypvp_league_unavailable: '§cYou can''t set %required% league!'
+skypvp_league_set: '§aYou set %league%§a league icon!'
