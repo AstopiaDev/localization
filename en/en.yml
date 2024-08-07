@@ -1353,3 +1353,39 @@ rankup_success: '§eSuccessfully ranked up to rank %rank%§e!'
 rankup_not_enough: '§cYou do not have enough player points to rank up to rank %rank%'
 rankup_already_own: '§cYou already own %rank%§c rank'
 message_blocked: '§cThis player has private messages disabled!'
+
+# ======================
+#       Auctions
+# ======================
+auction_gui_title: 'Auctions'
+auction_gui_auctions: '§aBrowse Auctions'
+auction_gui_auctions_lore: |-
+  §r
+  §7Buy your favorite items here! 
+  §r
+  §7 - §eGreat deals
+  §7 - §eVarious sellers
+  §7 - §eLimited time offers
+auction_gui_your_auctions: '§aYour Auctions'
+auction_gui_your_auctions_lore: |-
+  §r
+  §7Manage your listed items here!
+  §r
+  §7 - §eUpdate auction settings
+  §7 - §eCancel auctions
+auction_items_gui_title: 'The Auction House'
+auction_item_sort_mode_a_z: 'By name (A-z)'
+auction_item_sort_mode_z_a: 'By name (Z-a)'
+auction_item_sort_mode_price_desc: 'Cost (Descent)'
+auction_item_sort_mode_price_asc: 'Cost (Ascent)'
+auction_items_gui_sort_mode: '§6Auction Sorting'
+auction_items_gui_sort_mode_lore: |-
+  §r
+  §7Current sort mode: §e%current_sort_mode%
+  §7Click to change to: §e%next_sort_mode%
+auction_items_gui_item_name: '§e%item_name%'
+auction_items_gui_item_lore: |-
+  §r
+  §7Time left: §e%time_left%
+  §7Price: §6%price%
+  §7Seller: §b%seller%
