@@ -1,4 +1,4 @@
-board_skypvp_level: '§fLevel » §r%level%'
+board_skypvp_level: '§fLevel » %level%'
 board_skypvp_kills: '§fKills » §c%kills%'
 board_skypvp_coins: '§fCoins » §6%coins%'
 
