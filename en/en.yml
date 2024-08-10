@@ -1390,8 +1390,8 @@ auction_items_gui_sort_mode_lore: |-
 auction_items_gui_item_name: '§e%item_name%'
 auction_items_gui_item_lore: |-
   §7Time left: §e%time_left%
-  §7Price: §6%price%
-  §7Price per unit:§6 %price_unit%
+  §7Price: §6%price% coins
+  §7Price per unit:§6 %price_unit% coins
   §7Seller: §b%seller%
 auction_items_gui_item_buyable: '§aClick to buy'
 auction_items_gui_item_not_buyable: '§cNot enough money'
