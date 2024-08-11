@@ -113,7 +113,7 @@ game_end_bossbar_end: '§cGame ended!'
 game_end_board_winners: 'Winners:'
 game_end_board_winner: 'Winner:'
 game_end_board_draw: 'Draw'
-game_broadcast_line: '§3§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+game_broadcast_line: '§6§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
 game_broadcast_title: '§e§l%mini%'
 
 game_end_announcement: |-
