@@ -62,8 +62,8 @@ game_lobby_icon_lore: |-
   §7return to lobby
 game_player_join: '%name% §ehas joined §e(§b%online%§e/§b%slots%§e)'
 game_player_quit: '%name% §equit'
-game_start_timer_message: '§eThe game will start in %time%§e %ending%'
-game_end_timer_message: '§eThe game will end in %time%§e %ending%'
+game_start_timer_message: '§bThe game will start in %time%§b %ending%'
+game_end_timer_message: '§bThe game will end in %time%§b %ending%'
 game_vanished: '$prefix$You are now spectator, because you were vanished before game started'
 game_vanished_title: '§cYou are watching the game'
 game_vanished_subtitle: '§7Only staff can see you'
@@ -113,7 +113,7 @@ game_end_bossbar_end: '§cGame ended!'
 game_end_board_winners: 'Winners:'
 game_end_board_winner: 'Winner:'
 game_end_board_draw: 'Draw'
-game_broadcast_line: '§a§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+game_broadcast_line: '§3§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
 game_broadcast_title: '§e§l%mini%'
 
 game_end_announcement: |-
@@ -396,9 +396,9 @@ game_explanation_skywars: |-
 
 game_explanation_duels_skypvp_duel: |-
   $game_broadcast_line$
-  §f§l                    SkyPvP Duel
+  §c§l                    SkyPvP Duel
   §7 
-  §e§l         Battle on floating islands and be the
-  §e§l              last player standing!
+  §b§l         Battle on floating islands and be the
+  §b§l              last player standing!
   §7 
   $game_broadcast_line$
