@@ -396,7 +396,7 @@ game_explanation_skywars: |-
 
 game_explanation_duels_skypvp_duel: |-
   $game_broadcast_line$
-  §c§l                    SkyPvP Duel
+  §f§l                    SkyPvP Duel
   §7 
   §b§l         Battle on floating islands and be the
   §b§l              last player standing!
