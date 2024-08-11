@@ -60,8 +60,8 @@ game_lobby_icon: '§6Return to lobby'
 game_lobby_icon_lore: |-
   §7Use this item to
   §7return to lobby
-game_player_join: '%name% §ehas joined §e(§b%online%§e/§b%slots%§e)'
-game_player_quit: '%name% §equit'
+game_player_join: '%name% §6has joined §6(§b%online%§6/§b%slots%§6)'
+game_player_quit: '%name% §6quit'
 game_start_timer_message: '§bThe game will start in %time%§b %ending%'
 game_end_timer_message: '§bThe game will end in %time%§b %ending%'
 game_vanished: '$prefix$You are now spectator, because you were vanished before game started'
