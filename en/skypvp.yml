@@ -55,3 +55,8 @@ skypvp_levelprogression_leagueicon_lore: |-
 skypvp_league_reset: '§aYou reset your league icon!'
 skypvp_league_unavailable: '§cYou can''t set %required% league!'
 skypvp_league_set: '§aYou set %league%§a league icon!'
+
+# ---------------------------------
+# Leaderboards
+# ---------------------------------
+skypvp_level_player_top_name: '§b§l§nSkyPvP Levels'
