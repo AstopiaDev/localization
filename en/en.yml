@@ -1147,6 +1147,8 @@ wins_player_top_name: '§b§l§nLifetime Wins'
 best_winstreak_player_top_name: '§b§l§nBest Winstreak'
 sclevel_player_top_name: '§b§l§nSkyclash Levels'
 rating_player_top_name: '§b§l§nRanked Rating'
+active_killstreak_player_top_name: '§b§l§nActive Killstreak'
+max_killstreak_player_top_name: '§b§l§nHighest Killstreak'
 
 ranked_mode_display: '§7Ranked'
 display_survival_competitive: '§7Competitive'
