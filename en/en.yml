@@ -1360,6 +1360,7 @@ message_blocked: '§cThis player has private messages disabled!'
 # ======================
 #       Auctions
 # ======================
+auctions_prefix: '§b[Auctions]:'
 auctions_category_all: 'All'
 auctions_category_seasonals: 'Seasonals'
 auctions_category_weapons: 'Weapons'
@@ -1367,6 +1368,7 @@ auctions_category_armor: 'Armor'
 auctions_category_food: 'Food'
 auctions_category_utilities: 'Utilities'
 auctions_category_potions: 'Potions'
+auction_gui_opened: '$auctions_prefix$ §fOpened'
 auction_gui_title: 'Auctions'
 auction_gui_auctions: '§aBrowse Auctions'
 auction_gui_auctions_lore: |-
