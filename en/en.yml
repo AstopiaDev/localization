@@ -72,7 +72,7 @@ board_lobby: '§fLobby » §a%number%'
 board_online: '§fPlayers » §a%online%'
 board_datetime: '§7%time%'
 board_group: '§fRank » §c%rank%'
-board_website: '§e$website_url$'
+board_website: '§b$website_url$'
 board_hub_title: "Sky Kingdoms"
 board_kills: '§fKills » §a%kills%'
 board_deaths: '§fDeaths » §a%deaths%'
