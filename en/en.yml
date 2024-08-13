@@ -27,7 +27,19 @@ core_not_connected: |-
   §fThe connection with it is restored.
   §f
 
-vote_message: '§aFind the vote links here: https://www.skykingdoms.net/vote'
+vote_message: |-
+  $general_line$
+  §fVote for us and get rewarded!
+  §r
+  §71. https://goo.gl/hJGXZI §bMinecraft-MP.com
+  §72. https://goo.gl/Q5nwWH §bTopG.org
+  §73. https://goo.gl/pWSryt §bMinecraft-server.net
+  §74. https://goo.gl/8Vuuda §bMCSL
+  §75. https://goo.gl/jqTphf §bTopMinecraftServers
+  §76. https://goo.gl/Wyntqd §bMinecraftservers.org
+  §77. https://goo.gl/6t8sLM §bMinecraftlist.org
+  §78. https://goo.gl/rdpVbR §bPlanetMinecraft
+  $general_line$
 
 core_userinfo: |-
     §6Username: §f%username%
@@ -43,7 +55,7 @@ core_userinfo: |-
 unknown: '§cunknown'
 never: '§cnever'
 close: '§cClose'
-general_line: '§9§m-------------------------------------------------'
+general_line: '§6§m-------------------------------------------------'
 
 unclaimed_level_rewards: '{"text":"§aYou have §b%rewards% §aunclaimed leveling %ending%","clickEvent":{"action":"run_command","value":"/rewards"},"hoverEvent":{"action":"show_text","value":"§eClick to open the §6Sky Kingdoms Leveling §emenu"}}'
 
