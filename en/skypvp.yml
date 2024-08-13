@@ -60,3 +60,9 @@ skypvp_league_set: '§aYou set %league%§a league icon!'
 # Leaderboards
 # ---------------------------------
 skypvp_level_player_top_name: '§b§l§nSkyPvP Levels'
+
+# ---------------------------------
+# Prestige
+# ---------------------------------
+prestige_gui_prestige_unlocked: '§aPrestige %prestige%'
+prestige_gui_prestige_locked: '§cPrestige %prestige% - Locked'
