@@ -68,6 +68,9 @@ prestige_prefix: '§b[Prestige]:'
 prestige_gui_prestige_unlocked: '§aPrestige %prestige%'
 prestige_gui_prestige_locked: '§cPrestige %prestige% - Locked'
 prestige_gui_prestige_lore: '§6Cost %price% coins'
+prestige_gui_prestige_lore_purchase: |-
+  §r
+  §6Click to purchase!
 prestige_purchase_confirmation: 'Prestige Purchase Confirmation'
 prestige_too_low: '$error_prefix$ You need at least prestige %required_prestige% to prestige to %prestige%'
 prestige_not_enough_coins: '$error_prefix$ You need %price% coins to prestige to %prestige%'
