@@ -75,3 +75,8 @@ prestige_purchase_confirmation: 'Prestige Purchase Confirmation'
 prestige_too_low: '$error_prefix$ You need at least prestige %required_prestige% to prestige to %prestige%'
 prestige_not_enough_coins: '$error_prefix$ You need %price% coins to prestige to %prestige%'
 prestige_purchased: '$prestige_prefix$ §fYou prestiged to §6%prestige% §ffor §6%price% coins'
+
+# ---------------------------------
+# Combat
+# ---------------------------------
+skypvp_combat_status: 'Combat: %progress_bar% §e%seconds%s'
