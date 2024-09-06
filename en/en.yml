@@ -1437,4 +1437,4 @@ shop_cancellation: '$shop_prefix$ §cCancelled'
 #     Teleporting
 # ======================
 teleport_prefix: '§b[Teleport]: '
-teleporting: '$teleport_prefix$§fIn §6%countdown%§f seconds!'
+teleporting: '$teleport_prefix$§fRelocating you in §6%countdown%§f seconds!'
