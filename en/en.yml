@@ -786,8 +786,8 @@ friend_privacy_forbidden: |-
   §cYou can't send friend request to this player.
   $friend_splitter$
 
-friend_join_the_game: '§aFriend > %name%§e joined.'
-friend_left_the_game: '§aFriend > %name%§e left.'
+friend_join_the_game: '§eYour friend %name%§e is now online.'
+friend_left_the_game: '§eYour friend %name%§e is now offline.'
 # ======================
 #      Punishments
 # ======================
