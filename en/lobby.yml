@@ -479,12 +479,13 @@ lobby_gui_myprofile_catstore_lore_2: |-
 
 # Bossbar messages in the main lobby
 lobby_bossbar_messages: |-
-  §6§l60% SUMMER SALE OUT NOW!§e§l NEW LOBBY!
-  §c§l60% SUMMER SALE OUT NOW!§a§l NEW LOBBY!
-  §6§l60% SUMMER SALE OUT NOW!§e§l NEW LOBBY!
-  §c§l60% SUMMER SALE OUT NOW!§a§l NEW LOBBY!
-  §6§l60% SUMMER SALE OUT NOW!§e§l NEW LOBBY!
-  §c§l60% SUMMER SALE OUT NOW!§a§l NEW LOBBY!
+  §0§lS§8§lP§f§lO§8§lO§7§lK§0§lY §5§lS§c§lC§6§lA§0§lR§7§lY §f§lS§7§lK§8§lE§0§lL§f§lE§8§lT§7§lO§0§lN§7§lS!
+  §7§lS§8§lP§f§lO§8§lO§7§lK§0§lY §6§lS§4§lC§0§lA§7§lR§f§lY §f§lS§8§lK§7§lE§0§lL§8§lE§f§lT§7§lO§0§lN§8§lS!
+  §f§lS§0§lP§7§lO§8§lO§f§lK§0§lY §c§lS§7§lC§0§lA§8§lR§f§lY §7§lS§0§lK§8§lE§7§lL§f§lE§8§lT§0§lO§7§lN§8§lS!
+  §0§lS§7§lP§8§lO§f§lO§0§lK§8§lY §6§lS§7§lC§f§lA§0§lR§7§lY §8§lS§7§lK§f§lE§0§lL§8§lE§7§lT§f§lO§8§lN§7§lS!
+  §8§lS§7§lP§0§lO§f§lO§7§lK§0§lY §f§lS§0§lC§7§lA§8§lR§0§lY §7§lS§f§lK§0§lE§7§lL§8§lE§f§lT§0§lO§7§lN§8§lS!
+  §7§lS§f§lP§8§lO§0§lO§f§lK§0§lY §0§lS§f§lC§7§lA§0§lR§8§lY §f§lS§0§lK§8§lE§7§lL§0§lE§f§lT§8§lO§7§lN§0§lS!
+
   §a§lSKYPVP NEW MAP RELEASED!
   §2§lSKYPVP NEW MAP RELEASED!
   §a§lSKYPVP NEW MAP RELEASED!
@@ -496,6 +497,7 @@ lobby_bossbar_messages: |-
   §4§lSURVIVAL BEES UPDATED!§c§l NEW SURVIVAL LOBBY!§9§l 1.20.4!
   §c§lSURVIVAL BEES UPDATED!§4§l NEW SURVIVAL LOBBY!§b§l 1.20.4!
   §4§lSURVIVAL BEES UPDATED!§c§l NEW SURVIVAL LOBBY!§9§l 1.20.4!
+
 
 pack_lobby_bossbar_messages: |-
   §b§lFULL RELEASE NOW! MODERN!
