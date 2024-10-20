@@ -1438,3 +1438,8 @@ shop_cancellation: '$shop_prefix$ §cCancelled'
 # ======================
 teleport_prefix: '§b[Teleport]: '
 teleporting: '$teleport_prefix$§fRelocating you in §6%countdown%§f seconds!'
+
+# ======================
+#     Join / Quit
+# ======================
+player_join: '§8[§b+§8] %name% §ejoined'
