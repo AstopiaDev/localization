@@ -769,7 +769,7 @@ friend_request_sent: |-
   §aYou sent a friend request to %player%!§a They have a whole life to accept it!
   $friend_splitter$
 
-friend_request_received: '{"text":"§b§m-------------------------------------\n","extra":[{"text":"%playerDisplay%§e wants to add you as a friend!\n"},{"text":"§6§l[Accept]","clickEvent":{"action":"run_command","value":"/friend accept %player%"},"hoverEvent":{"action":"show_text","value":{"text":"§aClick here to accept!"}}},{"text":"§7 - "},{"text":"§c§l[Deny]\n","clickEvent":{"action":"run_command","value":"/friend deny %player%"},"hoverEvent":{"action":"show_text","value":{"text":"§cClick here to deny!"}}},{"text":"§b§m-------------------------------------"}]}'
+friend_request_received: '{"text":"§b§m-------------------------------------\n","extra":[{"text":"%playerDisplay%§e wants to add you as a friend!\n"},{"text":"§a§l[Accept]","clickEvent":{"action":"run_command","value":"/friend accept %player%"},"hoverEvent":{"action":"show_text","value":{"text":"§aClick here to accept!"}}},{"text":"§7 - "},{"text":"§c§l[Deny]\n","clickEvent":{"action":"run_command","value":"/friend deny %player%"},"hoverEvent":{"action":"show_text","value":{"text":"§cClick here to deny!"}}},{"text":"§b§m-------------------------------------"}]}'
 
 friend_already_sent_invitation: |-
   $friend_splitter$
