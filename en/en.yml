@@ -737,7 +737,7 @@ settings_guildshowonlineonly_item_lore: |-
   §7using /guild list
 
 # friends
-friend_splitter: '§9§m-----------------------------------------------------'
+friend_splitter: '§b§m-------------------------------------'
 
 friend_request_accepted: |-
   $friend_splitter$
