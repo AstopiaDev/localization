@@ -1119,11 +1119,11 @@ networkstate_maintenance_disconnect_online: |-
   §cWe're sorry to interrupt your gaming experience,
   §cbut the server is in maintenance mode now!
   §c 
-  §cMore info at: §ehttps://discord.gg/WtnPaBuZpK
+  §cMore info at: §e$discord_url$
 networkstate_maintenance_disconnect: |-
   §cThe network is under maintenance!
   §c 
-  §cMore info at: §ehttps://discord.gg/WtnPaBuZpK
+  §cMore info at: §e$discord_url$
 
 
 # Leaderboards
