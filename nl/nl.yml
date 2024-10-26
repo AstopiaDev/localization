@@ -224,7 +224,7 @@ pack_tab_footer: |-
 #        Social Spy
 # =======================
 socialspy_gui_pms: "§aPrivate Messages"
-socialspy_gui_pms: |-
+socialspy_gui_pms_lore: |-
   §r
   §7By enabling this you are
   §7going to see all PMs.
@@ -521,14 +521,10 @@ settings_lobbyjoinmessage_item_name: 'Lobby Join Message (Self)'
 settings_lobbyjoinmessage_item_lore: |-
   §7Toggle whether your join message
   §7is sent when you join a lobby.
-  §7 
-  §aRequires §bPRO§c+
 
 settings_lobbyjoinmessage_unavailable_item_lore: |-
   §7Toggles whether your join message
   §7is sent when you join a lobby.
-  §7 
-  §cRequires §bPRO§c+
   
 settings_pmsounds_item_name: 'Private Message Sounds'
 settings_pmsounds_item_lore: |-
