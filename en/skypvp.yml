@@ -80,3 +80,9 @@ prestige_purchased: '$prestige_prefix$ §fYou prestiged to §6%prestige% §ffor 
 # Combat
 # ---------------------------------
 skypvp_combat_status: 'Combat: %progress_bar% §e%seconds%s'
+
+# ---------------------------------
+# Dimension
+# ---------------------------------
+skypvp_dimension_the_end: '§5The End'
+board_dimension: '§fDimension: %dimension%'
