@@ -85,4 +85,6 @@ skypvp_combat_status: 'Combat: %progress_bar% §e%seconds%s'
 # Dimension
 # ---------------------------------
 skypvp_dimension_the_end: '§5The End'
+board_nearest_silverfish: '§fNearest Silverfish'
+board_true_damage: '§fTrue Damage: §c+%damage%'
 board_dimension: '§fDimension: %dimension%'
