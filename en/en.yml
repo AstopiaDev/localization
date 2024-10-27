@@ -805,7 +805,7 @@ punishment_unmute_successful: '§eUnmuted %player%§e for §f%reason%'
 
 punishment_permaban_executed: '§ePermanently banned %player%§e. Reason: §f%reason%'
 punishment_tempban_executed: '§eTemporary banned %player%§e for §b%duration%§e. Reason: §f%reason%'
-punishment_unban_not_muted: '§cThis player is not banned'
+punishment_unban_not_banned: '§cThis player is not banned'
 punishment_unban_successful: '§eUnbanned %player%§e for §f%reason%'
 
 staffchat_unmuted_message: '%executor%§e unmuted §e%violator%§e. Reason: §f%reason%'
