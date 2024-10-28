@@ -1391,7 +1391,7 @@ auction_gui_your_auctions_lore: |-
   §7 - §eUpdate auction settings
   §7 - §eCancel auctions
 
-auction_add_gui: '§aAdd Auction'
+auction_add_gui: '§aPut an item up for auction'
 auction_add_gui_lore: |-
   §7Sell your items in auction house
   §r
