@@ -1391,12 +1391,12 @@ auction_gui_your_auctions_lore: |-
   §7 - §eUpdate auction settings
   §7 - §eCancel auctions
 
-auction_add_gui: '§aCreate auction'
+auction_add_gui: '§aCreate an auction'
 auction_add_gui_lore: |-
-  §7Sell your items in auction house
+  §7Put up an item on the auction house
   §r
   §7 - §eChoose your currency
-auction_add_gui_title: 'Create Auction'
+auction_add_gui_title: 'Create an Auction'
 
 auction_items_gui_title: 'The Auction House'
 auction_item_sort_mode_a_z: 'By name (A-z)'
