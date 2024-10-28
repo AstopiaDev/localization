@@ -1393,7 +1393,8 @@ auction_gui_your_auctions_lore: |-
 
 auction_add_gui: '§aCreate an auction'
 auction_add_gui_lore: |-
-  §7Put up an item on the auction house
+  §7Put up an item on
+  §7the auction house
   §r
   §7 - §eChoose your currency
 auction_add_gui_title: 'Create an Auction'
