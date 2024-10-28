@@ -1398,6 +1398,10 @@ auction_add_gui_lore: |-
   §7 - §eChoose preferred currency
 auction_add_gui_title: 'Create an Auction'
 auction_add_gui_currency: 'Select desired currency'
+auction_add_select_item: 'Select item'
+auction_add_select_item_lore: |-
+  §7Click on an item in your inventory 
+  §7that you with to sell
 
 auction_items_gui_title: 'The Auction House'
 auction_item_sort_mode_a_z: 'By name (A-z)'
