@@ -1439,6 +1439,16 @@ shop_confirmation: '$shop_prefix$ §fAre you sure?'
 shop_cancellation: '$shop_prefix$ §cCancelled'
 
 # ======================
+#       Currency
+# ======================
+currency_coins: 'Coins'
+currency_pp: 'Player Points'
+currency_set_lore: -|
+  §r
+  §eLeft-Click to select the previous item
+  §eRight-Click to select the next item
+
+# ======================
 #     Teleporting
 # ======================
 teleport_prefix: '§b[Teleport]: '
