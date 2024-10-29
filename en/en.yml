@@ -1483,3 +1483,4 @@ authentication_password_incorrect: '$authentication_prefix$§cIncorrect password
 authentication_registered: '$authentication_prefix$§aYou have registered successfully!'
 authentication_register: '$authentication_prefix$§fPlease register with: §e/register <password> <repeat password>'
 authentication_login: '$authentication_prefix$§fPlease login with: §e/login <password>'
+command_unavailable_auth: '$authentication_prefix$§cYou need to login before executing commands!'
