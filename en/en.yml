@@ -1468,3 +1468,17 @@ teleporting: '$teleport_prefix$§fRelocating you in §6%countdown%§f seconds!'
 #     Join / Quit
 # ======================
 player_join: '§8[§b+§8] %name% §ejoined'
+
+# ======================
+#     Authentication
+# ======================
+
+authentication_prefix: '§b[Auth]: '
+authentication_already_logged_in: '$authentication_prefix$§cYou are already logged in!'
+authentication_not_registered: '$authentication_prefix$§cYou have to register first using: /register <password> <repeat password>'
+authentication_logged_in: '$authentication_prefix$§aSuccessfully logged in!'
+authentication_already_registered: '$authentication_prefix$§cYou are already registered!'
+authentication_password_no_match: '$authentication_prefix$§cWrong password!'
+authentication_registered: '$authentication_prefix$§aYou have registered successfully!'
+authentication_register: '$authentication_prefix$§fPlease register with: §e/register <password> <repeat password>'
+authentication_login: '$authentication_prefix$§fPlease login with: §e/login <password>'
