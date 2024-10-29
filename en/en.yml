@@ -229,7 +229,7 @@ pack_tab_header: |-
 pack_tab_footer: |-
   §r
   §r
-  §estore.astrona.net
+  §estore.skykingdoms.net
   §r
 
 # =======================
@@ -1183,7 +1183,7 @@ rarity_epic: '§5§lEPIC'
 rarity_legendary: '§6§lLEGENDARY'
 
 # rewards
-astrona_experience: 'Sky Kingdoms Experience'
+skykingdoms_experience: 'Sky Kingdoms Experience'
 reward_coin_mode_name: '§6%amount% §7%mode%'
 reward_coin_name: '§6%amount%'
 reward_gold_name: '§e%amount%'
@@ -1398,10 +1398,12 @@ auction_add_gui_lore: |-
   §7 - §eChoose preferred currency
 auction_add_gui_title: 'Create an Auction'
 auction_add_gui_currency: 'Select desired currency'
-auction_add_gui_select_item: 'Select item'
+auction_add_gui_select_item: '§cNo item selected'
 auction_add_gui_select_item_lore: |-
-  §7Click on an item in your inventory 
-  §7that you with to sell
+  §r
+  §eDrag an item and amount 
+  §efrom your inventory to this slot
+  §ethat you with to sell
 
 auction_items_gui_title: 'The Auction House'
 auction_item_sort_mode_a_z: 'By name (A-z)'
