@@ -1479,7 +1479,7 @@ authentication_not_registered: '$authentication_prefix$§cYou have to register f
 authentication_logged_in: '$authentication_prefix$§aSuccessfully logged in!'
 authentication_already_registered: '$authentication_prefix$§cYou are already registered!'
 authentication_password_no_match: '$authentication_prefix$§cPasswords do not match!'
-authentication_password_incorrect: '$authentication_prefix$§Incorrect password!'
+authentication_password_incorrect: '$authentication_prefix$§cIncorrect password!'
 authentication_registered: '$authentication_prefix$§aYou have registered successfully!'
 authentication_register: '$authentication_prefix$§fPlease register with: §e/register <password> <repeat password>'
 authentication_login: '$authentication_prefix$§fPlease login with: §e/login <password>'
