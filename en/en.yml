@@ -1397,7 +1397,7 @@ auction_add_gui_lore: |-
   §r
   §7 - §eChoose preferred currency
 auction_add_gui_title: 'Create an Auction'
-auction_add_gui_currency: 'Select desired currency'
+auction_add_gui_currency: '§bSelect desired currency'
 auction_add_gui_select_item: '§cNo item selected'
 auction_add_gui_select_item_lore: |-
   §r
