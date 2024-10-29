@@ -1404,6 +1404,14 @@ auction_add_gui_select_item_lore: |-
   §eDrag an item and amount 
   §efrom your inventory to this slot
   §ethat you with to sell
+auction_add_gui_input_currency_item: '§cNo amount entered'
+auction_add_gui_input_currency_item_lore: |-
+  §eClick to set currency amount
+auction_add_gui_input_currency_sign: [
+  '',
+  "^^^^^^^^^^^",
+  'sell currency amount'
+]
 
 auction_items_gui_title: 'The Auction House'
 auction_item_sort_mode_a_z: 'By name (A-z)'
