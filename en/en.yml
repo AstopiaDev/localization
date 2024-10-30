@@ -1410,7 +1410,7 @@ auction_add_gui_select_item_lore: |-
 auction_add_gui_input_currency_item: '§cNo amount entered'
 auction_add_gui_input_currency_item_lore: |-
   §eClick to set currency amount
-auction_add_gui_input_custom_expiration_time_item: '§bSet custom expiration time'
+auction_add_gui_input_custom_expiration_time_item: '§cNo expiration time entered'
 auction_add_gui_input_custom_expiration_time_item_lore: |-
   §7Click to input
   §7a custom auction expiration time
