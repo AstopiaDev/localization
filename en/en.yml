@@ -1421,7 +1421,7 @@ auction_add_gui_select_pre-made_expiration_time_item_lore: |-
   §r
   §eLeft-Click to select the previous item
   §eRight-Click to select the next item
-  
+auction_add_gui_fee_unavailable: '§cSet a price to calculate your fee'
   
   
 
