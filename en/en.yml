@@ -1422,8 +1422,6 @@ auction_add_gui_select_pre-made_expiration_time_item_lore: |-
   §eLeft-Click to select the previous item
   §eRight-Click to select the next item
 auction_add_gui_fee_unavailable: '§cSet a price to calculate your fee'
-  
-  
 
 auction_items_gui_title: 'The Auction House'
 auction_item_sort_mode_a_z: 'By name (A-z)'
