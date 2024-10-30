@@ -1390,6 +1390,9 @@ auction_gui_your_auctions_lore: |-
   §r
   §7 - §eUpdate auction settings
   §7 - §eCancel auctions
+  
+  
+  
 
 auction_add_gui: '§aCreate an auction'
 auction_add_gui_lore: |-
@@ -1407,6 +1410,15 @@ auction_add_gui_select_item_lore: |-
 auction_add_gui_input_currency_item: '§cNo amount entered'
 auction_add_gui_input_currency_item_lore: |-
   §eClick to set currency amount
+auction_add_gui_input_custom_expiration_time_item: '§bSet custom expiration time'
+auction_add_gui_input_custom_expiration_time_item_lore: |-
+  §7Click to input
+  §7a custom auction expiration time
+auction_add_gui_select_pre-made_expiration_time_item: '§bChoose expiration time'
+auction_add_gui_select_pre-made_expiration_time_item_lore: |-
+  §r
+  §eLeft-Click to select the previous item
+  §eRight-Click to select the next item
 
 auction_items_gui_title: 'The Auction House'
 auction_item_sort_mode_a_z: 'By name (A-z)'
@@ -1484,3 +1496,10 @@ authentication_registered: '$authentication_prefix$§aYou have registered succes
 authentication_register: '$authentication_prefix$§fPlease register with: §e/register <password> <repeat password>'
 authentication_login: '$authentication_prefix$§fPlease login with: §e/login <password>'
 command_unavailable_auth: '$authentication_prefix$§cYou need to login before executing commands!'
+authentication_password_changed: '$authentication_prefix$§aYour password has been successfully changed!'
+authentication_admin_change_password: '$authentication_prefix$§fPassword has been successfully changed for %player%'
+authentication_admin_unregistered: '$authentication_prefix$§f%player% has been successfully unregistered.'
+authentication_unregistered: '$authentication_prefix$§aYou have been successfully unregistered from the system.'
+authentication_admin_logged_out: '$authentication_prefix$§f%player% has been successfully logged out.'
+authentication_logged_out: '$authentication_prefix$§aYou have been successfully logged out.'
+authentication_admin_not_logged_in: '$authentication_prefix$§c%player% is not currently logged in.'
