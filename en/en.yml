@@ -1506,3 +1506,5 @@ authentication_unregistered: '$authentication_prefix$§aYou have been successful
 authentication_admin_logged_out: '$authentication_prefix$§f%player% has been successfully logged out.'
 authentication_logged_out: '$authentication_prefix$§aYou have been successfully logged out.'
 authentication_admin_not_logged_in: '$authentication_prefix$§c%player% is not currently logged in.'
+authentication_premium_logout: "$authentication_prefix$§cYou can't log out because you are a premium user"
+authentication_admin_premium_logout: "$authentication_prefix$§c%player% cannot be logged out because they are a premium user"
