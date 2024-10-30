@@ -1409,16 +1409,21 @@ auction_add_gui_select_item_lore: |-
   §ethat you with to sell
 auction_add_gui_input_currency_item: '§cNo amount entered'
 auction_add_gui_input_currency_item_lore: |-
+  §r
   §eClick to set currency amount
 auction_add_gui_input_custom_expiration_time_item: '§cNo expiration time entered'
 auction_add_gui_input_custom_expiration_time_item_lore: |-
-  §7Click to input
-  §7a custom auction expiration time
+  §r
+  §eClick to input
+  §ea custom auction expiration time
 auction_add_gui_select_pre-made_expiration_time_item: '§bChoose expiration time'
 auction_add_gui_select_pre-made_expiration_time_item_lore: |-
   §r
   §eLeft-Click to select the previous item
   §eRight-Click to select the next item
+  
+  
+  
 
 auction_items_gui_title: 'The Auction House'
 auction_item_sort_mode_a_z: 'By name (A-z)'
