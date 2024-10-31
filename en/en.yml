@@ -1534,3 +1534,8 @@ kit_gui_item_available_lore: |-
   §r
   §aLeft-Click to obtain
   §aRight-Click to preview
+kit_gui_no_addon_kit_name: "§cNo Additional Kits"
+kit_gui_no_addon_kit_lore: |-
+  §r
+  §fThis kit doesn''t have any
+  §fobtainable additional kits
