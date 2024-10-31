@@ -1427,7 +1427,7 @@ auction_add_gui_insert_item_not_ready: '§cCannot post an auction yet'
 auction_add_gui_insert_item_no_item_lore: '§3No item selected!'
 auction_add_gui_insert_item_no_price_lore: '§3No price inputted!'
 auction_add_gui_insert_item_no_expiration_duration_lore: '§3No expiration duration selected!'
-
+auction_add_gui_insert_item_preview: '§aAuction Preview: '
 
 
 auction_items_gui_title: 'The Auction House'
