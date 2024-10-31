@@ -1508,3 +1508,29 @@ authentication_logged_out: '$authentication_prefix$§aYou have been successfully
 authentication_admin_not_logged_in: '$authentication_prefix$§c%player% is not currently logged in.'
 authentication_premium_logout: "$authentication_prefix$§cYou can't log out because you are a premium user"
 authentication_admin_premium_logout: "$authentication_prefix$§c%player% cannot be logged out because they are a premium user"
+
+# ======================
+#          Kits
+# ======================
+kit_zeus: "Zeus"
+kit_gui_item_cooldown_name: "§e%kit%"
+kit_gui_item_cooldown_lore: |-
+  §r
+  §fAvailable in
+  §6%cooldown%
+  §r
+  §eClick to preview
+kit_gui_item_unavailable_name: "§c%kit%"
+kit_gui_item_unavailable_lore: |-
+  §r
+  §fYou do not have
+  §faccess to this kit
+  §r
+  §cClick to preview
+kit_gui_item_available_name: "§a%kit%"
+kit_gui_item_available_lore: |-
+  §r
+  §fYou own this kit
+  §r
+  §aLeft-Click to obtain
+  §aRight-Click to preview
