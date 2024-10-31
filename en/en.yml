@@ -1423,12 +1423,10 @@ auction_add_gui_select_pre-made_expiration_time_item_lore: |-
   §eRight-Click to select the next item
 auction_add_gui_fee_unavailable: '0'
 auction_add_gui_insert_item: '§aPut up an auction'
-auction_add_gui_insert_item_no_item: 'no item'
-auction_add_gui_insert_item_no_item_lore: 'no item2'
-auction_add_gui_insert_item_no_price: 'no price'
-auction_add_gui_insert_item_no_price_lore: 'no price2'
-auction_add_gui_insert_item_no_expiration_duration: 'no expt'
-auction_add_gui_insert_item_no_expiration_duration_lore: 'no expt2'
+auction_add_gui_insert_item_not_ready: '§cCannot post an auction yet'
+auction_add_gui_insert_item_no_item_lore: '§3No item selected!'
+auction_add_gui_insert_item_no_price_lore: '§3No price inputted!'
+auction_add_gui_insert_item_no_expiration_duration_lore: '§3No expiration duration selected!'
 
 
 
