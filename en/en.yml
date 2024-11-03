@@ -1423,11 +1423,14 @@ auction_add_gui_select_pre-made_expiration_time_item_lore: |-
   §eRight-Click to select the next item
 auction_add_gui_fee_unavailable: '0'
 auction_add_gui_insert_item: '§aPut up an auction'
-auction_add_gui_insert_item_not_ready: '§cCannot post an auction yet'
+auction_add_gui_insert_item_not_ready: "§cCan't post this auction"
 auction_add_gui_insert_item_no_item_lore: '§3No item selected!'
 auction_add_gui_insert_item_no_price_lore: '§3No price inputted!'
 auction_add_gui_insert_item_no_expiration_duration_lore: '§3No expiration duration selected!'
-auction_add_gui_insert_item_no_fee_lore: '§3You do not have enough of the selected currency to pay the fee!'
+auction_add_gui_insert_item_no_fee_lore: |-
+  §3You do not have enough of 
+  §3the selected currency to pay the fee!
+
 auction_add_gui_insert_item_preview: '§aAuction Preview: '
 auction_add_gui_insert_item_preview_lore: |-
   §r
@@ -1498,6 +1501,9 @@ currency_set_lore: |-
   §r
   §eLeft-Click to select the previous item
   §eRight-Click to select the next item
+
+coins_self: '§fYou have §6%coins% coins'
+coins_other: '§f%player% has §6%coins% coins'
 
 # ======================
 #     Teleporting
