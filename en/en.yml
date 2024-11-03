@@ -1445,12 +1445,10 @@ auction_your_gui_title: 'Your Auctions'
 auction_your_gui_item_name: '§e%item_name%'
 auction_your_gui_item_lore: |-
   §7Time left: §e%time_left%
-  §7Price: §6%price% coins
-  §7Price per unit:§6 %price_unit% coins
+  §7Price: §6%price% %currency%
+  §7Price per unit:§6 %price_unit% %currency%
   §7Buyers: §e%buyers%
   §7Click to manage
-
-
 
 auction_items_gui_title: 'The Auction House'
 auction_item_sort_mode_a_z: 'By name (A-z)'
