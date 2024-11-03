@@ -1439,7 +1439,7 @@ auction_add_gui_insert_item_preview_lore: |-
   §7Expiration: §e%expiration%
   §7Fee: §6%fee% %currency%
 auctions_your_manage_item_gui_item_title: '§aYour Auction item'
-auction_add_gui_insert_item_preview_lore: |-
+auctions_your_manage_item_gui_item_lore: |-
   §r
   §7Item: §e%item%
   §7Amount: §e%amount%
