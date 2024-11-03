@@ -1430,7 +1430,6 @@ auction_add_gui_insert_item_no_expiration_duration_lore: '§f- §3No expiration 
 auction_add_gui_insert_item_no_fee_lore: |-
   §f- §3You do not have enough of 
       §3the selected currency to pay the fee!
-
 auction_add_gui_insert_item_preview: '§aAuction Preview: '
 auction_add_gui_insert_item_preview_lore: |-
   §r
@@ -1439,6 +1438,15 @@ auction_add_gui_insert_item_preview_lore: |-
   §7Price: §6%price% %currency%
   §7Expiration: §e%expiration%
   §7Fee: §6%fee% %currency%
+auctions_your_manage_item_gui_item_title: '§aYour Auction item'
+auction_add_gui_insert_item_preview_lore: |-
+  §r
+  §7Item: §e%item%
+  §7Amount: §e%amount%
+  §7Price: §6%price% %currency%
+  §7Expiration: §e%expiration%
+
+
 
 
 auction_your_gui_title: 'Your Auctions'
