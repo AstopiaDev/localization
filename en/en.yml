@@ -1477,8 +1477,9 @@ auctions_your_manage_item_gui_item_update_expiration_time_confirm_lore: |-
   §cRight Click to cancel
 auctions_your_manage_item_gui_item_update_expiration_time_no_money: "§cCan't update expiration time" 
 auctions_your_manage_item_gui_item_update_expiration_time_no_money_lore: |-
-  §cYou do not have enough of 
-    the selected currency to pay the fee!
+  §r
+  §7- §3You do not have enough of 
+  §3the selected currency to pay the fee!
 
 
 auction_your_gui_title: 'Your Auctions'
@@ -1488,7 +1489,8 @@ auction_your_gui_item_lore: |-
   §7Price: §6%price% %currency%
   §7Price per unit:§6 %price_unit% %currency%
   §7Buyers: §e%buyers%
-  §7Click to manage
+  §r
+  §eClick to manage
 
 auction_items_gui_title: 'The Auction House'
 auction_item_sort_mode_a_z: 'By name (A-z)'
