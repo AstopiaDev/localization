@@ -1463,6 +1463,16 @@ auctions_your_manage_item_gui_item_update_expiration_time_lore: |-
   §r
   §eClick to input a new expiration time 
   §efor this auction
+auctions_your_manage_item_gui_item_update_expiration_time_confirm: '§eAre you sure you want to update the expiration time?'
+auctions_your_manage_item_gui_item_update_expiration_time_confirm_lore: |-
+  §r
+  §eCost: §6%fee% %currency%
+  §aClick to confirm
+  §cRight Click to cancel
+auctions_your_manage_item_gui_item_update_expiration_time_no_money: "§cCan't update expiration time" 
+auctions_your_manage_item_gui_item_update_expiration_time_no_money_lore: |-
+  §cYou do not have enough of 
+    the selected currency to pay the fee!
 
 
 auction_your_gui_title: 'Your Auctions'
