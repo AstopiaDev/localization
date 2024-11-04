@@ -1452,8 +1452,8 @@ auctions_your_manage_item_gui_item_cancel_lore: |-
 auctions_your_manage_item_gui_item_cancel_confirm: '§eAre you sure you want to cancel this auction?'
 auctions_your_manage_item_gui_item_cancel_confirm_lore: |-
   §r
-  §aClick to confirm
-  §cRight Click to cancel and get your item back
+  §aClick to confirm and get your item back
+  §cRight Click to cancel
 auctions_your_manage_item_gui_item_oncancel: '§aAuction has been cancelled!'
 auctions_your_manage_item_gui_item_update_price: '§aUpdate price'
 auctions_your_manage_item_gui_item_update_price_lore: |-
@@ -1501,7 +1501,22 @@ auction_item_sort_mode_a_z: 'By name (A-z)'
 auction_item_sort_mode_z_a: 'By name (Z-a)'
 auction_item_sort_mode_price_desc: 'Cost (Descent)'
 auction_item_sort_mode_price_asc: 'Cost (Ascent)'
-auction_item_custom_input_buy: '§aBuy custom amount'
+
+auction_item_gui_custom_input_buy: '§aBuy custom amount'
+auction_item_gui_custom_input_buy_lore: |-
+  §r
+  §eClick to input a custom amount
+  §eof items to buy
+auction_item_gui_custom_input_sell: '§aSell custom amount'
+auction_item_gui_custom_input_sell_lore: |-
+  §r
+  §eClick to input a custom amount
+  §eof items to sell
+auction_item_gui_buy: '§aBuy'
+auction_item_gui_buy_lore: |-
+  §r
+  §eClick to buy this item
+
 auction_items_gui_sort_mode: '§6Auction Sorting'
 auction_items_gui_sort_mode_lore: |-
   §7Current sort mode: §e%current_sort_mode%
