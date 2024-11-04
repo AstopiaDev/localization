@@ -1458,7 +1458,11 @@ auctions_your_manage_item_gui_item_update_price_lore: |-
   §r
   §eClick to input a new price 
   §efor this auction
-
+auctions_your_manage_item_gui_item_update_expiration_time: '§aUpdate expiration time'
+auctions_your_manage_item_gui_item_update_expiration_time_lore: |-
+  §r
+  §eClick to input a new expiration time 
+  §efor this auction
 
 
 auction_your_gui_title: 'Your Auctions'
