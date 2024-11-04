@@ -1468,7 +1468,7 @@ auctions_your_manage_item_gui_item_update_expiration_time_lore: |-
 
   §f- §bThis action requires confirmation!
   §f- §bThis action requires a fee if the new expire time
-      §bis longer than the current one!
+    §bis longer than the current one!
 auctions_your_manage_item_gui_item_update_expiration_time_confirm: '§eAre you sure you want to update the expiration time?'
 auctions_your_manage_item_gui_item_update_expiration_time_confirm_lore: |-
   §r
