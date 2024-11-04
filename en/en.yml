@@ -1453,6 +1453,11 @@ auctions_your_manage_item_gui_item_cancel_confirm_lore: |-
   §aClick to confirm
   §cRight Click to cancel
 auctions_your_manage_item_gui_item_oncancel: '§aAuction has been cancelled!'
+auctions_your_manage_item_gui_item_update_price: '§aUpdate price'
+auctions_your_manage_item_gui_item_update_price_lore: |-
+  §r
+  §eClick to input a new price 
+  §efor this auction
 
 
 
