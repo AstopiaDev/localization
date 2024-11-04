@@ -1439,19 +1439,20 @@ auction_add_gui_insert_item_preview_lore: |-
   §7Expiration: §e%expiration%
   §7Fee: §6%fee% %currency%
 auctions_your_manage_item_gui_title: 'Manage Auction'
-auctions_your_manage_item_gui_item_title: '§aYour Auction item'
 auctions_your_manage_item_gui_item_lore: |-
   §r
-  §7Item: §e%item%
   §7Amount: §e%amount%
   §7Price: §6%price% %currency%
   §7Expiration: §e%expiration%
 auctions_your_manage_item_gui_item_cancel: '§cCancel Auction'
+auctions_your_manage_item_gui_item_cancel_lore: |- 
+  §r
+  §f- §bThis action needs requires confirmation!
 auctions_your_manage_item_gui_item_cancel_confirm: '§eAre you sure you want to cancel this auction?'
 auctions_your_manage_item_gui_item_cancel_confirm_lore: |-
   §r
   §aClick to confirm
-  §cRight Click to cancel
+  §cRight Click to cancel and get your item back
 auctions_your_manage_item_gui_item_oncancel: '§aAuction has been cancelled!'
 auctions_your_manage_item_gui_item_update_price: '§aUpdate price'
 auctions_your_manage_item_gui_item_update_price_lore: |-
@@ -1463,6 +1464,9 @@ auctions_your_manage_item_gui_item_update_expiration_time_lore: |-
   §r
   §eClick to input a new expiration time 
   §efor this auction
+  §f- §bThis action requires confirmation!
+  §f- §bThis action requires a fee if the new expire time
+      §bis longer than the current one!
 auctions_your_manage_item_gui_item_update_expiration_time_confirm: '§eAre you sure you want to update the expiration time?'
 auctions_your_manage_item_gui_item_update_expiration_time_confirm_lore: |-
   §r
