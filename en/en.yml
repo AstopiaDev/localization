@@ -1447,11 +1447,11 @@ auctions_your_manage_item_gui_item_lore: |-
   §7Price: §6%price% %currency%
   §7Expiration: §e%expiration%
 auctions_your_manage_item_gui_item_cancel: '§cCancel Auction'
-auctions_your_manage_item_gui_item_cancel_confirm: '§aAre you sure you want to cancel this auction?'
+auctions_your_manage_item_gui_item_cancel_confirm: '§cAre you sure you want to cancel this auction?'
 auctions_your_manage_item_gui_item_cancel_confirm_lore: |-
   §r
-  §eClick to confirm
-  §eRight-Click to cancel
+  §aClick to confirm
+  §cRight Click to cancel
 auctions_your_manage_item_gui_item_oncancel: '§aAuction has been cancelled!'
 
 
