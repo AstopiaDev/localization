@@ -144,9 +144,9 @@ map_cluster_gui_best_lore: |-
   §f
   §eClick to find optimal server!
 
-gamemode_select_icon: '§aGame Menu §7(Right Click)'
+gamemode_select_icon: '§6§lGamemode Selector'
 gamemode_select_icon_lore: |-
-  §7Right Click to bring up the Game Menu!
+  §eRight Click to bring up the §bGamemode §eMenu
 
 spectate_npc_hologram_title: '§eSpectate games'
 spectate_npc_hologram_action: '§fClick to open'
