@@ -312,16 +312,16 @@ shop_icon: '§aShop §7(Right Click)'
 lobby_select_icon: '§a§lLobby Selector'
 lobby_select_icon_lore: |-
   §eRight-click to swap between various lobbies!
-  §eStay connected with your friends using this feature.
+  §bStay connected with your friends using this feature.
 
 lobby_players_hidden: '§cPlayers are now hidden!'
 lobby_players_shown: '§aPlayers are now visible!'
 
-hide_players_icon: '§fPlayers: §aVisible'
-show_players_icon: '§fPlayers: §cHidden'
+hide_players_icon: '§bPlayers: §aVisible'
+show_players_icon: '§bPlayers: §cHidden'
 
 hider_icon_lore: |-
-  §7Right-click to toggle player visibility!
+  §eRight-click to toggle player visibility!
 
 core_reconnect_success_title: '§aEverything is back online.'
 core_reconnect_success_subtitle: '§aYou’re all set to play!'
