@@ -309,29 +309,29 @@ gamemode_target_changed: '$prefix$You changed the player gamemode %target%'
 
 right_click: '§7Right-Click'
 shop_icon: '§aShop §7(Right Click)'
-lobby_select_icon: '§eLobby Selector §7(Right Click)'
+lobby_select_icon: '§6§lLobby Selector'
 lobby_select_icon_lore: |-
-  §7Right-click to switch between different lobbies!
-  §7Use this to stay with your friends.
+  §eRight-click to swap between various lobbies!
+  §eStay connected with your friends using this feature.
 
-lobby_players_hidden: '§cPlayer visibility disabled!'
-lobby_players_shown: '§aPlayer visibility enabled!'
+lobby_players_hidden: '§cPlayers are now hidden!'
+lobby_players_shown: '§aPlayers are now visible!'
 
-hide_players_icon: '§fPlayers: §aShown'
+hide_players_icon: '§fPlayers: §aVisible'
 show_players_icon: '§fPlayers: §cHidden'
 
 hider_icon_lore: |-
   §7Right-click to toggle player visibility!
 
-core_reconnect_success_title: '§aTechnical issues have been resolved.'
-core_reconnect_success_subtitle: '§aEnjoy the game!'
+core_reconnect_success_title: '§aEverything is back online.'
+core_reconnect_success_subtitle: '§aYou’re all set to play!'
 core_reconnect_message: |-
   $general_line$
-  §cWe are currently experiencing minor technical issues.
-  §cYou might not be able to use commands or move between servers.
-  §fPlease wait until we sort this out!
+  §cWe’re currently performing some core updates.
+  §cCommands and server transfers might be temporarily unavailable.
+  §fPlease hang tight while we finish up!
   $general_line$
-core_reconnect_server_not_found: '§cServer for reconnecting was not found'
+core_reconnect_server_not_found: '§cCould not find the server for reconnection'
 
 command_chat_usage: |-
   §cUsage: /chat <%available%>
