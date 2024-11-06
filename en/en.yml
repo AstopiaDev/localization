@@ -154,7 +154,7 @@ levelup: |-
 enabled: '§aEnabled'
 disabled: '§cDisabled'
 
-profile_icon: '§aMy Profile §7(Right Click)'
+profile_icon: '§5§lMy Profile'
 
 configuration_reloaded: '$prefix$Config reloaded!'
 
@@ -309,7 +309,7 @@ gamemode_target_changed: '$prefix$You changed the player gamemode %target%'
 
 right_click: '§7Right-Click'
 shop_icon: '§aShop §7(Right Click)'
-lobby_select_icon: '§6§lLobby Selector'
+lobby_select_icon: '§a§lLobby Selector'
 lobby_select_icon_lore: |-
   §eRight-click to swap between various lobbies!
   §eStay connected with your friends using this feature.
