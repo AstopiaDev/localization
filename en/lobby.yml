@@ -156,8 +156,8 @@ gamemode_npc_full_plural: '§cThere are no free slots on the game mode'
 
 gamemode_npc_maintenance: '§4Unavailable'
 gamemode_npc_status_game: '§e%game%'
-gamemode_npc_status_players: '§b%players% players online'
-gamemode_npc_default_status: '§6§lClick to connect'
+gamemode_npc_status_players: '§b%players% online'
+gamemode_npc_default_status: '§6§lClick to join!'
 
 # dynamic NPC status lines declared here
 #gamemode_npc_skywars_status: '§d§lIN DEVELOPMENT'
