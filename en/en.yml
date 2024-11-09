@@ -1489,7 +1489,16 @@ auctions_your_manage_item_gui_item_update_expiration_time_no_money_lore: |-
 auction_your_gui_title: 'Your Auctions'
 auction_your_gui_item_name: '§e%item_name%'
 auction_your_gui_item_lore: |-
+  §r
   §7Time left: §e%time_left%
+  §7Price: §6%price% %currency%
+  §7Price per unit:§6 %price_unit% %currency%
+  §7Buyers: §e%buyers%
+  §r
+  §eClick to manage
+auction_your_gui_item_expired_lore: |-
+  §r
+  §cExpired
   §7Price: §6%price% %currency%
   §7Price per unit:§6 %price_unit% %currency%
   §7Buyers: §e%buyers%
