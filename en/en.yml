@@ -1556,7 +1556,10 @@ auction_items_gui_search_query: |-
 # ======================
 shop_prefix: '§b[Shop]:'
 shop_insufficient_funds: '$error_prefix$ You do not have enough %currency%'
-shop_purchase_success: '$shop_prefix$ §fYou bought §6%quantity%x§f of§6 %item%'
+shop_insufficient_products: '$error_prefix$ You do not have enough products'
+shop_no_requirements: '$error_prefix$ You do not meet the requirements for this product'
+shop_purchase_success: '$shop_prefix$ §fYou bought §6%quantity%x§f of§6 %product%§f for %price% %currency%'
+shop_sell_success: '$shop_prefix$ §fYou sold §6%quantity%x §f of §6%product%§f for %price% %currency%'
 shop_confirmation: '$shop_prefix$ §fAre you sure?'
 shop_cancellation: '$shop_prefix$ §cCancelled'
 
