@@ -1573,10 +1573,10 @@ shop_gui_shopping_cart_lore: |-
 shop_gui_action_buy_title: 'Buy %product%'
 shop_gui_action_sell_title: 'Sell %product%'
 shop_product_buy: |-
-  §aBuy price: 
+  §aBuy price
   §a%price% %currency%
 shop_product_sell: |-
-  §cSell price: 
+  §cSell price
   §c%price% %currency%
 shop_product_bulk: |-
   §r
