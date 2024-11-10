@@ -1565,7 +1565,7 @@ shop_shopping_cart_remove: |-
   §r
   §cClick to remove this 
   §citem from your shopping cart
-shop_gui_shopping_cart_name: '§r§fShopping cart'
+shop_gui_shopping_cart_name: '§r§fShopping Cart'
 shop_gui_shopping_cart_lore: |-
   §r
   §6You've got §l%quantity% §r§6products in your shopping cart!
