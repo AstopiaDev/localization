@@ -1568,13 +1568,14 @@ shop_shopping_cart_remove: |-
   §r
   §cClick to remove this 
   §citem from your shopping cart
-shop_gui_shopping_cart_name: '§r§fShopping Cart'
+shop_gui_shopping_cart_name: '§fShopping Cart'
 shop_gui_shopping_cart_lore: |-
   §r
   §6You've got §l%quantity% §r§6products in your shopping cart!
   §eClick to open your shopping cart
 shop_gui_action_buy_title: 'Buy %product%'
 shop_gui_action_sell_title: 'Sell %product%'
+shop_product_locked: "§4Locked"
 shop_product_buy: |-
   §aBuy Price
   §a%price% %currency%
