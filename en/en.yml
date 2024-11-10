@@ -1563,16 +1563,17 @@ shop_cancellation: '$shop_prefix$ §cCancelled'
 shop_shopping_cart_title: 'Your shopping cart'
 shop_shopping_cart_remove: |-
   §r
-  §cClick to remove this item from your shopping cart
+  §cClick to remove this 
+  §citem from your shopping cart
 shop_gui_shopping_cart_name: 'Open shopping cart'
 shop_gui_shopping_cart_lore: |-
   §r
-  $4%quantity% items
+  §6You've got %quantity% in your shopping cart!
   §eClick to open your shopping cart
 shop_gui_action_buy_title: 'Buy %product%'
 shop_gui_action_sell_title: 'Sell %product%'
-shop_product_buy: '%price% %currency%'
-shop_product_sell: '%price% %currency%'
+shop_product_buy: 'Buy for %price% %currency%'
+shop_product_sell: 'Sell for %price% %currency%'
 shop_product_bulk: |-
   §r
   §eShift Click to buy this item in bigger quantities
