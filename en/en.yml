@@ -1573,9 +1573,11 @@ shop_gui_shopping_cart_lore: |-
 shop_gui_action_buy_title: 'Buy %product%'
 shop_gui_action_sell_title: 'Sell %product%'
 shop_product_buy: |-
-  §7Buy price: 
-  §7%price% %currency%
-shop_product_sell: '§7Sell price: %price% %currency%'
+  §aBuy price: 
+  §a%price% %currency%
+shop_product_sell: |-
+  §cSell price: 
+  §c%price% %currency%
 shop_product_bulk: |-
   §r
   §eShift Click to buy this
