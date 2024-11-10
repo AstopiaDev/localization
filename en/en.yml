@@ -1572,11 +1572,14 @@ shop_gui_shopping_cart_lore: |-
   §eClick to open your shopping cart
 shop_gui_action_buy_title: 'Buy %product%'
 shop_gui_action_sell_title: 'Sell %product%'
-shop_product_buy: '§7Buy price: %price% %currency%'
+shop_product_buy: |-
+  §7Buy price: 
+  §7%price% %currency%
 shop_product_sell: '§7Sell price: %price% %currency%'
 shop_product_bulk: |-
   §r
-  §eShift Click to buy this item in bigger quantities
+  §eShift Click to buy this
+  §eitem in bigger quantities
 
 
 
