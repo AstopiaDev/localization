@@ -1565,15 +1565,15 @@ shop_shopping_cart_remove: |-
   §r
   §cClick to remove this 
   §citem from your shopping cart
-shop_gui_shopping_cart_name: 'Open shopping cart'
+shop_gui_shopping_cart_name: '§rOpen shopping cart'
 shop_gui_shopping_cart_lore: |-
   §r
-  §6You've got %quantity% in your shopping cart!
+  §6You've got %quantity% items in your shopping cart!
   §eClick to open your shopping cart
 shop_gui_action_buy_title: 'Buy %product%'
 shop_gui_action_sell_title: 'Sell %product%'
-shop_product_buy: 'Buy for %price% %currency%'
-shop_product_sell: 'Sell for %price% %currency%'
+shop_product_buy: '&7Buy price: %amount% %currency%'
+shop_product_sell: '&7Sell price: %amount% %currency%'
 shop_product_bulk: |-
   §r
   §eShift Click to buy this item in bigger quantities
@@ -1584,7 +1584,7 @@ shop_product_bulk: |-
 #       Currency
 # ======================
 currency_coins: 'Coins'
-currency_pp: 'Player Points'
+currency_player_points: 'Player Points'
 currency_set_lore: |-
   §r
   §eLeft-Click to select the previous item
