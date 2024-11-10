@@ -1579,7 +1579,6 @@ shop_product_sell: |-
   §cSell Price
   §c%price% %currency%
 shop_product_bulk: |-
-  §r
   §eShift Click to buy this
   §eitem in bigger quantities
 
