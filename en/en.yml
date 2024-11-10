@@ -1577,10 +1577,10 @@ shop_gui_action_buy_title: 'Buy %product%'
 shop_gui_action_sell_title: 'Sell %product%'
 shop_product_locked: "§4Locked"
 shop_product_buy: |-
-  §aBuy Price
+  §aLeft-Click to buy for
   §a%price% %currency%
 shop_product_sell: |-
-  §cSell Price
+  §cRight-Click to buy for
   §c%price% %currency%
 shop_product_bulk: |-
   §eShift Click to buy this
