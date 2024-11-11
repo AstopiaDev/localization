@@ -1580,7 +1580,7 @@ shop_product_buy: |-
   §a§lLeft-Click to buy
   §f%price% %currency%
 shop_product_sell: |-
-  §c§lRight-Click to buy
+  §c§lRight-Click to sell
   §f%price% %currency%
 shop_product_bulk: |-
   §eShift Click to buy in bulk
