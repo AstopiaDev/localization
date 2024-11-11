@@ -1,3 +1,10 @@
+skypvp_join_message: |-
+  §r
+  §b§lSky §6§lKingdoms §f§lSky PvP!
+  §7Battle against players on floating islands,
+  §7uncovering hidden adventures and
+  §7mysteries in the skies!
+  §r
 board_skypvp_level: '§fLevel » %level%'
 board_skypvp_kills: '§fKills » §c%kills%'
 board_skypvp_coins: '§fCoins » §6%coins%'
