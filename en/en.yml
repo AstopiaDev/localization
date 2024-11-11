@@ -1563,16 +1563,26 @@ shop_sell_success: '$shop_prefix$ §fYou sold §6%quantity%x §f of §6%product%
 shop_confirmation: '$shop_prefix$ §fAre you sure?'
 shop_cancellation: '$shop_prefix$ §cCancelled'
 
-shop_shopping_cart_title: 'Your shopping cart'
+shop_shopping_cart_title: 'Your Shopping Cart'
 shop_shopping_cart_remove: |-
   §r
   §cClick to remove this 
-  §citem from your shopping cart
+  §citem from your selling cart
+shop_selling_cart_title: 'Your Selling Cart'
+shop_selling_cart_remove: |-
+  §r
+  §cClick to remove this 
+  §citem from your selling cart
 shop_gui_shopping_cart_name: '§fShopping Cart'
 shop_gui_shopping_cart_lore: |-
   §r
   §6You've got §l%quantity% §r§6products in your shopping cart!
   §eClick to open your shopping cart
+shop_gui_selling_cart_name: '§fSelling Cart'
+shop_gui_selling_cart_lore: |-
+  §r
+  §6You've got §l%quantity% §r§6products in your selling cart!
+  §eClick to open your selling cart
 shop_gui_action_buy_title: 'Buy %product%'
 shop_gui_action_sell_title: 'Sell %product%'
 shop_product_locked: "§4Locked"
