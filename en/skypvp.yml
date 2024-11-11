@@ -5,9 +5,9 @@ skypvp_join_message: |-
   §f  hidden adventures and mysteries
   §f  in the skies!
   §r §r
-  §r  §aPurchase better gear /shop
-  §r  §eBecome a business man /ah
-  §r  §dLevel up your game! /prestige
+  §r  §a§lPurchase better gear /shop
+  §r  §e§lBecome a business man /ah
+  §r  §d§lLevel up your game! /prestige
   §r §r
 board_skypvp_level: '§fLevel » %level%'
 board_skypvp_kills: '§fKills » §c%kills%'
