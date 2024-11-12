@@ -1529,6 +1529,7 @@ auction_item_gui_buy_lore: |-
 auction_item_gui_increase_by: 'Increase by %amount%'
 auction_item_gui_decrease_by: 'Decrease by %amount%'
 auction_item_gui_amount: 'Amount: %amount%'
+auction_item_gui_invalid_amount: '§cInvalid amount entered!'
 
 auction_items_gui_sort_mode: '§6Auction Sorting'
 auction_items_gui_sort_mode_lore: |-
