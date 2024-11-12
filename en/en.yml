@@ -1504,6 +1504,7 @@ auction_your_gui_item_expired_lore: |-
   §7Buyers: §e%buyers%
   §r
   §eClick to manage
+auction_your_gui_item_nobuyers: '§cNo buyers yet!'
 
 auction_items_gui_title: 'The Auction House'
 auction_item_sort_mode_a_z: 'By name (A-z)'
