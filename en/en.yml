@@ -1703,12 +1703,9 @@ item_filter_gui_status_lore_disabled: |-
   §7The items in the below slots 
   §7will be picked up
 
-item_filter_gui_unlocked_slot_lore: |-
-  §r
-  §aThis slot is available!
+item_filter_gui_unlocked_slot_name: '§aThis slot is available!'
 
 item_filter_gui_slot_locked_name: '§cSlot locked!'
 item_filter_gui_slot_locked_lore: |-
-  §r
-  §fupgrade your rank to get more slots!
+  §7Upgrade your rank to get more slots!
   §c>> §7https://store.skykingdoms.net
