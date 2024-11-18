@@ -1693,8 +1693,8 @@ kit_gui: "Kits"
 #      Item Filter
 # ======================
 
-item_filter_gui_slot_locked_name: 'Slot locked!'
+item_filter_gui_slot_locked_name: '§cSlot locked!'
 item_filter_gui_slot_locked_lore: |-
   §r
-  §cupgrade your rank to get more slots!
-  §f>> §chttps://store.skykingdoms.net
+  §fupgrade your rank to get more slots!
+  §c>> §fhttps://store.skykingdoms.net
