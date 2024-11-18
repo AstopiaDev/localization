@@ -1693,8 +1693,22 @@ kit_gui: "Kits"
 #      Item Filter
 # ======================
 
+item_filter_gui_title: 'Item filter'
+item_filter_gui_status_name_enabled: '§aItem filter enabled'
+item_filter_gui_status_name_disabled: '§cItem filter disabled'
+item_filter_gui_status_lore_enabled: |-
+  §7The items in the below slots 
+  §7will not be picked up
+item_filter_gui_status_lore_disabled: |-
+  §7The items in the below slots 
+  §7will be picked up
+
+item_filter_gui_unlocked_slot_lore: |-
+  §r
+  §aThis slot is available!
+
 item_filter_gui_slot_locked_name: '§cSlot locked!'
 item_filter_gui_slot_locked_lore: |-
   §r
   §fupgrade your rank to get more slots!
-  §c>> §fhttps://store.skykingdoms.net
+  §c>> §7https://store.skykingdoms.net
