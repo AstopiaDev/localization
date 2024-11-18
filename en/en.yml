@@ -1687,3 +1687,14 @@ kit_gui_no_addon_kit_lore: |-
   §fThis kit doesn't have any
   §fobtainable additional kits
 kit_gui: "Kits"
+
+
+# ======================
+#      Item Filter
+# ======================
+
+item_filter_gui_slot_locked_name: 'Slot locked!'
+item_filter_gui_slot_locked_lore: |-
+  §r
+  §cupgrade your rank to get more slots!
+  §f>> §chttps://store.skykingdoms.net
