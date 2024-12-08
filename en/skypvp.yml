@@ -99,3 +99,13 @@ skypvp_dimension_the_end: '§5The End'
 board_nearest_silverfish: '§fNearest Silverfish'
 board_true_damage: '§fTrue Damage: §c+%damage%%'
 board_dimension: '§fDimension: %dimension%'
+
+# ---------------------------------
+# Region
+# ---------------------------------
+skypvp_region_pvp_enter: "§cYou’ve entered a PvP Zone! Prepare for battle!"
+skypvp_region_pvp_enter_title: "§c§lPVP ZONE"
+skypvp_region_pvp_enter_subtitle: "§7You’re vulnerable now!"
+skypvp_region_spawn_enter: "§aYou’ve entered a Safe Zone. Relax and regroup!"
+skypvp_region_spawn_enter_title: "§a§lSAFE ZONE"
+skypvp_region_spawn_enter_subtitle: "§7You’re safe now!"
