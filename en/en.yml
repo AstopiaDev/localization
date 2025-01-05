@@ -79,6 +79,7 @@ main_lobby_sidebar: |-
   <dark_green><font:arbor:hud>Just testing!</font>
   <reset>
   <dark_green><font:arbor:hud>Hello player!</font>
+spawn_command_success: "<font:arbor:hud>WHOOSH- <white>Teleported back to the spawnpoint!"
 
 # =======================
 #         Scoreboards
