@@ -72,8 +72,13 @@ store_link_message: '§eRanks, Crates and more: §b$store_link$'
 error_prefix: '§4[Error]:'
 
 # =======================
-#        Spectators
+#        Main Lobby
 # =======================
+main_lobby_siderbar_title: "<font:arbor:hud>Main Lobby</font>"
+main_lobby_sidebar: |-
+  <dark_green><font:arbor:hud>Just testing!</font>
+  <reset>
+  <dark_green><font:arbor:hud>Hello player!</font>
 
 # =======================
 #         Scoreboards
