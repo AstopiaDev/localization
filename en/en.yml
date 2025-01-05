@@ -2,6 +2,7 @@
 #         General
 # =======================
 global_server_chat: "%display_name%<white>: %message%"
+spawn_exit_attempt: "<red>You can't leave the map!"
 
 prefix: '§b§lSKY§6§lKINGDOMS §8§L> §7'
 discord_link: 'https://discord.gg/WtnPaBuZpK'
