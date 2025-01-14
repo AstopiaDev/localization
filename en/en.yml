@@ -74,12 +74,12 @@ error_prefix: '§4[Error]:'
 # =======================
 #        Main Lobby
 # =======================
-main_lobby_sidebar_title: "Main Lobby"
-main_lobby_sidebar: |-
-  <reset>
-  <reset>
-modern_main_lobby_sidebar_title: "<font:arbor:hud>Main Lobby</font>"
-modern_main_lobby_sidebar: |
+#main_lobby_sidebar_title: "Main Lobby"
+#main_lobby_sidebar: |-
+#  <reset>
+#  <reset>
+main_lobby_sidebar_title: "<font:arbor:hud>Main Lobby</font>"
+main_lobby_sidebar: |
   <reset>
   <font:arbor:hud>User: <gray><player:name><gray/></font>
   <reset>
