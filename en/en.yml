@@ -74,9 +74,14 @@ error_prefix: '§4[Error]:'
 # =======================
 #        Main Lobby
 # =======================
-main_lobby_sidebar_title: "<font:arbor:hud>Main Lobby</font>"
+main_lobby_sidebar_title: "Main Lobby"
 main_lobby_sidebar: |-
-  <dark_green><font:arbor:hud>Just testing!</font>
+  <reset>
+  <reset>
+modern_main_lobby_sidebar_title: "<font:arbor:hud>Main Lobby</font>"
+modern_main_lobby_sidebar: |
+  <reset>
+  <font:arbor:hud>User: <gray><player:name><gray/></font>
   <reset>
   <dark_green><font:arbor:hud>Hello player!</font>
 spawn_command_success: "<font:arbor:hud><green>TELEPORTED BACK TO THE SPAWNPOINT!"
