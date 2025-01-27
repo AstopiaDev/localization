@@ -78,10 +78,11 @@ main_lobby_sidebar_title: "Main Lobby"
 main_lobby_sidebar: |-
   <reset>
   <reset>
+  Je res ja
 modern_main_lobby_sidebar_title: "<font:arbor:hud>Main Lobby</font>"
 modern_main_lobby_sidebar: |-
   <reset>
-  <font:arbor:hud>User: soon
+  <font:arbor:hud>User
   <reset>
   <font:arbor:hud>Hello player!</font>
 spawn_command_success: "<font:arbor:hud><green>TELEPORTED BACK TO THE SPAWNPOINT!"
