@@ -22,7 +22,7 @@ motd_alpha: |-
     §7                     §6ALPHA-SERVER
 motd_not_connected: |-
     §7               §6Sky Kingdoms §3[1.8-1.20]
-    §7                      §cTechnical issues
+    §7                      §cTechnical issues!
 core_not_connected: |-
   §cThe main game Coordinator has disconnected :(
   §f
