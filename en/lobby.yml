@@ -479,18 +479,21 @@ lobby_gui_myprofile_catstore_lore_2: |-
 
 # Bossbar messages in the main lobby
 lobby_bossbar_messages: |-
-  §0§lS§8§lP§f§lO§8§lO§7§lK§0§lY §5§lS§c§lC§6§lA§0§lR§7§lY §f§lS§7§lK§8§lE§0§lL§f§lE§8§lT§7§lO§0§lN§7§lS!
-  §7§lS§8§lP§f§lO§8§lO§7§lK§0§lY §6§lS§4§lC§0§lA§7§lR§f§lY §f§lS§8§lK§7§lE§0§lL§8§lE§f§lT§7§lO§0§lN§8§lS!
-  §f§lS§0§lP§7§lO§8§lO§f§lK§0§lY §c§lS§7§lC§0§lA§8§lR§f§lY §7§lS§0§lK§8§lE§7§lL§f§lE§8§lT§0§lO§7§lN§8§lS!
-  §0§lS§7§lP§8§lO§f§lO§0§lK§8§lY §6§lS§7§lC§f§lA§0§lR§7§lY §8§lS§7§lK§f§lE§0§lL§8§lE§7§lT§f§lO§8§lN§7§lS!
-  §8§lS§7§lP§0§lO§f§lO§7§lK§0§lY §f§lS§0§lC§7§lA§8§lR§0§lY §7§lS§f§lK§0§lE§7§lL§8§lE§f§lT§0§lO§7§lN§8§lS!
-  §7§lS§f§lP§8§lO§0§lO§f§lK§0§lY §0§lS§f§lC§7§lA§0§lR§8§lY §f§lS§0§lK§8§lE§7§lL§0§lE§f§lT§8§lO§7§lN§0§lS!
-  §6§lH§e§lA§6§lL§e§lL§6§lO§e§lW§6§lE§e§lE§6§lN §e§lC§6§lR§e§lA§6§lT§e§lE§6§lS §e§lO§6§lU§e§lT §6§lN§e§lO§6§lW!
-  §e§lH§6§lA§e§lL§6§lL§e§lO§6§lW§e§lE§6§lE§e§lN §6§lC§e§lR§6§lA§e§lT§6§lE§e§lS §6§lO§e§lU§6§lT §e§lN§6§lO§e§lW!
-  §6§lH§e§lA§6§lL§e§lL§6§lO§e§lW§6§lE§e§lE§6§lN §e§lC§6§lR§e§lA§6§lT§e§lE§6§lS §e§lO§6§lU§e§lT §6§lN§e§lO§6§lW!
-  §e§lH§6§lA§e§lL§6§lL§e§lO§6§lW§e§lE§6§lE§e§lN §6§lC§e§lR§6§lA§e§lT§6§lE§e§lS §6§lO§e§lU§6§lT §e§lN§6§lO§e§lW!
-  §6§lH§e§lA§6§lL§e§lL§6§lO§e§lW§6§lE§e§lE§6§lN §e§lC§6§lR§e§lA§6§lT§e§lE§6§lS §e§lO§6§lU§e§lT §6§lN§e§lO§6§lW!
-  §e§lH§6§lA§e§lL§6§lL§e§lO§6§lW§e§lE§6§lE§e§lN §6§lC§e§lR§6§lA§e§lT§6§lE§e§lS §6§lO§e§lU§6§lT §e§lN§6§lO§e§lW!
+  §d§lYOU §5§lARE §d§lLOVED§5§l! §c§l<3
+  §5§lYOU §d§lARE §5§lLOVED§d§l! §4§l<3
+  §d§lYOU §5§lARE §d§lLOVED§5§l! §c§l<3
+  §5§lYOU §d§lARE §5§lLOVED§d§l! §4§l<3
+#  §7§lS§8§lP§f§lO§8§lO§7§lK§0§lY §6§lS§4§lC§0§lA§7§lR§f§lY §f§lS§8§lK§7§lE§0§lL§8§lE§f§lT§7§lO§0§lN§8§lS!
+#  §f§lS§0§lP§7§lO§8§lO§f§lK§0§lY §c§lS§7§lC§0§lA§8§lR§f§lY §7§lS§0§lK§8§lE§7§lL§f§lE§8§lT§0§lO§7§lN§8§lS!
+#  §0§lS§7§lP§8§lO§f§lO§0§lK§8§lY §6§lS§7§lC§f§lA§0§lR§7§lY §8§lS§7§lK§f§lE§0§lL§8§lE§7§lT§f§lO§8§lN§7§lS!
+#  §8§lS§7§lP§0§lO§f§lO§7§lK§0§lY §f§lS§0§lC§7§lA§8§lR§0§lY §7§lS§f§lK§0§lE§7§lL§8§lE§f§lT§0§lO§7§lN§8§lS!
+#  §7§lS§f§lP§8§lO§0§lO§f§lK§0§lY §0§lS§f§lC§7§lA§0§lR§8§lY §f§lS§0§lK§8§lE§7§lL§0§lE§f§lT§8§lO§7§lN§0§lS!
+#  §6§lH§e§lA§6§lL§e§lL§6§lO§e§lW§6§lE§e§lE§6§lN §e§lC§6§lR§e§lA§6§lT§e§lE§6§lS §e§lO§6§lU§e§lT §6§lN§e§lO§6§lW!
+#  §e§lH§6§lA§e§lL§6§lL§e§lO§6§lW§e§lE§6§lE§e§lN §6§lC§e§lR§6§lA§e§lT§6§lE§e§lS §6§lO§e§lU§6§lT §e§lN§6§lO§e§lW!
+#  §6§lH§e§lA§6§lL§e§lL§6§lO§e§lW§6§lE§e§lE§6§lN §e§lC§6§lR§e§lA§6§lT§e§lE§6§lS §e§lO§6§lU§e§lT §6§lN§e§lO§6§lW!
+#  §e§lH§6§lA§e§lL§6§lL§e§lO§6§lW§e§lE§6§lE§e§lN §6§lC§e§lR§6§lA§e§lT§6§lE§e§lS §6§lO§e§lU§6§lT §e§lN§6§lO§e§lW!
+#  §6§lH§e§lA§6§lL§e§lL§6§lO§e§lW§6§lE§e§lE§6§lN §e§lC§6§lR§e§lA§6§lT§e§lE§6§lS §e§lO§6§lU§e§lT §6§lN§e§lO§6§lW!
+#  §e§lH§6§lA§e§lL§6§lL§e§lO§6§lW§e§lE§6§lE§e§lN §6§lC§e§lR§6§lA§e§lT§6§lE§e§lS §6§lO§e§lU§6§lT §e§lN§6§lO§e§lW!
 
 
 pack_lobby_bossbar_messages: |-
